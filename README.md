@@ -2,7 +2,6 @@
 **Relations de propriété entre les médias français et leurs principaux actionnaires**
 
 Données source de la carte suivante : https://www.monde-diplomatique.fr/cartes/PPA *(Dernière mise à jour : novembre 2017)*
-Conception : Jérémie Fabre / Documentation : Marie Beyer et Jérémie Fabre / Adaptation : Guillaume Barou, avec Boris Séméniako et Cécile Marin
 
 Les données sont organisées en deux tableaux :
 - [medias_francais.tsv](https://github.com/mdiplo/Medias_francais/blob/master/medias_francais.tsv) contient l’ensemble des actionnaires (personnes physiques ou morales) et des médias représentés sur la carte
