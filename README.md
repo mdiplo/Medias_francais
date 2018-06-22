@@ -3,11 +3,9 @@
 
 Données source de la carte suivante : https://www.monde-diplomatique.fr/cartes/PPA *(Dernière mise à jour : novembre 2017)*
 
-Conception : **Jérémie Fabre**
-
-Documentation : **Marie Beyer et Jérémie Fabre**
-
-Adaptation : **Guillaume Barou, avec Boris Séméniako et Cécile Marin**
+Conception : Jérémie Fabre
+Documentation : Marie Beyer et Jérémie Fabre
+Adaptation : Guillaume Barou, avec Boris Séméniako et Cécile Marin
 
 
 Les données sont organisées en deux tableaux :
