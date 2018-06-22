@@ -1,0 +1,295 @@
+source	target	value	source	datePublication	dateConsultation
+Claude Perdriel	Sophia Publications	50			
+Claude Perdriel	Groupe Perdriel	93			
+Sophia Publications	L'histoire	100	lemonde.fr	23/06/2016	22/10/2016
+Sophia Publications	Historia	100	strategies.fr	14/11/2014	28/06/2016
+Groupe Perdriel	Challenges	100	strategies.fr	14/11/2014	28/06/2016
+Groupe Perdriel	Sciences & Avenir	100	strategies.fr	14/11/2014	28/06/2016
+Prisa	Le Monde libre	20			
+Xavier Niel	Le Monde libre	40	https://fr.reuters.com/article/topNews/idFRKCN1BJ24Z-OFRTP	08/09/2017	
+Matthieu Pigasse	Le Monde libre	40	https://fr.reuters.com/article/topNews/idFRKCN1BJ24Z-OFRTP	08/09/2017	
+Le Monde libre	Le Monde SA	73	https://fr.reuters.com/article/topNews/idFRKCN1BJ24Z-OFRTP	08/09/2017	
+Le Monde libre	L'Obs	99	lefigaro.fr	23/11/2016	23/11/2016
+Le Monde SA	Prier	100	sdllemonde.fr et lemonde.fr	06/10/2017	14/05/2016 et 16/10/2017
+Le Monde SA	M, le magazine du Monde	100	sdllemonde.fr et lemonde.fr	06/10/2017	14/05/2016 et 16/10/2017
+Le Monde SA	Le Monde	100	sdllemonde.fr et lemonde.fr	06/10/2017	14/05/2016 et 16/10/2017
+Le Monde SA	Télérama	100	sdllemonde.fr et lemonde.fr	06/10/2017	14/05/2016 et 16/10/2017
+Le Monde SA	Courrier international	100	sdllemonde.fr et lemonde.fr	06/10/2017	14/05/2016 et 16/10/2017
+Le Monde SA	Le Monde des religions	100	sdllemonde.fr et lemonde.fr	06/10/2017	14/05/2016 et 16/10/2017
+Le Monde SA	La Vie	100	sdllemonde.fr et lemonde.fr	06/10/2017	14/05/2016 et 16/10/2017
+Le Monde SA	Le Monde diplomatique	51	sdllemonde.fr et lemonde.fr	06/10/2017	14/05/2016 et 16/10/2017
+Le Monde SA	Manière de voir	51	sdllemonde.fr et lemonde.fr	06/10/2017	14/05/2016 et 16/10/2017
+Le Monde SA	Huffingtonpost.fr	34	lexpress.fr	24/02/2015	10/07/2016
+Les Amis du Monde diplomatique	Le Monde diplomatique	24,5			
+Association Günter-Holzmann	Le Monde diplomatique	24,5			
+Les Amis du Monde diplomatique	Manière de voir	24,5			
+Association Günter-Holzmann	Manière de voir	24,5			
+Matthieu Pigasse	Les Nouvelles Éditions	78			
+AOL	Huffington Post	100			
+Huffington Post	Huffingtonpost.fr	51	lexpress.fr	24/02/2015	10/07/2016
+Les Nouvelles Éditions	Huffingtonpost.fr	11	lexpress.fr	24/02/2015	10/07/2016
+Les Nouvelles Éditions	Radio Nova	100	lesechos.fr	22/05/2015	14/05/2016
+Les Nouvelles Éditions	Les Inrockuptibles	100	lesechos.fr	22/05/2015	14/05/2016
+Les Nouvelles Éditions	Vice.com	<50	lemonde.fr	11/03/2016	10/07/2016
+Serge Dassault	Groupe Dassault	100			
+Groupe Dassault	Groupe Figaro	100			
+Groupe Figaro	Le Figaro	100	dassault.fr et offremedia.com	03/10/2017	14/05/2016 et 16/10/2017
+Groupe Figaro	Figaro Magazine	100	dassault.fr et offremedia.com	03/10/2017	14/05/2016 et 16/10/2017
+Groupe Figaro	Le Particulier	100	dassault.fr et offremedia.com	03/10/2017	14/05/2016 et 16/10/2017
+Groupe Figaro	La Lettre de l'Expansion	100	dassault.fr et offremedia.com	03/10/2017	14/05/2016 et 16/10/2017
+Bernard Arnault	LVMH	46,6			
+LVMH	Le Parisien	100	lvmh.fr	31/12/2015	28/06/2016
+LVMH	Le Parisien Magazine	100	lvmh.fr	31/12/2015	28/06/2016
+LVMH	Le Parisien économie	100	lvmh.fr	31/12/2015	28/06/2016
+LVMH	Aujourd'hui en France	100	lvmh.fr	31/12/2015	28/06/2016
+LVMH	Groupe Les Échos	100	lvmh.fr	31/12/2015	28/06/2016
+Groupe Les Échos	Les Échos	100	lvmh.fr	31/12/2015	28/06/2016
+Groupe Les Échos	Investir	100	lvmh.fr	31/12/2015	28/06/2016
+Groupe Les Échos	Investir Magazine	100	lvmh.fr	31/12/2015	28/06/2016
+Groupe Les Échos	Les Échos Week-End	100	lvmh.fr	31/12/2015	28/06/2016
+Groupe Les Échos	Radio Classique	100	lvmh.fr	31/12/2015	28/06/2016
+LVMH	L'Opinion	participe	challenges.fr	22/08/2014	14/05/2016
+Famille Bettencourt	L'Opinion	participe	challenges.fr	22/08/2014	14/05/2016
+Nicolas Beytout	L'Opinion	participe	challenges.fr	22/08/2014	14/05/2016
+Claude Perdriel	L'Opinion	participe	challenges.fr	22/08/2014	14/05/2016
+Patrick Drahi	Altice	61			
+Altice	SFR Groupe	78			
+SFR Groupe	L'Express	100	linformaticien.com	25/11/2015	28/06/2016
+SFR Groupe	Libération	100	linformaticien.com	25/11/2015	28/06/2016
+SFR Groupe	News Participations	49			
+Alain Weill	News Participations	51			
+News Participations	NextRadioTV	95			
+NextRadioTV	BFM TV	100	investir.lesechos.fr	02/02/2016	14/05/2016
+NextRadioTV	RMC Découverte	100	investir.lesechos.fr	02/02/2016	14/05/2016
+NextRadioTV	RMC	100	investir.lesechos.fr	02/02/2016	14/05/2016
+NextRadioTV	BFM Business	100	investir.lesechos.fr	02/02/2016	14/05/2016
+NextRadioTV	Numéro 23	39	ouest-france.fr et actu-medias.com	13/04/2016	14/05/2016
+Pascal Houzelot	Numéro 23	61	ouest-france.fr et actu-medias.com	13/04/2016	14/05/2016
+Arnaud Lagardère	Lagardère SCA	7,96			
+Qatar Investment Authority	Lagardère SCA	12,83			
+Lagardère SCA	Lagardère Active	100			
+Lagardère Active	Le Journal du dimanche	100	lagardere.com	31/12/2015	14/05/2016
+Lagardère Active	Paris Match	100	lagardere.com	31/12/2015	14/05/2016
+Lagardère Active	Gulli	100	lagardere.com	31/12/2015	14/05/2016
+Lagardère Active	Europe 1	100	lagardere.com	31/12/2015	14/05/2016
+Lagardère Active	RFM	100	lagardere.com	31/12/2015	14/05/2016
+Lagardère Active	Virgin Radio	100	lagardere.com	31/12/2015	14/05/2016
+Vincent Bolloré	Financière de l'Odet	49,77			
+Financière de l'Odet	Bolloré	64,4			
+Bolloré	CNews matin	100	bollore.com, vivendi.com et ozap.com	31/12/2015, 21/04/2017 et 31/12/2015	28/06/2016 et 10/10/2016
+Bolloré	Vivendi	20,65	bollore.com, vivendi.com et ozap.com	31/12/2015, 21/04/2017 et 31/12/2015	28/06/2016 et 10/10/2016
+Vivendi	Canal +	100	bollore.com, vivendi.com et ozap.com	31/12/2015, 21/04/2017 et 31/12/2015	28/06/2016 et 10/10/2016
+Vivendi	C8	100	bollore.com, vivendi.com et ozap.com	31/12/2015, 21/04/2017 et 31/12/2015	28/06/2016 et 10/10/2016
+Vivendi	CNews	100	bollore.com, vivendi.com et ozap.com	31/12/2015, 21/04/2017 et 31/12/2015	28/06/2016 et 10/10/2016
+Vivendi	CStar	100	bollore.com, vivendi.com et ozap.com	31/12/2015, 21/04/2017 et 31/12/2015	28/06/2016 et 10/10/2016
+Iskandar Safa	Privinvest	100			
+Privinvest	Groupe Valmonde	>50			
+Groupe Valmonde	Valeurs actuelles	100	ozap.com	15/06/2017	16/10/2017
+Groupe Valmonde	Mieux vivre votre argent	100	ozap.com	15/06/2017	16/10/2017
+Yves de Chaisemartin	Marianne	86	Correspondance de la presse	19/12/2016	19/12/2016
+François Pinault	Artémis	100			
+Artémis	Groupe Sebdo-Le Point	100			
+Artémis	Groupe L'Agefi	100			
+Artémis	Point de vue	100	Pressenews.fr	22/11/2017	23/11/2017
+Groupe Sebdo-Le Point	Le Point	100	groupeartemis.com et agefi.fr		28/06/2016
+Groupe L'Agefi	L'Agefi hebdo	100	groupeartemis.com et agefi.fr		28/06/2016
+Famille Mohn	Bertelsmann	contrôle			
+Bertelsmann	Gruner + Jahr	100			
+Bertelsmann	RTL Group	75			
+Gruner + Jahr	Prisma Media	100			
+Prisma Media	VSD	100	investir.lesechos.fr	06/10/2014	14/05/2016
+Prisma Media	Capital	100	investir.lesechos.fr	06/10/2014	14/05/2016
+Prisma Media	Management	100	investir.lesechos.fr	06/10/2014	14/05/2016
+Prisma Media	Harvard Business Review	100	investir.lesechos.fr	06/10/2014	14/05/2016
+RTL Group	Groupe M6	48			
+Groupe M6	M6	100	zonebourse.com et AFP	... et 04/09/2017	14/05/2016 et 14/11/2017
+Groupe M6	W9	100	zonebourse.com et AFP	... et 04/09/2017	14/05/2016 et 14/11/2017
+Groupe M6	6ter	100	zonebourse.com et AFP	... et 04/09/2017	14/05/2016 et 14/11/2017
+Groupe M6	RTL	100	zonebourse.com et AFP	... et 04/09/2017	14/05/2016 et 14/11/2017
+Groupe M6	RTL2	100	zonebourse.com et AFP	... et 04/09/2017	14/05/2016 et 14/11/2017
+Groupe M6	Fun Radio	100	zonebourse.com et AFP	... et 04/09/2017	14/05/2016 et 14/11/2017
+Martin et Olivier Bouygues	Bouygues	20			
+Bouygues	Groupe TF1	44			
+Groupe TF1	TF1	100	bouygues.com et groupe-tf1.fr et votreargent.lexpress.fr	31/12/2016 et 31/12/2014 et 06/01/2015	28/06/2016
+Groupe TF1	NT1	100	bouygues.com et groupe-tf1.fr et votreargent.lexpress.fr	31/12/2016 et 31/12/2014 et 06/01/2015	28/06/2016
+Groupe TF1	LCI	100	bouygues.com et groupe-tf1.fr et votreargent.lexpress.fr	31/12/2016 et 31/12/2014 et 06/01/2015	28/06/2016
+Groupe TF1	HD1	100	bouygues.com et groupe-tf1.fr et votreargent.lexpress.fr	31/12/2016 et 31/12/2014 et 06/01/2015	28/06/2016
+Groupe TF1	TMC	100	bouygues.com	09/06/2016	28/06/2016
+République française	Renault	15			
+Renault	Groupe Perdriel	40			
+République française	La Chaîne parlementaire	100			
+République française	Public Sénat	100			
+République française	France Médias Monde	100			
+République française	France Télévision	100			
+République française	Radio France	100			
+République française	Arte France	100			
+France Médias Monde	Monte Carlo Doualiya	100			
+France Médias Monde	Radio France International	100			
+France Médias Monde	France 24	100			
+France Médias Monde	TV5 Monde	13			
+France Télévision	TV5 Monde	49			
+France Télévision	France 2	100			
+France Télévision	France 3	100			
+France Télévision	France 5	100			
+France Télévision	France 4	100			
+France Télévision	France Ô	100			
+France Télévision	France info	contrôle			
+Radio France	France Inter	100			
+Radio France	France Musique	100			
+Radio France	France Culture	100			
+Radio France	FIP	100			
+Radio France	France Bleu	100			
+Radio France	France Info	100			
+Radio France	Mouv'	100			
+Radio France	France info	contrôle			
+Arte France	Arte	50			
+République fédérale d'Allemagne	ARD / ZDF	contrôle			
+ARD / ZDF	Arte Deutschland TV GmbH	50			
+Arte Deutschland TV GmbH	Arte	50			
+Les Augustins de l'Assomption	Bayard	100			
+Bayard	La Croix	100			
+Bayard	Pèlerin	100			
+Bayard	Notre temps	100			
+Jean-Paul Baudecroux	NRJ Group	79,1			
+NRJ Group	NRJ 12	100	nrjgroup.fr	31/12/2015	16/05/2016
+NRJ Group	Chérie 25	100	nrjgroup.fr	31/12/2015	16/05/2016
+NRJ Group	NRJ	100	nrjgroup.fr	31/12/2015	16/05/2016
+NRJ Group	Rire et Chansons	100	nrjgroup.fr	31/12/2015	16/05/2016
+NRJ Group	Chérie FM	100	nrjgroup.fr	31/12/2015	16/05/2016
+NRJ Group	Nostalgie	100	nrjgroup.fr	31/12/2015	16/05/2016
+Famille Hutin	Association pour le soutien des principes de la démocratie humaniste	contrôle			
+Association pour le soutien des principes de la démocratie humaniste	Groupe SIPA - Ouest	100			
+Groupe SIPA - Ouest	Ouest France	100	hebdoscom.com et precom.fr		28/06/2016
+Groupe SIPA - Ouest	Le Courrier de l'Ouest	100	hebdoscom.com et precom.fr		28/06/2016
+Groupe SIPA - Ouest	Le Maine libre	100	hebdoscom.com et precom.fr		28/06/2016
+Groupe SIPA - Ouest	Presse-Océan	100	hebdoscom.com et precom.fr		28/06/2016
+Groupe SIPA - Ouest	La Presse de la Manche	100	hebdoscom.com et precom.fr		28/06/2016
+Groupe SIPA - Ouest	Publi Hebdos	100	publihebdos.com		04/05/2016
+Groupe SIPA - Ouest	Sofiouest	40			
+Sofiouest	20 Minutes	50	cbnews.fr et lavoixdunord.fr	07/01/2016 et 20/06/2015	05/05/2016
+Famille Hurbain	Groupe Rossel	contrôle			
+Groupe Rossel	Groupe Rossel La Voix	73			
+Crédit Agricole Nord de France	Groupe Rossel La Voix	25			
+Groupe Rossel La Voix	20 Minutes	49	cbnews.fr et lavoixdunord.fr	07/01/2016 et 20/06/2015	05/05/2016
+Groupe Rossel La Voix	La Voix du Nord SA	96			
+La Voix du Nord SA	La Voix du Nord	100	latribune.fr et rossel-lavoix.fr	11/01/2016 et 04/09/2013	28/06/2016
+La Voix du Nord SA	Nord éclair	100	latribune.fr et rossel-lavoix.fr	11/01/2016 et 04/09/2013	28/06/2016
+La Voix du Nord SA	Nord Littoral	100	latribune.fr et rossel-lavoix.fr	11/01/2016 et 04/09/2013	28/06/2016
+La Voix du Nord SA	Courrier picard	100	latribune.fr et rossel-lavoix.fr	11/01/2016 et 04/09/2013	28/06/2016
+La Voix du Nord SA	L'aisne Nouvelle	100	latribune.fr et rossel-lavoix.fr	11/01/2016 et 04/09/2013	28/06/2016
+La Voix du Nord SA	L'Union - L'Ardennais	100	latribune.fr et rossel-lavoix.fr	11/01/2016 et 04/09/2013	28/06/2016
+La Voix du Nord SA	L'Est-éclair - Libération Champagne	100	latribune.fr et rossel-lavoix.fr	11/01/2016 et 04/09/2013	28/06/2016
+La Voix du Nord SA	L'Avenir de l'Artois	100	latribune.fr et rossel-lavoix.fr	11/01/2016 et 04/09/2013	28/06/2016
+La Voix du Nord SA	Les Echos du Touquet	100	latribune.fr et rossel-lavoix.fr	11/01/2016 et 04/09/2013	28/06/2016
+La Voix du Nord SA	Le Journal des Flandres	100	latribune.fr et rossel-lavoix.fr	11/01/2016 et 04/09/2013	28/06/2016
+La Voix du Nord SA	Le Messager	100	latribune.fr et rossel-lavoix.fr	11/01/2016 et 04/09/2013	28/06/2016
+La Voix du Nord SA	L'Essor savoyard	100	latribune.fr et rossel-lavoix.fr	11/01/2016 et 04/09/2013	28/06/2016
+La Voix du Nord SA	Le Pays gessien	100	latribune.fr et rossel-lavoix.fr	11/01/2016 et 04/09/2013	28/06/2016
+La Voix du Nord SA	La Tribune républicaine	100	latribune.fr et rossel-lavoix.fr	11/01/2016 et 04/09/2013	28/06/2016
+La Voix du Nord SA	La Savoie	100	latribune.fr et rossel-lavoix.fr	11/01/2016 et 04/09/2013	28/06/2016
+La Voix du Nord SA	Le Phare Dunkerquois	100	latribune.fr et rossel-lavoix.fr	11/01/2016 et 04/09/2013	28/06/2016
+La Voix du Nord SA	La Semaine dans le Boulonnais	100	latribune.fr et rossel-lavoix.fr	11/01/2016 et 04/09/2013	28/06/2016
+La Voix du Nord SA	Le Réveil de Berck	100	latribune.fr et rossel-lavoix.fr	11/01/2016 et 04/09/2013	28/06/2016
+La Voix du Nord SA	Le Journal de Montreuil	100	latribune.fr et rossel-lavoix.fr	11/01/2016 et 04/09/2013	28/06/2016
+La Voix du Nord SA	L'indicateur	100	latribune.fr et rossel-lavoix.fr	11/01/2016 et 04/09/2013	28/06/2016
+La Voix du Nord SA	L'Echo de la Lys	100	latribune.fr et rossel-lavoix.fr	11/01/2016 et 04/09/2013	28/06/2016
+Crédit Mutuel	Groupe EBRA	100			
+Groupe EBRA	L'Est républicain	100	ebra.fr	2009	04/05/2016
+Groupe EBRA	Le Républicain lorrain	100	ebra.fr	2009	04/05/2016
+Groupe EBRA	DNA	100	ebra.fr	2009	04/05/2016
+Groupe EBRA	Vosges Matin	100	ebra.fr	2009	04/05/2016
+Groupe EBRA	L'Alsace	100	ebra.fr	2009	04/05/2016
+Groupe EBRA	Le Bien public	100	ebra.fr	2009	04/05/2016
+Groupe EBRA	Le Journal de Saône-et-Loire	100	ebra.fr	2009	04/05/2016
+Groupe EBRA	Le Progrès	100	ebra.fr	2009	04/05/2016
+Groupe EBRA	Le Dauphiné libéré	100	ebra.fr	2009	04/05/2016
+Groupe EBRA	Vaucluse Matin	100	ebra.fr	2009	04/05/2016
+Groupe EBRA	Le Journal de la Haute-Marne	50	wikipedia.org		04/05/2016
+Fondation Varenne	Groupe La Montagne	>50			
+Groupe La Montagne	La Montagne	100	lamontagne.fr		04/05/2016
+Groupe La Montagne	Le Populaire du centre	100	lamontagne.fr		04/05/2016
+Groupe La Montagne	Le Journal du centre	100	lamontagne.fr		04/05/2016
+Groupe La Montagne	Le Berry républicain	100	lamontagne.fr		04/05/2016
+Groupe La Montagne	L’Yonne Républicaine	100	lamontagne.fr		04/05/2016
+Groupe La Montagne	L’Echo Républicain	100	lamontagne.fr		04/05/2016
+Groupe La Montagne	Courrier du Loiret	100	lamontagne.fr		04/05/2016
+Groupe La Montagne	L’Eclaireur du Gâtinais	100	lamontagne.fr		04/05/2016
+Groupe La Montagne	Régional de Cosne	100	lamontagne.fr		04/05/2016
+Groupe La Montagne	L’Echo Charitois	100	lamontagne.fr		04/05/2016
+Groupe La Montagne	Pays Roannais	100	lamontagne.fr		04/05/2016
+Groupe La Montagne	La Liberté	100	lamontagne.fr		04/05/2016
+Groupe La Montagne	Journal de Gien	100	lamontagne.fr		04/05/2016
+Groupe La Montagne	La République du Centre	70	docpresse.esj-lille.fr	22/03/2012	30/06/2016
+Groupe La Montagne	Groupe NRCO	16			
+Famille Saint-Cricq	Groupe NRCO	15			
+Groupe NRCO	La République du Centre	30	docpresse.esj-lille.fr	22/03/2012	30/06/2016
+Groupe NRCO	Nouvelle République du Centre	100	lesechos.fr	04/01/2012	05/05/2016
+Groupe NRCO	Centre Presse	100	wikipedia.org		05/05/2016
+Groupe NRCO	TV Tours	40	wikipedia.org		05/05/2016
+Famille Baylet	Groupe La Dépêche	82,5			
+Groupe La Dépêche	La Dépêche du midi	100	strategies.fr et ladepeche-diffusion.com	10/12/2010	26/11/2016 et 05/05/2016
+Groupe La Dépêche	Le Petit Bleu	100	strategies.fr et ladepeche-diffusion.com	10/12/2010	26/11/2016 et 05/05/2016
+Groupe La Dépêche	La Nouvelle République des Pyrénées	100	strategies.fr et ladepeche-diffusion.com	10/12/2010	26/11/2016 et 05/05/2016
+Groupe La Dépêche	Le Villefranchois	100	strategies.fr et ladepeche-diffusion.com	10/12/2010	26/11/2016 et 05/05/2016
+Groupe La Dépêche	La Gazette du Comminges	100	strategies.fr et ladepeche-diffusion.com	10/12/2010	26/11/2016 et 05/05/2016
+Groupe La Dépêche	Les Journaux du midi	100			
+Les Journaux du midi	Midi libre	100	ladepeche.fr	27/06/2015	05/05/2016
+Les Journaux du midi	L'Indépendant	100	ladepeche.fr	27/06/2015	05/05/2016
+Les Journaux du midi	Centre Presse Aveyron	100	ladepeche.fr	27/06/2015	05/05/2016
+Famille Lemoine	Groupe Sud Ouest	80			
+Groupe Sud Ouest	Sud Ouest	100	groupesudouest.com et lefigaro.fr	non daté et 26/02/2013	05/05/2016
+Groupe Sud Ouest	Charente Libre	100	groupesudouest.com et lefigaro.fr	non daté et 26/02/2013	05/05/2016
+Groupe Sud Ouest	Dordogne Libre	100	groupesudouest.com et lefigaro.fr	non daté et 26/02/2013	05/05/2016
+Groupe Sud Ouest	Haute Saintonge	100	groupesudouest.com et lefigaro.fr	non daté et 26/02/2013	05/05/2016
+Groupe Sud Ouest	Haute Gironde	100	groupesudouest.com et lefigaro.fr	non daté et 26/02/2013	05/05/2016
+Groupe Sud Ouest	Le Résistant	100	groupesudouest.com et lefigaro.fr	non daté et 26/02/2013	05/05/2016
+Groupe Sud Ouest	L'Hebdo de Charente-Maritime	100	groupesudouest.com et lefigaro.fr	non daté et 26/02/2013	05/05/2016
+Groupe Sud Ouest	La Dépêche du Bassin	100	groupesudouest.com et lefigaro.fr	non daté et 26/02/2013	05/05/2016
+Groupe Sud Ouest	Le Journal du Médoc	100	groupesudouest.com et lefigaro.fr	non daté et 26/02/2013	05/05/2016
+Groupe Sud Ouest	Pyrénées Presse	100	groupesudouest.com et lefigaro.fr	non daté et 26/02/2013	05/05/2016
+Pyrénées Presse	La République des Pyrénées	100	groupesudouest.com et lefigaro.fr	non daté et 26/02/2013	05/05/2016
+Pyrénées Presse	L'Eclair	100	groupesudouest.com et lefigaro.fr	non daté et 26/02/2013	05/05/2016
+Édouard Coudurier	Groupe Télégramme	contrôle			
+Groupe Télégramme	Le Télégramme	100	groupe-telegramme.com		05/05/2016
+Groupe Télégramme	Le Poher	100	groupe-telegramme.com		05/05/2016
+Groupe Télégramme	Tébéo	100	groupe-telegramme.com		05/05/2016
+Groupe Télégramme	Tébésud	100	groupe-telegramme.com		05/05/2016
+Groupe Télégramme	Le Mensuel de Rennes	100	groupe-telegramme.com		05/05/2016
+Groupe Télégramme	Sept Jours à Brest	100	groupe-telegramme.com		05/05/2016
+Groupe Télégramme	Le Journal des entreprises	100	groupe-telegramme.com		05/05/2016
+Groupe Télégramme	Bretagne magazine	50	groupe-telegramme.com		05/05/2016
+Bernard Tapie	Groupe La Provence	89			
+Nethys	Groupe La Provence	11			
+Nethys	Nice-Matin	20	lesechos.fr	10/05/2016	28/06/2016
+Groupe La Provence	Corse Matin	100	lesechos.fr	30/10/2015	06/05/2016
+Groupe La Provence	La Provence	100	lesechos.fr	30/10/2015	06/05/2016
+Xavier Ellie	Société Normande d'Information et de Communication	100			
+Société Normande d'Information et de Communication	Paris-Normandie	100	lesechos.fr et wikipedia.org	05/04/2016	06/05/2016
+Société Normande d'Information et de Communication	Havre Libre	100	lesechos.fr et wikipedia.org	05/04/2016	06/05/2016
+Société Normande d'Information et de Communication	Le Progrès de Fécamp	100	lesechos.fr et wikipedia.org	05/04/2016	06/05/2016
+Société Normande d'Information et de Communication	Liberté Dimanche	100	lesechos.fr et wikipedia.org	05/04/2016	06/05/2016
+Société Normande d'Information et de Communication	Havre Dimanche	100	lesechos.fr et wikipedia.org	05/04/2016	06/05/2016
+Société Normande d'Information et de Communication	Normandie Dimanche	100	lesechos.fr et wikipedia.org	05/04/2016	06/05/2016
+Philippe Hersant	Éditions Suisses Holding	100			
+Philippe Hersant	Groupe Hersant Média	100			
+Éditions Suisses Holding	Groupe Filanosa	>50			
+Éditions Suisses Holding	Rhône Média	>50			
+Groupe Filanosa	La Côte (Nyon)	100	syndicom.ch	16/03/2015	06/05/2016
+Groupe Filanosa	L'Express (Neuchâtel)	100	syndicom.ch	16/03/2015	06/05/2016
+Groupe Filanosa	L'Impartial (La Chaux-de-Fonds)	100	syndicom.ch	16/03/2015	06/05/2016
+Rhône Média	Le Nouvelliste	100	syndicom.ch	16/03/2015	06/05/2016
+Rhône Média	La Gazette de Martigny	100	syndicom.ch	16/03/2015	06/05/2016
+Rhône Média	Le Journal de Sierre	100	syndicom.ch	16/03/2015	06/05/2016
+Groupe Hersant Média	France Antilles	100	wikipedia.org		06/05/2016
+Groupe Hersant Média	France Guyane	100	wikipedia.org		06/05/2016
+Abdoul Cadjee	Le Journal de l'Île de la Réunion	>50	ipreunion.com	28/01/2016	21/10/2017
+Benjamin et Ariane de Rothschild	Lampsane Investissement SA	contrôle			
+Lampsane Investissement SA	Slate.fr	>50	bilan.ch	18/08/2017	16/10/2017
+Jean-Sébastien Ferjou	Atlantico.fr	>50	cbnews.fr	18/09/2012	10/07/2016
+Pierre Guyot	Atlantico.fr	>50	cbnews.fr	18/09/2012	10/07/2016
+Gérard Lignac	Atlantico.fr	>50	cbnews.fr	18/09/2012	10/07/2016
+Franck Julien	Edi Invest	contrôle			
+Edi Invest	Hima Groupe	37,4			
+Jean Christophe Tortora	Hima Groupe	17			
+Laurent Alexandre	Hima Groupe	28			
+Hima Groupe	La Tribune	contrôle	lefigaro.fr	15/12/2016	04/03/2017

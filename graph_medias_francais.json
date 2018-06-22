@@ -1,0 +1,2732 @@
+{
+	"noeuds": [
+	{
+		"id": "Claude Perdriel",
+		"group": 1
+	},
+	{
+		"id": "Sophia Publications",
+		"group": 2
+	},
+	{
+		"id": "Lhistoire",
+		"group": 3
+	},
+	{
+		"id": "Historia",
+		"group": 3
+	},
+	{
+		"id": "Challenges",
+		"group": 3
+	},
+	{
+		"id": "Sciences & Avenir",
+		"group": 3
+	},
+	{
+		"id": "LOpinion",
+		"group": 3
+	},
+	{
+		"id": "Prisa",
+		"group": 2
+	},
+	{
+		"id": "Xavier Niel",
+		"group": 1
+	},
+	{
+		"id": "Matthieu Pigasse",
+		"group": 1
+	},
+	{
+		"id": "Le Monde libre",
+		"group": 2
+	},
+	{
+		"id": "Le Monde SA",
+		"group": 1
+	},
+	{
+		"id": "LObs",
+		"group": 3
+	},
+	{
+		"id": "Prier",
+		"group": 3
+	},
+	{
+		"id": "M, le magazine du Monde",
+		"group": 3
+	},
+	{
+		"id": "Le Monde",
+		"group": 3
+	},
+	{
+		"id": "Télérama",
+		"group": 3
+	},
+	{
+		"id": "Courrier international",
+		"group": 3
+	},
+	{
+		"id": "Le Monde des religions",
+		"group": 3
+	},
+	{
+		"id": "La Vie",
+		"group": 3
+	},
+	{
+		"id": "Le Monde diplomatique",
+		"group": 3
+	},
+	{
+		"id": "Manière de voir",
+		"group": 3
+	},
+	{
+		"id": "Huffingtonpost.fr",
+		"group": 3
+	},
+	{
+		"id": "AOL",
+		"group": 2
+	},
+	{
+		"id": "Huffington Post",
+		"group": 2
+	},
+	{
+		"id": "Les Nouvelles Éditions",
+		"group": 2
+	},
+	{
+		"id": "Radio Nova",
+		"group": 3
+	},
+	{
+		"id": "Les Inrockuptibles",
+		"group": 3
+	},
+	{
+		"id": "Vice.com",
+		"group": 3
+	},
+	{
+		"id": "Les Amis du Monde diplomatique",
+		"group": 2
+	},
+	{
+		"id": "Association Günter-Holzmann",
+		"group": 2
+	},
+	{
+		"id": "Serge Dassault",
+		"group": 1
+	},
+	{
+		"id": "Groupe Dassault",
+		"group": 2
+	},
+	{
+		"id": "Groupe Figaro",
+		"group": 2
+	},
+	{
+		"id": "Le Figaro",
+		"group": 3
+	},
+	{
+		"id": "Figaro Magazine",
+		"group": 3
+	},
+	{
+		"id": "Le Particulier",
+		"group": 3
+	},
+	{
+		"id": "La Lettre de lExpansion",
+		"group": 3
+	},
+	{
+		"id": "Bernard Arnault",
+		"group": 1
+	},
+	{
+		"id": "LVMH",
+		"group": 2
+	},
+	{
+		"id": "Le Parisien",
+		"group": 3
+	},
+	{
+		"id": "Le Parisien Magazine",
+		"group": 3
+	},
+	{
+		"id": "Le Parisien économie",
+		"group": 3
+	},
+	{
+		"id": "Aujourdhui en France",
+		"group": 3
+	},
+	{
+		"id": "Groupe Les Échos",
+		"group": 2
+	},
+	{
+		"id": "Les Échos",
+		"group": 3
+	},
+	{
+		"id": "Investir",
+		"group": 3
+	},
+	{
+		"id": "Investir Magazine",
+		"group": 3
+	},
+	{
+		"id": "Les Échos Week-End",
+		"group": 3
+	},
+	{
+		"id": "Radio Classique",
+		"group": 3
+	},
+	{
+		"id": "Famille Bettencourt",
+		"group": 1
+	},
+	{
+		"id": "Nicolas Beytout",
+		"group": 1
+	},
+	{
+		"id": "Patrick Drahi",
+		"group": 1
+	},
+	{
+		"id": "Altice",
+		"group": 2
+	},
+	{
+		"id": "SFR Groupe",
+		"group": 2
+	},
+	{
+		"id": "LExpress",
+		"group": 3
+	},
+	{
+		"id": "Libération",
+		"group": 3
+	},
+	{
+		"id": "News Participations",
+		"group": 2
+	},
+	{
+		"id": "Alain Weill",
+		"group": 1
+	},
+	{
+		"id": "NextRadioTV",
+		"group": 2
+	},
+	{
+		"id": "BFM TV",
+		"group": 3
+	},
+	{
+		"id": "RMC Découverte",
+		"group": 3
+	},
+	{
+		"id": "RMC",
+		"group": 3
+	},
+	{
+		"id": "BFM Business",
+		"group": 3
+	},
+	{
+		"id": "Numéro 23",
+		"group": 3
+	},
+	{
+		"id": "Pascal Houzelot",
+		"group": 1
+	},
+	{
+		"id": "Arnaud Lagardère",
+		"group": 1
+	},
+	{
+		"id": "Qatar Investment Authority",
+		"group": 2
+	},
+	{
+		"id": "Lagardère SCA",
+		"group": 2
+	},
+	{
+		"id": "Lagardère Active",
+		"group": 2
+	},
+	{
+		"id": "Le Journal du dimanche",
+		"group": 3
+	},
+	{
+		"id": "Paris Match",
+		"group": 3
+	},
+	{
+		"id": "Gulli",
+		"group": 3
+	},
+	{
+		"id": "Europe 1",
+		"group": 3
+	},
+	{
+		"id": "RFM",
+		"group": 3
+	},
+	{
+		"id": "Virgin Radio",
+		"group": 3
+	},
+	{
+		"id": "Vincent Bolloré",
+		"group": 1
+	},
+	{
+		"id": "Financière de lOdet",
+		"group": 2
+	},
+	{
+		"id": "Bolloré",
+		"group": 2
+	},
+	{
+		"id": "CNews matin",
+		"group": 3
+	},
+	{
+		"id": "Vivendi",
+		"group": 2
+	},
+	{
+		"id": "Canal +",
+		"group": 3
+	},
+	{
+		"id": "C8",
+		"group": 3
+	},
+	{
+		"id": "CNews",
+		"group": 3
+	},
+	{
+		"id": "CStar",
+		"group": 3
+	},
+	{
+		"id": "Iskandar Safa",
+		"group": 1
+	},
+	{
+		"id": "Privinvest",
+		"group": 2
+	},
+	{
+		"id": "Groupe Valmonde",
+		"group": 2
+	},
+	{
+		"id": "Valeurs actuelles",
+		"group": 3
+	},
+	{
+		"id": "Mieux vivre votre argent",
+		"group": 3
+	},
+	{
+		"id": "Yves de Chaisemartin",
+		"group": 1
+	},
+	{
+		"id": "Marianne",
+		"group": 3
+	},
+	{
+		"id": "François Pinault",
+		"group": 1
+	},
+	{
+		"id": "Artémis",
+		"group": 2
+	},
+	{
+		"id": "Groupe Sebdo-Le Point",
+		"group": 2
+	},
+	{
+		"id": "Groupe LAgefi",
+		"group": 2
+	},
+	{
+		"id": "Point de vue",
+		"group": 3
+	},
+	{
+		"id": "Le Point",
+		"group": 3
+	},
+	{
+		"id": "LAgefi",
+		"group": 3
+	},
+	{
+		"id": "Famille Mohn",
+		"group": 1
+	},
+	{
+		"id": "Bertelsmann",
+		"group": 2
+	},
+	{
+		"id": "Gruner + Jahr",
+		"group": 2
+	},
+	{
+		"id": "RTL Group",
+		"group": 2
+	},
+	{
+		"id": "Prisma Media",
+		"group": 2
+	},
+	{
+		"id": "VSD",
+		"group": 3
+	},
+	{
+		"id": "Capital",
+		"group": 3
+	},
+	{
+		"id": "Management",
+		"group": 3
+	},
+	{
+		"id": "Harvard Business Review",
+		"group": 3
+	},
+	{
+		"id": "Groupe M6",
+		"group": 2
+	},
+	{
+		"id": "M6",
+		"group": 3
+	},
+	{
+		"id": "W9",
+		"group": 3
+	},
+	{
+		"id": "6ter",
+		"group": 3
+	},
+	{
+		"id": "RTL",
+		"group": 3
+	},
+	{
+		"id": "RTL2",
+		"group": 3
+	},
+	{
+		"id": "Fun Radio",
+		"group": 3
+	},
+	{
+		"id": "Martin et Olivier Bouygues",
+		"group": 1
+	},
+	{
+		"id": "Bouygues",
+		"group": 2
+	},
+	{
+		"id": "Groupe TF1",
+		"group": 2
+	},
+	{
+		"id": "TF1",
+		"group": 3
+	},
+	{
+		"id": "NT1",
+		"group": 3
+	},
+	{
+		"id": "LCI",
+		"group": 3
+	},
+	{
+		"id": "HD1",
+		"group": 3
+	},
+	{
+		"id": "TMC",
+		"group": 3
+	},
+	{
+		"id": "République française",
+		"group": 4
+	},
+	{
+		"id": "République fédérale dAllemagne",
+		"group": 4
+	},
+	{
+		"id": "Renault",
+		"group": 2
+	},
+	{
+		"id": "Groupe Perdriel",
+		"group": 2
+	},
+	{
+		"id": "La Chaîne parlementaire",
+		"group": 3
+	},
+	{
+		"id": "Public Sénat",
+		"group": 3
+	},
+	{
+		"id": "France Médias Monde",
+		"group": 2
+	},
+	{
+		"id": "France Télévision",
+		"group": 2
+	},
+	{
+		"id": "Radio France",
+		"group": 2
+	},
+	{
+		"id": "Arte France",
+		"group": 2
+	},
+	{
+		"id": "Monte Carlo Doualiya",
+		"group": 3
+	},
+	{
+		"id": "Radio France International",
+		"group": 3
+	},
+	{
+		"id": "France 24",
+		"group": 3
+	},
+	{
+		"id": "TV5 Monde",
+		"group": 3
+	},
+	{
+		"id": "France 2",
+		"group": 3
+	},
+	{
+		"id": "France 3",
+		"group": 3
+	},
+	{
+		"id": "France 5",
+		"group": 3
+	},
+	{
+		"id": "France 4",
+		"group": 3
+	},
+	{
+		"id": "France Ô",
+		"group": 3
+	},
+	{
+		"id": "France info",
+		"group": 3
+	},
+	{
+		"id": "France Inter",
+		"group": 3
+	},
+	{
+		"id": "France Musique",
+		"group": 3
+	},
+	{
+		"id": "France Culture",
+		"group": 3
+	},
+	{
+		"id": "FIP",
+		"group": 3
+	},
+	{
+		"id": "France Bleu",
+		"group": 3
+	},
+	{
+		"id": "France Info",
+		"group": 3
+	},
+	{
+		"id": "Mouv",
+		"group": 3
+	},
+	{
+		"id": "Arte",
+		"group": 3
+	},
+	{
+		"id": "ARD / ZDF",
+		"group": 2
+	},
+	{
+		"id": "Arte Deutschland TV GmbH",
+		"group": 2
+	},
+	{
+		"id": "Les Augustins de lAssomption",
+		"group": 2
+	},
+	{
+		"id": "Bayard",
+		"group": 2
+	},
+	{
+		"id": "La Croix",
+		"group": 3
+	},
+	{
+		"id": "Pèlerin",
+		"group": 3
+	},
+	{
+		"id": "Notre temps",
+		"group": 3
+	},
+	{
+		"id": "Jean-Paul Baudecroux",
+		"group": 1
+	},
+	{
+		"id": "NRJ Group",
+		"group": 2
+	},
+	{
+		"id": "NRJ 12",
+		"group": 3
+	},
+	{
+		"id": "Chérie 25",
+		"group": 3
+	},
+	{
+		"id": "NRJ",
+		"group": 3
+	},
+	{
+		"id": "Rire et Chansons",
+		"group": 3
+	},
+	{
+		"id": "Chérie FM",
+		"group": 3
+	},
+	{
+		"id": "Nostalgie",
+		"group": 3
+	},
+	{
+		"id": "Famille Hutin",
+		"group": 1
+	},
+	{
+		"id": "Famille Hurbain",
+		"group": 1
+	},
+	{
+		"id": "Crédit Agricole Nord de France",
+		"group": 2
+	},
+	{
+		"id": "Association pour le soutien des principes de la démocratie humaniste",
+		"group": 2
+	},
+	{
+		"id": "Groupe SIPA - Ouest",
+		"group": 2
+	},
+	{
+		"id": "Ouest France",
+		"group": 3
+	},
+	{
+		"id": "Le Courrier de lOuest",
+		"group": 3
+	},
+	{
+		"id": "Le Maine libre",
+		"group": 3
+	},
+	{
+		"id": "Presse-Océan",
+		"group": 3
+	},
+	{
+		"id": "La Presse de la Manche",
+		"group": 3
+	},
+	{
+		"id": "Publi Hebdos",
+		"group": 3
+	},
+	{
+		"id": "Sofiouest",
+		"group": 2
+	},
+	{
+		"id": "20 Minutes",
+		"group": 3
+	},
+	{
+		"id": "Groupe Rossel",
+		"group": 2
+	},
+	{
+		"id": "Groupe Rossel La Voix",
+		"group": 2
+	},
+	{
+		"id": "La Voix du Nord SA",
+		"group": 2
+	},
+	{
+		"id": "La Voix du Nord",
+		"group": 3
+	},
+	{
+		"id": "Nord éclair",
+		"group": 3
+	},
+	{
+		"id": "Nord Littoral",
+		"group": 3
+	},
+	{
+		"id": "Courrier picard",
+		"group": 3
+	},
+	{
+		"id": "Laisne Nouvelle",
+		"group": 3
+	},
+	{
+		"id": "LUnion - LArdennais",
+		"group": 3
+	},
+	{
+		"id": "LEst-éclair - Libération Champagne",
+		"group": 3
+	},
+	{
+		"id": "LAvenir de lArtois",
+		"group": 3
+	},
+	{
+		"id": "Les Echos du Touquet",
+		"group": 3
+	},
+	{
+		"id": "Le Journal des Flandres",
+		"group": 3
+	},
+	{
+		"id": "Le Messager",
+		"group": 3
+	},
+	{
+		"id": "LEssor savoyard",
+		"group": 3
+	},
+	{
+		"id": "Le Pays gessien",
+		"group": 3
+	},
+	{
+		"id": "La Tribune républicaine",
+		"group": 3
+	},
+	{
+		"id": "La Savoie",
+		"group": 3
+	},
+	{
+		"id": "Le Phare Dunkerquois",
+		"group": 3
+	},
+	{
+		"id": "La Semaine dans le Boulonnais",
+		"group": 3
+	},
+	{
+		"id": "Le Réveil de Berck",
+		"group": 3
+	},
+	{
+		"id": "Le Journal de Montreuil",
+		"group": 3
+	},
+	{
+		"id": "Lindicateur",
+		"group": 3
+	},
+	{
+		"id": "LEcho de la Lys",
+		"group": 3
+	},
+	{
+		"id": "Crédit Mutuel",
+		"group": 2
+	},
+	{
+		"id": "Groupe EBRA",
+		"group": 2
+	},
+	{
+		"id": "LEst républicain",
+		"group": 3
+	},
+	{
+		"id": "Le Républicain lorrain",
+		"group": 3
+	},
+	{
+		"id": "DNA",
+		"group": 3
+	},
+	{
+		"id": "Vosges Matin",
+		"group": 3
+	},
+	{
+		"id": "LAlsace",
+		"group": 3
+	},
+	{
+		"id": "Le Bien public",
+		"group": 3
+	},
+	{
+		"id": "Le Journal de Saône-et-Loire",
+		"group": 3
+	},
+	{
+		"id": "Le Progrès",
+		"group": 3
+	},
+	{
+		"id": "Le Dauphiné libéré",
+		"group": 3
+	},
+	{
+		"id": "Vaucluse Matin",
+		"group": 3
+	},
+	{
+		"id": "Le Journal de la Haute-Marne",
+		"group": 3
+	},
+	{
+		"id": "Fondation Varenne",
+		"group": 2
+	},
+	{
+		"id": "Famille Saint-Cricq",
+		"group": 1
+	},
+	{
+		"id": "Groupe La Montagne",
+		"group": 2
+	},
+	{
+		"id": "La Montagne",
+		"group": 3
+	},
+	{
+		"id": "Le Populaire du centre",
+		"group": 3
+	},
+	{
+		"id": "Le Journal du centre",
+		"group": 3
+	},
+	{
+		"id": "Le Berry républicain",
+		"group": 3
+	},
+	{
+		"id": "L’Yonne Républicaine",
+		"group": 3
+	},
+	{
+		"id": "L’Echo Républicain",
+		"group": 3
+	},
+	{
+		"id": "Courrier du Loiret",
+		"group": 3
+	},
+	{
+		"id": "L’Eclaireur du Gâtinais",
+		"group": 3
+	},
+	{
+		"id": "Régional de Cosne",
+		"group": 3
+	},
+	{
+		"id": "L’Echo Charitois",
+		"group": 3
+	},
+	{
+		"id": "Pays Roannais",
+		"group": 3
+	},
+	{
+		"id": "La Liberté",
+		"group": 3
+	},
+	{
+		"id": "Journal de Gien",
+		"group": 3
+	},
+	{
+		"id": "La République du Centre",
+		"group": 3
+	},
+	{
+		"id": "Groupe NRCO",
+		"group": 2
+	},
+	{
+		"id": "Nouvelle République du Centre",
+		"group": 3
+	},
+	{
+		"id": "Centre Presse",
+		"group": 3
+	},
+	{
+		"id": "TV Tours",
+		"group": 3
+	},
+	{
+		"id": "Famille Baylet",
+		"group": 1
+	},
+	{
+		"id": "Groupe La Dépêche",
+		"group": 2
+	},
+	{
+		"id": "La Dépêche du midi",
+		"group": 3
+	},
+	{
+		"id": "Le Petit Bleu",
+		"group": 3
+	},
+	{
+		"id": "La Nouvelle République des Pyrénées",
+		"group": 3
+	},
+	{
+		"id": "Le Villefranchois",
+		"group": 3
+	},
+	{
+		"id": "La Gazette du Comminges",
+		"group": 3
+	},
+	{
+		"id": "Les Journaux du midi",
+		"group": 2
+	},
+	{
+		"id": "Midi libre",
+		"group": 3
+	},
+	{
+		"id": "LIndépendant",
+		"group": 3
+	},
+	{
+		"id": "Centre Presse Aveyron",
+		"group": 3
+	},
+	{
+		"id": "Famille Lemoine",
+		"group": 1
+	},
+	{
+		"id": "Groupe Sud Ouest",
+		"group": 2
+	},
+	{
+		"id": "Sud Ouest",
+		"group": 3
+	},
+	{
+		"id": "Charente Libre",
+		"group": 3
+	},
+	{
+		"id": "Dordogne Libre",
+		"group": 3
+	},
+	{
+		"id": "Haute Saintonge",
+		"group": 3
+	},
+	{
+		"id": "Haute Gironde",
+		"group": 3
+	},
+	{
+		"id": "Le Résistant",
+		"group": 3
+	},
+	{
+		"id": "LHebdo de Charente-Maritime",
+		"group": 3
+	},
+	{
+		"id": "La Dépêche du Bassin",
+		"group": 3
+	},
+	{
+		"id": "Le Journal du Médoc",
+		"group": 3
+	},
+	{
+		"id": "Pyrénées Presse",
+		"group": 2
+	},
+	{
+		"id": "La République des Pyrénées",
+		"group": 3
+	},
+	{
+		"id": "LEclair",
+		"group": 3
+	},
+	{
+		"id": "Édouard Coudurier",
+		"group": 1
+	},
+	{
+		"id": "Groupe Télégramme",
+		"group": 2
+	},
+	{
+		"id": "Le Télégramme",
+		"group": 3
+	},
+	{
+		"id": "Le Poher",
+		"group": 3
+	},
+	{
+		"id": "Tébéo",
+		"group": 3
+	},
+	{
+		"id": "Tébésud",
+		"group": 3
+	},
+	{
+		"id": "Le Mensuel de Rennes",
+		"group": 3
+	},
+	{
+		"id": "Sept Jours à Brest",
+		"group": 3
+	},
+	{
+		"id": "Le Journal des entreprises",
+		"group": 3
+	},
+	{
+		"id": "Bretagne magazine",
+		"group": 3
+	},
+	{
+		"id": "Bernard Tapie",
+		"group": 1
+	},
+	{
+		"id": "Nethys",
+		"group": 2
+	},
+	{
+		"id": "Groupe La Provence",
+		"group": 2
+	},
+	{
+		"id": "Nice-Matin",
+		"group": 3
+	},
+	{
+		"id": "Corse Matin",
+		"group": 3
+	},
+	{
+		"id": "La Provence",
+		"group": 3
+	},
+	{
+		"id": "Xavier Ellie",
+		"group": 1
+	},
+	{
+		"id": "Société Normande dInformation et de Communication",
+		"group": 2
+	},
+	{
+		"id": "Paris-Normandie",
+		"group": 3
+	},
+	{
+		"id": "Havre Libre",
+		"group": 3
+	},
+	{
+		"id": "Le Progrès de Fécamp",
+		"group": 3
+	},
+	{
+		"id": "Liberté Dimanche",
+		"group": 3
+	},
+	{
+		"id": "Havre Dimanche",
+		"group": 3
+	},
+	{
+		"id": "Normandie Dimanche",
+		"group": 3
+	},
+	{
+		"id": "Philippe Hersant",
+		"group": 1
+	},
+	{
+		"id": "Éditions Suisses Holding",
+		"group": 2
+	},
+	{
+		"id": "Groupe Hersant Média",
+		"group": 2
+	},
+	{
+		"id": "Groupe Filanosa",
+		"group": 2
+	},
+	{
+		"id": "Rhône Média",
+		"group": 2
+	},
+	{
+		"id": "La Côte (Nyon)",
+		"group": 3
+	},
+	{
+		"id": "LExpress (Neuchâtel)",
+		"group": 3
+	},
+	{
+		"id": "LImpartial (La Chaux-de-Fonds)",
+		"group": 3
+	},
+	{
+		"id": "Le Nouvelliste",
+		"group": 3
+	},
+	{
+		"id": "La Gazette de Martigny",
+		"group": 3
+	},
+	{
+		"id": "Le Journal de Sierre",
+		"group": 3
+	},
+	{
+		"id": "France Antilles",
+		"group": 3
+	},
+	{
+		"id": "France Guyane",
+		"group": 3
+	},
+	{
+		"id": "Abdoul Cadjee",
+		"group": 1
+	},
+	{
+		"id": "Le Journal de lÎle de la Réunion",
+		"group": 3
+	},
+	{
+		"id": "Benjamin et Ariane de Rothschild",
+		"group": 1
+	},
+	{
+		"id": "Lampsane Investissement SA",
+		"group": 2
+	},
+	{
+		"id": "Slate.fr",
+		"group": 3
+	},
+	{
+		"id": "Jean-Sébastien Ferjou",
+		"group": 1
+	},
+	{
+		"id": "Pierre Guyot",
+		"group": 1
+	},
+	{
+		"id": "Gérard Lignac",
+		"group": 1
+	},
+	{
+		"id": "Atlantico.fr",
+		"group": 3
+	},
+	{
+		"id": "Franck Julien",
+		"group": 1
+	},
+	{
+		"id": "Edi Invest",
+		"group": 2
+	},
+	{
+		"id": "Jean Christophe Tortora",
+		"group": 1
+	},
+	{
+		"id": "Laurent Alexandre",
+		"group": 1
+	},
+	{
+		"id": "Hima Groupe",
+		"group": 2
+	},
+	{
+		"id": "La Tribune",
+		"group": 3
+	}
+],
+	"liens": [
+	{
+		"source": "Claude Perdriel",
+		"target": "Sophia Publications",
+		"value": 50
+	},
+	{
+		"source": "Claude Perdriel",
+		"target": "Groupe Perdriel",
+		"value": 93
+	},
+	{
+		"source": "Sophia Publications",
+		"target": "Lhistoire",
+		"value": 100
+	},
+	{
+		"source": "Sophia Publications",
+		"target": "Historia",
+		"value": 100
+	},
+	{
+		"source": "Groupe Perdriel",
+		"target": "Challenges",
+		"value": 100
+	},
+	{
+		"source": "Groupe Perdriel",
+		"target": "Sciences & Avenir",
+		"value": 100
+	},
+	{
+		"source": "Prisa",
+		"target": "Le Monde libre",
+		"value": 20
+	},
+	{
+		"source": "Xavier Niel",
+		"target": "Le Monde libre",
+		"value": 40
+	},
+	{
+		"source": "Matthieu Pigasse",
+		"target": "Le Monde libre",
+		"value": 40
+	},
+	{
+		"source": "Le Monde libre",
+		"target": "Le Monde SA",
+		"value": 73
+	},
+	{
+		"source": "Le Monde libre",
+		"target": "LObs",
+		"value": 99
+	},
+	{
+		"source": "Le Monde SA",
+		"target": "Prier",
+		"value": 100
+	},
+	{
+		"source": "Le Monde SA",
+		"target": "M, le magazine du Monde",
+		"value": 100
+	},
+	{
+		"source": "Le Monde SA",
+		"target": "Le Monde",
+		"value": 100
+	},
+	{
+		"source": "Le Monde SA",
+		"target": "Télérama",
+		"value": 100
+	},
+	{
+		"source": "Le Monde SA",
+		"target": "Courrier international",
+		"value": 100
+	},
+	{
+		"source": "Le Monde SA",
+		"target": "Le Monde des religions",
+		"value": 100
+	},
+	{
+		"source": "Le Monde SA",
+		"target": "La Vie",
+		"value": 100
+	},
+	{
+		"source": "Le Monde SA",
+		"target": "Le Monde diplomatique",
+		"value": 51
+	},
+	{
+		"source": "Le Monde SA",
+		"target": "Manière de voir",
+		"value": 51
+	},
+	{
+		"source": "Le Monde SA",
+		"target": "Huffingtonpost.fr",
+		"value": 34
+	},
+	{
+		"source": "Les Amis du Monde diplomatique",
+		"target": "Le Monde diplomatique",
+		"value": 25
+	},
+	{
+		"source": "Association Günter-Holzmann",
+		"target": "Le Monde diplomatique",
+		"value": 25
+	},
+	{
+		"source": "Les Amis du Monde diplomatique",
+		"target": "Manière de voir",
+		"value": 25
+	},
+	{
+		"source": "Association Günter-Holzmann",
+		"target": "Manière de voir",
+		"value": 25
+	},
+	{
+		"source": "Matthieu Pigasse",
+		"target": "Les Nouvelles Éditions",
+		"value": 78
+	},
+	{
+		"source": "AOL",
+		"target": "Huffington Post",
+		"value": 100
+	},
+	{
+		"source": "Huffington Post",
+		"target": "Huffingtonpost.fr",
+		"value": 51
+	},
+	{
+		"source": "Les Nouvelles Éditions",
+		"target": "Huffingtonpost.fr",
+		"value": 11
+	},
+	{
+		"source": "Les Nouvelles Éditions",
+		"target": "Radio Nova",
+		"value": 100
+	},
+	{
+		"source": "Les Nouvelles Éditions",
+		"target": "Les Inrockuptibles",
+		"value": 100
+	},
+	{
+		"source": "Les Nouvelles Éditions",
+		"target": "Vice.com",
+		"value": 50
+	},
+	{
+		"source": "Serge Dassault",
+		"target": "Groupe Dassault",
+		"value": 100
+	},
+	{
+		"source": "Groupe Dassault",
+		"target": "Groupe Figaro",
+		"value": 100
+	},
+	{
+		"source": "Groupe Figaro",
+		"target": "Le Figaro",
+		"value": 100
+	},
+	{
+		"source": "Groupe Figaro",
+		"target": "Figaro Magazine",
+		"value": 100
+	},
+	{
+		"source": "Groupe Figaro",
+		"target": "Le Particulier",
+		"value": 100
+	},
+	{
+		"source": "Groupe Figaro",
+		"target": "La Lettre de lExpansion",
+		"value": 100
+	},
+	{
+		"source": "Bernard Arnault",
+		"target": "LVMH",
+		"value": 47
+	},
+	{
+		"source": "LVMH",
+		"target": "Le Parisien",
+		"value": 100
+	},
+	{
+		"source": "LVMH",
+		"target": "Le Parisien Magazine",
+		"value": 100
+	},
+	{
+		"source": "LVMH",
+		"target": "Le Parisien économie",
+		"value": 100
+	},
+	{
+		"source": "LVMH",
+		"target": "Aujourdhui en France",
+		"value": 100
+	},
+	{
+		"source": "LVMH",
+		"target": "Groupe Les Échos",
+		"value": 100
+	},
+	{
+		"source": "Groupe Les Échos",
+		"target": "Les Échos",
+		"value": 100
+	},
+	{
+		"source": "Groupe Les Échos",
+		"target": "Investir",
+		"value": 100
+	},
+	{
+		"source": "Groupe Les Échos",
+		"target": "Investir Magazine",
+		"value": 100
+	},
+	{
+		"source": "Groupe Les Échos",
+		"target": "Les Échos Week-End",
+		"value": 100
+	},
+	{
+		"source": "Groupe Les Échos",
+		"target": "Radio Classique",
+		"value": 100
+	},
+	{
+		"source": "LVMH",
+		"target": "LOpinion",
+		"value": "participe"
+	},
+	{
+		"source": "Famille Bettencourt",
+		"target": "LOpinion",
+		"value": "participe"
+	},
+	{
+		"source": "Nicolas Beytout",
+		"target": "LOpinion",
+		"value": "participe"
+	},
+	{
+		"source": "Claude Perdriel",
+		"target": "LOpinion",
+		"value": "participe"
+	},
+	{
+		"source": "Patrick Drahi",
+		"target": "Altice",
+		"value": 61
+	},
+	{
+		"source": "Altice",
+		"target": "SFR Groupe",
+		"value": 78
+	},
+	{
+		"source": "SFR Groupe",
+		"target": "LExpress",
+		"value": 100
+	},
+	{
+		"source": "SFR Groupe",
+		"target": "Libération",
+		"value": 100
+	},
+	{
+		"source": "SFR Groupe",
+		"target": "News Participations",
+		"value": 49
+	},
+	{
+		"source": "Alain Weill",
+		"target": "News Participations",
+		"value": 51
+	},
+	{
+		"source": "News Participations",
+		"target": "NextRadioTV",
+		"value": 95
+	},
+	{
+		"source": "NextRadioTV",
+		"target": "BFM TV",
+		"value": 100
+	},
+	{
+		"source": "NextRadioTV",
+		"target": "RMC Découverte",
+		"value": 100
+	},
+	{
+		"source": "NextRadioTV",
+		"target": "RMC",
+		"value": 100
+	},
+	{
+		"source": "NextRadioTV",
+		"target": "BFM Business",
+		"value": 100
+	},
+	{
+		"source": "NextRadioTV",
+		"target": "Numéro 23",
+		"value": 39
+	},
+	{
+		"source": "Pascal Houzelot",
+		"target": "Numéro 23",
+		"value": 61
+	},
+	{
+		"source": "Arnaud Lagardère",
+		"target": "Lagardère SCA",
+		"value": 8
+	},
+	{
+		"source": "Qatar Investment Authority",
+		"target": "Lagardère SCA",
+		"value": 13
+	},
+	{
+		"source": "Lagardère SCA",
+		"target": "Lagardère Active",
+		"value": 100
+	},
+	{
+		"source": "Lagardère Active",
+		"target": "Le Journal du dimanche",
+		"value": 100
+	},
+	{
+		"source": "Lagardère Active",
+		"target": "Paris Match",
+		"value": 100
+	},
+	{
+		"source": "Lagardère Active",
+		"target": "Gulli",
+		"value": 100
+	},
+	{
+		"source": "Lagardère Active",
+		"target": "Europe 1",
+		"value": 100
+	},
+	{
+		"source": "Lagardère Active",
+		"target": "RFM",
+		"value": 100
+	},
+	{
+		"source": "Lagardère Active",
+		"target": "Virgin Radio",
+		"value": 100
+	},
+	{
+		"source": "Vincent Bolloré",
+		"target": "Financière de lOdet",
+		"value": 50
+	},
+	{
+		"source": "Financière de lOdet",
+		"target": "Bolloré",
+		"value": 64
+	},
+	{
+		"source": "Bolloré",
+		"target": "CNews matin",
+		"value": 100
+	},
+	{
+		"source": "Bolloré",
+		"target": "Vivendi",
+		"value": 21
+	},
+	{
+		"source": "Vivendi",
+		"target": "Canal +",
+		"value": 100
+	},
+	{
+		"source": "Vivendi",
+		"target": "C8",
+		"value": 100
+	},
+	{
+		"source": "Vivendi",
+		"target": "CNews",
+		"value": 100
+	},
+	{
+		"source": "Vivendi",
+		"target": "CStar",
+		"value": 100
+	},
+	{
+		"source": "Iskandar Safa",
+		"target": "Privinvest",
+		"value": 100
+	},
+	{
+		"source": "Privinvest",
+		"target": "Groupe Valmonde",
+		"value": 50
+	},
+	{
+		"source": "Groupe Valmonde",
+		"target": "Valeurs actuelles",
+		"value": 100
+	},
+	{
+		"source": "Groupe Valmonde",
+		"target": "Mieux vivre votre argent",
+		"value": 100
+	},
+	{
+		"source": "Yves de Chaisemartin",
+		"target": "Marianne",
+		"value": 86
+	},
+	{
+		"source": "François Pinault",
+		"target": "Artémis",
+		"value": 100
+	},
+	{
+		"source": "Artémis",
+		"target": "Groupe Sebdo-Le Point",
+		"value": 100
+	},
+	{
+		"source": "Artémis",
+		"target": "Groupe LAgefi",
+		"value": 100
+	},
+	{
+		"source": "Artémis",
+		"target": "Point de vue",
+		"value": 100
+	},
+	{
+		"source": "Groupe Sebdo-Le Point",
+		"target": "Le Point",
+		"value": 100
+	},
+	{
+		"source": "Groupe LAgefi",
+		"target": "LAgefi",
+		"value": 100
+	},
+	{
+		"source": "Famille Mohn",
+		"target": "Bertelsmann",
+		"value": "contrôle"
+	},
+	{
+		"source": "Bertelsmann",
+		"target": "Gruner + Jahr",
+		"value": 100
+	},
+	{
+		"source": "Bertelsmann",
+		"target": "RTL Group",
+		"value": 75
+	},
+	{
+		"source": "Gruner + Jahr",
+		"target": "Prisma Media",
+		"value": 100
+	},
+	{
+		"source": "Prisma Media",
+		"target": "VSD",
+		"value": 100
+	},
+	{
+		"source": "Prisma Media",
+		"target": "Capital",
+		"value": 100
+	},
+	{
+		"source": "Prisma Media",
+		"target": "Management",
+		"value": 100
+	},
+	{
+		"source": "Prisma Media",
+		"target": "Harvard Business Review",
+		"value": 100
+	},
+	{
+		"source": "RTL Group",
+		"target": "Groupe M6",
+		"value": 48
+	},
+	{
+		"source": "Groupe M6",
+		"target": "M6",
+		"value": 100
+	},
+	{
+		"source": "Groupe M6",
+		"target": "W9",
+		"value": 100
+	},
+	{
+		"source": "Groupe M6",
+		"target": "6ter",
+		"value": 100
+	},
+	{
+		"source": "Groupe M6",
+		"target": "RTL",
+		"value": 100
+	},
+	{
+		"source": "Groupe M6",
+		"target": "RTL2",
+		"value": 100
+	},
+	{
+		"source": "Groupe M6",
+		"target": "Fun Radio",
+		"value": 100
+	},
+	{
+		"source": "Martin et Olivier Bouygues",
+		"target": "Bouygues",
+		"value": 20
+	},
+	{
+		"source": "Bouygues",
+		"target": "Groupe TF1",
+		"value": 44
+	},
+	{
+		"source": "Groupe TF1",
+		"target": "TF1",
+		"value": 100
+	},
+	{
+		"source": "Groupe TF1",
+		"target": "NT1",
+		"value": 100
+	},
+	{
+		"source": "Groupe TF1",
+		"target": "LCI",
+		"value": 100
+	},
+	{
+		"source": "Groupe TF1",
+		"target": "HD1",
+		"value": 100
+	},
+	{
+		"source": "Groupe TF1",
+		"target": "TMC",
+		"value": 100
+	},
+	{
+		"source": "République française",
+		"target": "Renault",
+		"value": 15
+	},
+	{
+		"source": "Renault",
+		"target": "Groupe Perdriel",
+		"value": 40
+	},
+	{
+		"source": "République française",
+		"target": "La Chaîne parlementaire",
+		"value": 100
+	},
+	{
+		"source": "République française",
+		"target": "Public Sénat",
+		"value": 100
+	},
+	{
+		"source": "République française",
+		"target": "France Médias Monde",
+		"value": 100
+	},
+	{
+		"source": "République française",
+		"target": "France Télévision",
+		"value": 100
+	},
+	{
+		"source": "République française",
+		"target": "Radio France",
+		"value": 100
+	},
+	{
+		"source": "République française",
+		"target": "Arte France",
+		"value": 100
+	},
+	{
+		"source": "France Médias Monde",
+		"target": "Monte Carlo Doualiya",
+		"value": 100
+	},
+	{
+		"source": "France Médias Monde",
+		"target": "Radio France International",
+		"value": 100
+	},
+	{
+		"source": "France Médias Monde",
+		"target": "France 24",
+		"value": 100
+	},
+	{
+		"source": "France Médias Monde",
+		"target": "TV5 Monde",
+		"value": 13
+	},
+	{
+		"source": "France Télévision",
+		"target": "TV5 Monde",
+		"value": 49
+	},
+	{
+		"source": "France Télévision",
+		"target": "France 2",
+		"value": 100
+	},
+	{
+		"source": "France Télévision",
+		"target": "France 3",
+		"value": 100
+	},
+	{
+		"source": "France Télévision",
+		"target": "France 5",
+		"value": 100
+	},
+	{
+		"source": "France Télévision",
+		"target": "France 4",
+		"value": 100
+	},
+	{
+		"source": "France Télévision",
+		"target": "France Ô",
+		"value": 100
+	},
+	{
+		"source": "France Télévision",
+		"target": "France info",
+		"value": "contrôle"
+	},
+	{
+		"source": "Radio France",
+		"target": "France Inter",
+		"value": 100
+	},
+	{
+		"source": "Radio France",
+		"target": "France Musique",
+		"value": 100
+	},
+	{
+		"source": "Radio France",
+		"target": "France Culture",
+		"value": 100
+	},
+	{
+		"source": "Radio France",
+		"target": "FIP",
+		"value": 100
+	},
+	{
+		"source": "Radio France",
+		"target": "France Bleu",
+		"value": 100
+	},
+	{
+		"source": "Radio France",
+		"target": "France Info",
+		"value": 100
+	},
+	{
+		"source": "Radio France",
+		"target": "Mouv",
+		"value": 100
+	},
+	{
+		"source": "Radio France",
+		"target": "France info",
+		"value": "contrôle"
+	},
+	{
+		"source": "Arte France",
+		"target": "Arte",
+		"value": 50
+	},
+	{
+		"source": "République fédérale dAllemagne",
+		"target": "ARD / ZDF",
+		"value": "contrôle"
+	},
+	{
+		"source": "ARD / ZDF",
+		"target": "Arte Deutschland TV GmbH",
+		"value": 50
+	},
+	{
+		"source": "Arte Deutschland TV GmbH",
+		"target": "Arte",
+		"value": 50
+	},
+	{
+		"source": "Les Augustins de lAssomption",
+		"target": "Bayard",
+		"value": 100
+	},
+	{
+		"source": "Bayard",
+		"target": "La Croix",
+		"value": 100
+	},
+	{
+		"source": "Bayard",
+		"target": "Pèlerin",
+		"value": 100
+	},
+	{
+		"source": "Bayard",
+		"target": "Notre temps",
+		"value": 100
+	},
+	{
+		"source": "Jean-Paul Baudecroux",
+		"target": "NRJ Group",
+		"value": 79
+	},
+	{
+		"source": "NRJ Group",
+		"target": "NRJ 12",
+		"value": 100
+	},
+	{
+		"source": "NRJ Group",
+		"target": "Chérie 25",
+		"value": 100
+	},
+	{
+		"source": "NRJ Group",
+		"target": "NRJ",
+		"value": 100
+	},
+	{
+		"source": "NRJ Group",
+		"target": "Rire et Chansons",
+		"value": 100
+	},
+	{
+		"source": "NRJ Group",
+		"target": "Chérie FM",
+		"value": 100
+	},
+	{
+		"source": "NRJ Group",
+		"target": "Nostalgie",
+		"value": 100
+	},
+	{
+		"source": "Famille Hutin",
+		"target": "Association pour le soutien des principes de la démocratie humaniste",
+		"value": "contrôle"
+	},
+	{
+		"source": "Association pour le soutien des principes de la démocratie humaniste",
+		"target": "Groupe SIPA - Ouest",
+		"value": 100
+	},
+	{
+		"source": "Groupe SIPA - Ouest",
+		"target": "Ouest France",
+		"value": 100
+	},
+	{
+		"source": "Groupe SIPA - Ouest",
+		"target": "Le Courrier de lOuest",
+		"value": 100
+	},
+	{
+		"source": "Groupe SIPA - Ouest",
+		"target": "Le Maine libre",
+		"value": 100
+	},
+	{
+		"source": "Groupe SIPA - Ouest",
+		"target": "Presse-Océan",
+		"value": 100
+	},
+	{
+		"source": "Groupe SIPA - Ouest",
+		"target": "La Presse de la Manche",
+		"value": 100
+	},
+	{
+		"source": "Groupe SIPA - Ouest",
+		"target": "Publi Hebdos",
+		"value": 100
+	},
+	{
+		"source": "Groupe SIPA - Ouest",
+		"target": "Sofiouest",
+		"value": 40
+	},
+	{
+		"source": "Sofiouest",
+		"target": "20 Minutes",
+		"value": 50
+	},
+	{
+		"source": "Famille Hurbain",
+		"target": "Groupe Rossel",
+		"value": "contrôle"
+	},
+	{
+		"source": "Groupe Rossel",
+		"target": "Groupe Rossel La Voix",
+		"value": 73
+	},
+	{
+		"source": "Crédit Agricole Nord de France",
+		"target": "Groupe Rossel La Voix",
+		"value": 25
+	},
+	{
+		"source": "Groupe Rossel La Voix",
+		"target": "20 Minutes",
+		"value": 49
+	},
+	{
+		"source": "Groupe Rossel La Voix",
+		"target": "La Voix du Nord SA",
+		"value": 96
+	},
+	{
+		"source": "La Voix du Nord SA",
+		"target": "La Voix du Nord",
+		"value": 100
+	},
+	{
+		"source": "La Voix du Nord SA",
+		"target": "Nord éclair",
+		"value": 100
+	},
+	{
+		"source": "La Voix du Nord SA",
+		"target": "Nord Littoral",
+		"value": 100
+	},
+	{
+		"source": "La Voix du Nord SA",
+		"target": "Courrier picard",
+		"value": 100
+	},
+	{
+		"source": "La Voix du Nord SA",
+		"target": "Laisne Nouvelle",
+		"value": 100
+	},
+	{
+		"source": "La Voix du Nord SA",
+		"target": "LUnion - LArdennais",
+		"value": 100
+	},
+	{
+		"source": "La Voix du Nord SA",
+		"target": "LEst-éclair - Libération Champagne",
+		"value": 100
+	},
+	{
+		"source": "La Voix du Nord SA",
+		"target": "LAvenir de lArtois",
+		"value": 100
+	},
+	{
+		"source": "La Voix du Nord SA",
+		"target": "Les Echos du Touquet",
+		"value": 100
+	},
+	{
+		"source": "La Voix du Nord SA",
+		"target": "Le Journal des Flandres",
+		"value": 100
+	},
+	{
+		"source": "La Voix du Nord SA",
+		"target": "Le Messager",
+		"value": 100
+	},
+	{
+		"source": "La Voix du Nord SA",
+		"target": "LEssor savoyard",
+		"value": 100
+	},
+	{
+		"source": "La Voix du Nord SA",
+		"target": "Le Pays gessien",
+		"value": 100
+	},
+	{
+		"source": "La Voix du Nord SA",
+		"target": "La Tribune républicaine",
+		"value": 100
+	},
+	{
+		"source": "La Voix du Nord SA",
+		"target": "La Savoie",
+		"value": 100
+	},
+	{
+		"source": "La Voix du Nord SA",
+		"target": "Le Phare Dunkerquois",
+		"value": 100
+	},
+	{
+		"source": "La Voix du Nord SA",
+		"target": "La Semaine dans le Boulonnais",
+		"value": 100
+	},
+	{
+		"source": "La Voix du Nord SA",
+		"target": "Le Réveil de Berck",
+		"value": 100
+	},
+	{
+		"source": "La Voix du Nord SA",
+		"target": "Le Journal de Montreuil",
+		"value": 100
+	},
+	{
+		"source": "La Voix du Nord SA",
+		"target": "Lindicateur",
+		"value": 100
+	},
+	{
+		"source": "La Voix du Nord SA",
+		"target": "LEcho de la Lys",
+		"value": 100
+	},
+	{
+		"source": "Crédit Mutuel",
+		"target": "Groupe EBRA",
+		"value": 100
+	},
+	{
+		"source": "Groupe EBRA",
+		"target": "LEst républicain",
+		"value": 100
+	},
+	{
+		"source": "Groupe EBRA",
+		"target": "Le Républicain lorrain",
+		"value": 100
+	},
+	{
+		"source": "Groupe EBRA",
+		"target": "DNA",
+		"value": 100
+	},
+	{
+		"source": "Groupe EBRA",
+		"target": "Vosges Matin",
+		"value": 100
+	},
+	{
+		"source": "Groupe EBRA",
+		"target": "LAlsace",
+		"value": 100
+	},
+	{
+		"source": "Groupe EBRA",
+		"target": "Le Bien public",
+		"value": 100
+	},
+	{
+		"source": "Groupe EBRA",
+		"target": "Le Journal de Saône-et-Loire",
+		"value": 100
+	},
+	{
+		"source": "Groupe EBRA",
+		"target": "Le Progrès",
+		"value": 100
+	},
+	{
+		"source": "Groupe EBRA",
+		"target": "Le Dauphiné libéré",
+		"value": 100
+	},
+	{
+		"source": "Groupe EBRA",
+		"target": "Vaucluse Matin",
+		"value": 100
+	},
+	{
+		"source": "Groupe EBRA",
+		"target": "Le Journal de la Haute-Marne",
+		"value": 50
+	},
+	{
+		"source": "Fondation Varenne",
+		"target": "Groupe La Montagne",
+		"value": 50
+	},
+	{
+		"source": "Groupe La Montagne",
+		"target": "La Montagne",
+		"value": 100
+	},
+	{
+		"source": "Groupe La Montagne",
+		"target": "Le Populaire du centre",
+		"value": 100
+	},
+	{
+		"source": "Groupe La Montagne",
+		"target": "Le Journal du centre",
+		"value": 100
+	},
+	{
+		"source": "Groupe La Montagne",
+		"target": "Le Berry républicain",
+		"value": 100
+	},
+	{
+		"source": "Groupe La Montagne",
+		"target": "L’Yonne Républicaine",
+		"value": 100
+	},
+	{
+		"source": "Groupe La Montagne",
+		"target": "L’Echo Républicain",
+		"value": 100
+	},
+	{
+		"source": "Groupe La Montagne",
+		"target": "Courrier du Loiret",
+		"value": 100
+	},
+	{
+		"source": "Groupe La Montagne",
+		"target": "L’Eclaireur du Gâtinais",
+		"value": 100
+	},
+	{
+		"source": "Groupe La Montagne",
+		"target": "Régional de Cosne",
+		"value": 100
+	},
+	{
+		"source": "Groupe La Montagne",
+		"target": "L’Echo Charitois",
+		"value": 100
+	},
+	{
+		"source": "Groupe La Montagne",
+		"target": "Pays Roannais",
+		"value": 100
+	},
+	{
+		"source": "Groupe La Montagne",
+		"target": "La Liberté",
+		"value": 100
+	},
+	{
+		"source": "Groupe La Montagne",
+		"target": "Journal de Gien",
+		"value": 100
+	},
+	{
+		"source": "Groupe La Montagne",
+		"target": "La République du Centre",
+		"value": 70
+	},
+	{
+		"source": "Groupe La Montagne",
+		"target": "Groupe NRCO",
+		"value": 16
+	},
+	{
+		"source": "Famille Saint-Cricq",
+		"target": "Groupe NRCO",
+		"value": 15
+	},
+	{
+		"source": "Groupe NRCO",
+		"target": "La République du Centre",
+		"value": 30
+	},
+	{
+		"source": "Groupe NRCO",
+		"target": "Nouvelle République du Centre",
+		"value": 100
+	},
+	{
+		"source": "Groupe NRCO",
+		"target": "Centre Presse",
+		"value": 100
+	},
+	{
+		"source": "Groupe NRCO",
+		"target": "TV Tours",
+		"value": 40
+	},
+	{
+		"source": "Famille Baylet",
+		"target": "Groupe La Dépêche",
+		"value": 83
+	},
+	{
+		"source": "Groupe La Dépêche",
+		"target": "La Dépêche du midi",
+		"value": 100
+	},
+	{
+		"source": "Groupe La Dépêche",
+		"target": "Le Petit Bleu",
+		"value": 100
+	},
+	{
+		"source": "Groupe La Dépêche",
+		"target": "La Nouvelle République des Pyrénées",
+		"value": 100
+	},
+	{
+		"source": "Groupe La Dépêche",
+		"target": "Le Villefranchois",
+		"value": 100
+	},
+	{
+		"source": "Groupe La Dépêche",
+		"target": "La Gazette du Comminges",
+		"value": 100
+	},
+	{
+		"source": "Groupe La Dépêche",
+		"target": "Les Journaux du midi",
+		"value": 100
+	},
+	{
+		"source": "Les Journaux du midi",
+		"target": "Midi libre",
+		"value": 100
+	},
+	{
+		"source": "Les Journaux du midi",
+		"target": "LIndépendant",
+		"value": 100
+	},
+	{
+		"source": "Les Journaux du midi",
+		"target": "Centre Presse Aveyron",
+		"value": 100
+	},
+	{
+		"source": "Famille Lemoine",
+		"target": "Groupe Sud Ouest",
+		"value": 80
+	},
+	{
+		"source": "Groupe Sud Ouest",
+		"target": "Sud Ouest",
+		"value": 100
+	},
+	{
+		"source": "Groupe Sud Ouest",
+		"target": "Charente Libre",
+		"value": 100
+	},
+	{
+		"source": "Groupe Sud Ouest",
+		"target": "Dordogne Libre",
+		"value": 100
+	},
+	{
+		"source": "Groupe Sud Ouest",
+		"target": "Haute Saintonge",
+		"value": 100
+	},
+	{
+		"source": "Groupe Sud Ouest",
+		"target": "Haute Gironde",
+		"value": 100
+	},
+	{
+		"source": "Groupe Sud Ouest",
+		"target": "Le Résistant",
+		"value": 100
+	},
+	{
+		"source": "Groupe Sud Ouest",
+		"target": "LHebdo de Charente-Maritime",
+		"value": 100
+	},
+	{
+		"source": "Groupe Sud Ouest",
+		"target": "La Dépêche du Bassin",
+		"value": 100
+	},
+	{
+		"source": "Groupe Sud Ouest",
+		"target": "Le Journal du Médoc",
+		"value": 100
+	},
+	{
+		"source": "Groupe Sud Ouest",
+		"target": "Pyrénées Presse",
+		"value": 100
+	},
+	{
+		"source": "Pyrénées Presse",
+		"target": "La République des Pyrénées",
+		"value": 100
+	},
+	{
+		"source": "Pyrénées Presse",
+		"target": "LEclair",
+		"value": 100
+	},
+	{
+		"source": "Édouard Coudurier",
+		"target": "Groupe Télégramme",
+		"value": "contrôle"
+	},
+	{
+		"source": "Groupe Télégramme",
+		"target": "Le Télégramme",
+		"value": 100
+	},
+	{
+		"source": "Groupe Télégramme",
+		"target": "Le Poher",
+		"value": 100
+	},
+	{
+		"source": "Groupe Télégramme",
+		"target": "Tébéo",
+		"value": 100
+	},
+	{
+		"source": "Groupe Télégramme",
+		"target": "Tébésud",
+		"value": 100
+	},
+	{
+		"source": "Groupe Télégramme",
+		"target": "Le Mensuel de Rennes",
+		"value": 100
+	},
+	{
+		"source": "Groupe Télégramme",
+		"target": "Sept Jours à Brest",
+		"value": 100
+	},
+	{
+		"source": "Groupe Télégramme",
+		"target": "Le Journal des entreprises",
+		"value": 100
+	},
+	{
+		"source": "Groupe Télégramme",
+		"target": "Bretagne magazine",
+		"value": 50
+	},
+	{
+		"source": "Bernard Tapie",
+		"target": "Groupe La Provence",
+		"value": 89
+	},
+	{
+		"source": "Nethys",
+		"target": "Groupe La Provence",
+		"value": 11
+	},
+	{
+		"source": "Nethys",
+		"target": "Nice-Matin",
+		"value": 20
+	},
+	{
+		"source": "Groupe La Provence",
+		"target": "Corse Matin",
+		"value": 100
+	},
+	{
+		"source": "Groupe La Provence",
+		"target": "La Provence",
+		"value": 100
+	},
+	{
+		"source": "Xavier Ellie",
+		"target": "Société Normande dInformation et de Communication",
+		"value": 100
+	},
+	{
+		"source": "Société Normande dInformation et de Communication",
+		"target": "Paris-Normandie",
+		"value": 100
+	},
+	{
+		"source": "Société Normande dInformation et de Communication",
+		"target": "Havre Libre",
+		"value": 100
+	},
+	{
+		"source": "Société Normande dInformation et de Communication",
+		"target": "Le Progrès de Fécamp",
+		"value": 100
+	},
+	{
+		"source": "Société Normande dInformation et de Communication",
+		"target": "Liberté Dimanche",
+		"value": 100
+	},
+	{
+		"source": "Société Normande dInformation et de Communication",
+		"target": "Havre Dimanche",
+		"value": 100
+	},
+	{
+		"source": "Société Normande dInformation et de Communication",
+		"target": "Normandie Dimanche",
+		"value": 100
+	},
+	{
+		"source": "Philippe Hersant",
+		"target": "Éditions Suisses Holding",
+		"value": 100
+	},
+	{
+		"source": "Philippe Hersant",
+		"target": "Groupe Hersant Média",
+		"value": 100
+	},
+	{
+		"source": "Éditions Suisses Holding",
+		"target": "Groupe Filanosa",
+		"value": 50
+	},
+	{
+		"source": "Éditions Suisses Holding",
+		"target": "Rhône Média",
+		"value": 50
+	},
+	{
+		"source": "Groupe Filanosa",
+		"target": "La Côte (Nyon)",
+		"value": 100
+	},
+	{
+		"source": "Groupe Filanosa",
+		"target": "LExpress (Neuchâtel)",
+		"value": 100
+	},
+	{
+		"source": "Groupe Filanosa",
+		"target": "LImpartial (La Chaux-de-Fonds)",
+		"value": 100
+	},
+	{
+		"source": "Rhône Média",
+		"target": "Le Nouvelliste",
+		"value": 100
+	},
+	{
+		"source": "Rhône Média",
+		"target": "La Gazette de Martigny",
+		"value": 100
+	},
+	{
+		"source": "Rhône Média",
+		"target": "Le Journal de Sierre",
+		"value": 100
+	},
+	{
+		"source": "Groupe Hersant Média",
+		"target": "France Antilles",
+		"value": 100
+	},
+	{
+		"source": "Groupe Hersant Média",
+		"target": "France Guyane",
+		"value": 100
+	},
+	{
+		"source": "Abdoul Cadjee",
+		"target": "Le Journal de lÎle de la Réunion",
+		"value": 50
+	},
+	{
+		"source": "Benjamin et Ariane de Rothschild",
+		"target": "Lampsane Investissement SA",
+		"value": "contrôle"
+	},
+	{
+		"source": "Lampsane Investissement SA",
+		"target": "Slate.fr",
+		"value": 50
+	},
+	{
+		"source": "Jean-Sébastien Ferjou",
+		"target": "Atlantico.fr",
+		"value": 50
+	},
+	{
+		"source": "Pierre Guyot",
+		"target": "Atlantico.fr",
+		"value": 50
+	},
+	{
+		"source": "Gérard Lignac",
+		"target": "Atlantico.fr",
+		"value": 50
+	},
+	{
+		"source": "Franck Julien",
+		"target": "Edi Invest",
+		"value": "contrôle"
+	},
+	{
+		"source": "Edi Invest",
+		"target": "Hima Groupe",
+		"value": 37
+	},
+	{
+		"source": "Jean Christophe Tortora",
+		"target": "Hima Groupe",
+		"value": 17
+	},
+	{
+		"source": "Laurent Alexandre",
+		"target": "Hima Groupe",
+		"value": 28
+	},
+	{
+		"source": "Hima Groupe",
+		"target": "La Tribune",
+		"value": "contrôle"
+	}
+]
+}
