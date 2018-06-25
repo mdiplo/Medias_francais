@@ -1,29 +1,20 @@
-ODC Open Database License (ODbL)
+# ODC Attribution License (ODC-By)
 
 ### Preamble
 
-The Open Database License (ODbL) is a license agreement intended to
-allow users to freely share, modify, and use this Database while
-maintaining this same freedom for others. Many databases are covered by
-copyright, and therefore this document licenses these rights. Some
-jurisdictions, mainly in the European Union, have specific rights that
-cover databases, and so the ODbL addresses these rights, too. Finally,
-the ODbL is also an agreement in contract for users of this Database to
-act in certain ways in return for accessing this Database.
+The Open Data Commons Attribution License is a license agreement
+intended to allow users to freely share, modify, and use this Database
+subject only to the attribution requirements set out in Section 4.
 
 Databases can contain a wide variety of types of content (images,
 audiovisual material, and sounds all in the same database, for example),
-and so the ODbL only governs the rights over the Database, and not the
-contents of the Database individually. Licensors should use the ODbL
-together with another license for the contents, if the contents have a
-single set of rights that uniformly covers all of the contents. If the
-contents have multiple sets of different rights, Licensors should
-describe what rights govern what contents together in the individual
-record or in some other way that clarifies what rights apply. 
+and so this license only governs the rights over the Database, and not
+the contents of the Database individually. Licensors may therefore wish
+to use this license together with another license for the contents.
 
 Sometimes the contents of a database, or the database itself, can be
 covered by other rights not addressed here (such as private contracts,
-trade mark over the name, or privacy rights / data protection rights
+trademark over the name, or privacy rights / data protection rights
 over information in the contents), and so you are advised that you may
 have to consult other documents or clear other rights before doing
 activities not covered by this License.
@@ -51,6 +42,7 @@ a Person to make or receive copies of the Database or a Derivative
 Database.  Conveying does not include interaction with a user through a
 computer network, or creating and Using a Produced Work, where no
 transfer of a copy of the Database or a Derivative Database occurs.
+
 "Contents" – The contents of this Database, which includes the
 information, independent works, or other material collected into the
 Database. For example, the contents of the Database could be factual
@@ -243,16 +235,14 @@ in material breach of its terms.
 Database, or the Database as part of a Collective Database, then You
 must: 
 
-  a. Do so only under the terms of this License or another license
-  permitted under Section 4.4;
+  a. Do so only under the terms of this License;
 
-  b. Include a copy of this License (or, as applicable, a license
-  permitted under Section 4.4) or its Uniform Resource Identifier (URI)
+  b. Include a copy of this License or its Uniform Resource Identifier (URI)
   with the Database or Derivative Database, including both in the
-  Database or Derivative Database and in any relevant documentation; and
+  Database or Derivative Database and in any relevant documentation; 
 
   c. Keep intact any copyright or Database Right notices and notices
-  that refer to this License.
+  that refer to this License; and
 
   d. If it is not possible to put the required notices in a particular
   file due to its structure, then You must include the notices in a
@@ -271,115 +261,16 @@ is available under this License.
   a. Example notice. The following text will satisfy notice under
   Section 4.3:
 
-        Contains information from DATABASE NAME, which is made available
-        here under the Open Database License (ODbL).
+        Contains information from DATABASE NAME which is made available
+        under the ODC Attribution License.
 
 DATABASE NAME should be replaced with the name of the Database and a
-hyperlink to the URI of the Database. "Open Database License" should
-contain a hyperlink to the URI of the text of this License. If
+hyperlink to the location of the Database. "ODC Attribution License"
+should contain a hyperlink to the URI of the text of this License. If
 hyperlinks are not possible, You should include the plain text of the
 required URI's with the above notice.
- 
-4.4 Share alike. 
 
-  a. Any Derivative Database that You Publicly Use must be only under
-  the terms of: 
-
-    i. This License;
-
-    ii. A later version of this License similar in spirit to this
-      License; or
-
-    iii. A compatible license. 
-
-  If You license the Derivative Database under one of the licenses
-  mentioned in (iii), You must comply with the terms of that license. 
-
-  b. For the avoidance of doubt, Extraction or Re-utilisation of the
-  whole or a Substantial part of the Contents into a new database is a
-  Derivative Database and must comply with Section 4.4. 
-
-  c. Derivative Databases and Produced Works.  A Derivative Database is
-  Publicly Used and so must comply with Section 4.4. if a Produced Work
-  created from the Derivative Database is Publicly Used.
-
-  d. Share Alike and additional Contents. For the avoidance of doubt,
-  You must not add Contents to Derivative Databases under Section 4.4 a
-  that are incompatible with the rights granted under this License. 
-
-  e. Compatible licenses. Licensors may authorise a proxy to determine
-  compatible licenses under Section 4.4 a iii. If they do so, the
-  authorised proxy's public statement of acceptance of a compatible
-  license grants You permission to use the compatible license.
-
-
-4.5 Limits of Share Alike.  The requirements of Section 4.4 do not apply
-in the following:
-
-  a. For the avoidance of doubt, You are not required to license
-  Collective Databases under this License if You incorporate this
-  Database or a Derivative Database in the collection, but this License
-  still applies to this Database or a Derivative Database as a part of
-  the Collective Database; 
-
-  b. Using this Database, a Derivative Database, or this Database as
-  part of a Collective Database to create a Produced Work does not
-  create a Derivative Database for purposes of  Section 4.4; and
-
-  c. Use of a Derivative Database internally within an organisation is
-  not to the public and therefore does not fall under the requirements
-  of Section 4.4.
-
-4.6 Access to Derivative Databases. If You Publicly Use a Derivative
-Database or a Produced Work from a Derivative Database, You must also
-offer to recipients of the Derivative Database or Produced Work a copy
-in a machine readable form of:
-
-  a. The entire Derivative Database; or
-
-  b. A file containing all of the alterations made to the Database or
-  the method of making the alterations to the Database (such as an
-  algorithm), including any additional Contents, that make up all the
-  differences between the Database and the Derivative Database.
-
-The Derivative Database (under a.) or alteration file (under b.) must be
-available at no more than a reasonable production cost for physical
-distributions and free of charge if distributed over the internet.
-
-4.7 Technological measures and additional terms
-
-  a. This License does not allow You to impose (except subject to
-  Section 4.7 b.)  any terms or any technological measures on the
-  Database, a Derivative Database, or the whole or a Substantial part of
-  the Contents that alter or restrict the terms of this License, or any
-  rights granted under it, or have the effect or intent of restricting
-  the ability of any person to exercise those rights.
-
-  b. Parallel distribution. You may impose terms or technological
-  measures on the Database, a Derivative Database, or the whole or a
-  Substantial part of the Contents (a "Restricted Database") in
-  contravention of Section 4.74 a. only if You also make a copy of the
-  Database or a Derivative Database available to the recipient of the
-  Restricted Database:
-
-    i. That is available without additional fee;
-
-    ii. That is available in a medium that does not alter or restrict
-    the terms of this License, or any rights granted under it, or have
-    the effect or intent of restricting the ability of any person to
-    exercise those rights (an "Unrestricted Database"); and
-
-    iii. The Unrestricted Database is at least as accessible to the
-    recipient as a practical matter as the Restricted Database.
-
-  c. For the avoidance of doubt, You may place this Database or a
-  Derivative Database in an authenticated environment, behind a
-  password, or within a similar access control scheme provided that You
-  do not alter or restrict the terms of this License or any rights
-  granted under it or have the effect or intent of restricting the
-  ability of any person to exercise those rights. 
-
-4.8 Licensing of others. You may not sublicense the Database. Each time
+4.4 Licensing of others. You may not sublicense the Database. Each time
 You communicate the Database, the whole or Substantial part of the
 Contents, or any Derivative Database to anyone else in any way, the
 Licensor offers to the recipient a license to the Database on the same
@@ -501,9 +392,6 @@ will be reinstated:
   violation, this is the first time You have received notice of
   violation of this License from  the Licensor, and You cure the
   violation prior to 30 days after your receipt of the notice.
-
-Persons subject to permanent termination of rights are not eligible to
-be a recipient and receive a license under Section 4.8.
 
 9.5 Notwithstanding the above, Licensor reserves the right to release
 the Database under different license terms or to stop distributing or
