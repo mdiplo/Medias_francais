@@ -18,7 +18,7 @@ Nous avons pris le parti de la lisibilité plutôt que de l’exhaustivité. Fig
 - les canaux de radio à portée nationale ; 
 - certains sites d’information en ligne.
 
-Les journaux départementaux, les titres indépendants (comme « Le Canard enchaîné ») ainsi que la presse dite alternative ne sont pas représentés. Enfin, on a limité les liens capitalistiques aux principaux actionnaires. 
+Les journaux départementaux, les titres indépendants (comme « Le Canard enchaîné ») ainsi que la presse dite alternative ne sont pas représentés. Enfin, nous avons limité les liens capitalistiques aux principaux actionnaires. 
 
 Voir en ligne : https://www.monde-diplomatique.fr/cartes/PPA 
 
