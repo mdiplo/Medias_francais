@@ -12,12 +12,11 @@
 **Méthodologie**
 
 Nous avons pris le parti de la lisibilité plutôt que de l’exhaustivité. Figurent dans cette base des médias d’information qui « font l’opinion » et qui dépendent d’intérêts industriels ou financiers, de groupes de presse ou de l’État :
-
-• les titres de presse écrite papier à diffusion nationale de type généraliste, économique et politique ; 
-• les titres de la presse quotidienne régionale ; 
-• la télévision nationale (et quelques chaînes de télévision locales) ; 
-• les canaux de radio à portée nationale ; 
-• certains sites d’information en ligne.
+- les titres de presse écrite papier à diffusion nationale de type généraliste, économique et politique ; 
+- les titres de la presse quotidienne régionale ; 
+- la télévision nationale (et quelques chaînes de télévision locales) ; 
+- les canaux de radio à portée nationale ; 
+- certains sites d’information en ligne.
 
 Les journaux départementaux, les titres indépendants (comme « Le Canard enchaîné ») ainsi que la presse dite alternative ne sont pas représentés. Enfin, on a limité les liens capitalistiques aux principaux actionnaires. 
 
