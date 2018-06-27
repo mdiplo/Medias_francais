@@ -12,6 +12,7 @@
 **Méthodologie**
 
 Nous avons pris le parti de la lisibilité plutôt que de l’exhaustivité. Figurent dans cette base des médias d’information qui « font l’opinion » et qui dépendent d’intérêts industriels ou financiers, de groupes de presse ou de l’État :
+
 • les titres de presse écrite papier à diffusion nationale de type généraliste, économique et politique ; 
 • les titres de la presse quotidienne régionale ; 
 • la télévision nationale (et quelques chaînes de télévision locales) ; 
