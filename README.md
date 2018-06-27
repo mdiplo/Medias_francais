@@ -1,4 +1,4 @@
-# Médias français : qui possède quoi
+# Médias français : qui possède quoi ?
 **Relations de propriété entre les médias français et leurs principaux actionnaires**
 
 ![Carte v.12](https://www.monde-diplomatique.fr/IMG/png/PPAv10-2.png)
