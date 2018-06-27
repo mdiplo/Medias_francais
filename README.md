@@ -9,7 +9,7 @@
 
 *Dernière mise à jour en novembre 2017*
 
-**Quelles données retenir ?**
+**Méthodologie**
 
 Cette base de donnée fait figurer les médias d’information qui « font l’opinion » et qui dépendent d’intérêts industriels ou financiers, de groupes de presse ou de l’État :
 
