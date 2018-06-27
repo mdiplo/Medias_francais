@@ -25,5 +25,5 @@ Voir en ligne : https://www.monde-diplomatique.fr/cartes/PPA
 
 *N'hésitez pas à nous tenir informés de tous les usages dérivés que vous pourriez faire de cette base, et à nous aider à la tenir à jour.*
 
-[Licence](https://github.com/mdiplo/Medias_francais/blob/master/LICENSE.txt) : Open Data Commons Attribution License (ODC-By) v1.0 https://opendatacommons.org/licenses/by/1.0/ 
+[Licence ODC-By](https://github.com/mdiplo/Medias_francais/blob/master/LICENSE.txt) : Open Data Commons Attribution License ([ODC-By v1.0](https://opendatacommons.org/licenses/by/1.0/))
 
