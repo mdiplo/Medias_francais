@@ -1,6 +1,7 @@
 origine	valeur	cible	source	datePublication	dateConsultation
 Claude Perdriel	50	Sophia Publications			
-Claude Perdriel	93	Groupe Perdriel			
+Claude Perdriel	53	Groupe Perdriel			
+Renault	40	Groupe Perdriel	lemonde.fr	13/12/2017	22/7/2018
 Sophia Publications	100	L'histoire	lemonde.fr	23/06/2016	22/10/2016
 Sophia Publications	100	Historia	strategies.fr	14/11/2014	28/06/2016
 Groupe Perdriel	100	Challenges	strategies.fr	14/11/2014	28/06/2016
@@ -31,7 +32,7 @@ Les Nouvelles Éditions	11	Huffingtonpost.fr	lexpress.fr	24/02/2015	10/07/2016
 Les Nouvelles Éditions	100	Radio Nova	lesechos.fr	22/05/2015	14/05/2016
 Les Nouvelles Éditions	100	Les Inrockuptibles	lesechos.fr	22/05/2015	14/05/2016
 Les Nouvelles Éditions	<50	Vice.com	lemonde.fr	11/03/2016	10/07/2016
-Serge Dassault	100	Groupe Dassault			
+Famille Dassault	100	Groupe Dassault			
 Groupe Dassault	100	Groupe Figaro			
 Groupe Figaro	100	Le Figaro	dassault.fr et offremedia.com	03/10/2017	14/05/2016 et 16/10/2017
 Groupe Figaro	100	Figaro Magazine	dassault.fr et offremedia.com	03/10/2017	14/05/2016 et 16/10/2017
@@ -39,7 +40,7 @@ Groupe Figaro	100	Le Particulier	dassault.fr et offremedia.com	03/10/2017	14/05/
 Groupe Figaro	100	La Lettre de l'Expansion	dassault.fr et offremedia.com	03/10/2017	14/05/2016 et 16/10/2017
 Bernard Arnault	46,6	LVMH			
 LVMH	100	Le Parisien	lvmh.fr	31/12/2015	28/06/2016
-LVMH	100	Le Parisien Magazine	lvmh.fr	31/12/2015	28/06/2016
+LVMH	100	Le Parisien Week-End	lvmh.fr	31/12/2015	28/06/2016
 LVMH	100	Le Parisien économie	lvmh.fr	31/12/2015	28/06/2016
 LVMH	100	Aujourd'hui en France	lvmh.fr	31/12/2015	28/06/2016
 LVMH	100	Groupe Les Échos	lvmh.fr	31/12/2015	28/06/2016
@@ -56,15 +57,12 @@ Patrick Drahi	61	Altice
 Altice	78	SFR Groupe			
 SFR Groupe	100	L'Express	linformaticien.com	25/11/2015	28/06/2016
 SFR Groupe	100	Libération	linformaticien.com	25/11/2015	28/06/2016
-SFR Groupe	49	News Participations			
-Alain Weill	51	News Participations			
-News Participations	95	NextRadioTV			
+SFR Groupe	100	NextRadioTV	freenews.fr	23/04/2018	22/07/2018
 NextRadioTV	100	BFM TV	investir.lesechos.fr	02/02/2016	14/05/2016
 NextRadioTV	100	RMC Découverte	investir.lesechos.fr	02/02/2016	14/05/2016
 NextRadioTV	100	RMC	investir.lesechos.fr	02/02/2016	14/05/2016
 NextRadioTV	100	BFM Business	investir.lesechos.fr	02/02/2016	14/05/2016
-NextRadioTV	39	Numéro 23	ouest-france.fr et actu-medias.com	13/04/2016	14/05/2016
-Pascal Houzelot	61	Numéro 23	ouest-france.fr et actu-medias.com	13/04/2016	14/05/2016
+NextRadioTV	100	Numéro 23	lepoint.fr	27/07/2017	22/07/2018
 Arnaud Lagardère	7,96	Lagardère SCA			
 Qatar Investment Authority	12,83	Lagardère SCA			
 Lagardère SCA	100	Lagardère Active			
@@ -86,7 +84,9 @@ Iskandar Safa	100	Privinvest
 Privinvest	>50	Groupe Valmonde			
 Groupe Valmonde	100	Valeurs actuelles	ozap.com	15/06/2017	16/10/2017
 Groupe Valmonde	100	Mieux vivre votre argent	ozap.com	15/06/2017	16/10/2017
-Yves de Chaisemartin	86	Marianne	Correspondance de la presse	19/12/2016	19/12/2016
+Yves de Chaisemartin	9	Marianne	Correspondance de la presse	19/12/2016	19/12/2016
+Daniel Křetínský	50	Czech Media Invest	bfmbusiness.bfmtv.com	24/04/2018	22/07/2018
+Czech Media Invest	91	Marianne	marianne.net	26/04/2018	22/07/2018
 François Pinault	100	Artémis			
 Artémis	100	Groupe Sebdo-Le Point			
 Artémis	100	Groupe L'Agefi			
@@ -123,6 +123,7 @@ République française	100	France Médias Monde
 République française	100	France Télévision			
 République française	100	Radio France			
 République française	100	Arte France			
+République française	15	Renault	zonebourse.com	...	22/07/2018																			
 France Médias Monde	100	Monte Carlo Doualiya			
 France Médias Monde	100	Radio France International			
 France Médias Monde	100	France 24			
@@ -261,7 +262,7 @@ Groupe Télégramme	50	Bretagne magazine	groupe-telegramme.com		05/05/2016
 Bernard Tapie	89	Groupe La Provence			
 Nethys	11	Groupe La Provence			
 Nethys	20	Nice-Matin	lesechos.fr	10/05/2016	28/06/2016
-Groupe La Provence	100	Corse Matin	lesechos.fr	30/10/2015	06/05/2016
+Groupe La Provence	65	Corse Matin	latribune.fr	18/3/2018	22/07/2018
 Groupe La Provence	100	La Provence	lesechos.fr	30/10/2015	06/05/2016
 Xavier Ellie	100	Société Normande d'Information et de Communication			
 Société Normande d'Information et de Communication	100	Paris-Normandie	lesechos.fr et wikipedia.org	05/04/2016	06/05/2016
