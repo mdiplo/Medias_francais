@@ -50,6 +50,7 @@ Investir	Média	3		GPE	Hebdomadaire
 Investir Magazine	Média	3		GPE	Mensuel		
 Les Échos Week-End	Média	3		GPE	Hebdomadaire		
 Radio Classique	Média	3		Radio	National		
+L'Opinion	Média	3		GPE	Quotidien		
 Famille Bettencourt	Personne physique	1	2				
 Nicolas Beytout	Personne physique	1					
 Patrick Drahi	Personne physique	1	8				
@@ -57,15 +58,12 @@ Altice	Personne morale	2
 SFR Groupe	Personne morale	2					
 L'Express	Média	3		GPE	Hebdomadaire		
 Libération	Média	3		GPE	Quotidien		
-News Participations	Personne morale	2					
-Alain Weill	Personne physique	1	268				
 NextRadioTV	Personne morale	2					
 BFM TV	Média	3		Télévision			Gratuit
 RMC Découverte	Média	3		Télévision			Gratuit
 RMC	Média	3		Radio		National	
 BFM Business	Média	3		Radio		National	
 Numéro 23	Média	3		Télévision			Gratuit
-Pascal Houzelot	Personne physique	1					
 Arnaud Lagardère	Personne physique	1	303				
 Qatar Investment Authority	Personne morale	2					
 Lagardère SCA	Personne morale	2					
@@ -90,7 +88,9 @@ Privinvest	Personne morale	2
 Groupe Valmonde	Personne morale	2					
 Valeurs actuelles	Média	3		GPE	Hebdomadaire		
 Mieux vivre votre argent	Média	3		GPE	Mensuel		
-Yves de Chaisemartin	Personne physique	1					
+Yves de Chaisemartin	Personne physique	1			
+Daniel Křetínský	Personne physique	1	5	
+Czech Media Invest	Personne morale	2	
 Marianne	Média	3		GPE	Hebdomadaire		
 François Pinault	Personne physique	1	7				
 Artémis	Personne morale	2					
