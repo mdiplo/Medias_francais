@@ -1,61 +1,56 @@
-nom	typeLibelle	typeCode	rangChallenges	mediaType	mediaPeriodicite	mediaEchelle	commentaire																			
-Claude Perdriel	Personne physique	1	365																							
-Sophia Publications	Personne morale	2																								
-Groupe Perdriel	Personne morale	2																								
-L'histoire	Média	3		GPE	Mensuel																					
-Historia	Média	3		GPE	Mensuel																					
-Challenges	Média	3		GPE	Hebdomadaire																					
-Sciences & Avenir	Média	3		GPE	Mensuel																					
-L'Opinion	Média	3		GPE	Quotidien																					
+nom	typeLibelle	typeCode	rangChallenges	mediaType	mediaPeriodicite	mediaEchelle	commentaire
+Challenges	Média	3	NA	GPE	Hebdomadaire		
+Sciences & Avenir	Média	3	NA	GPE	Mensuel		
+LOpinion	Média	3		GPE	Quotidien																					
 Prisa	Personne morale	2																								
 Xavier Niel	Personne physique	1	10																							
 Matthieu Pigasse	Personne physique	1																								
 Le Monde libre	Personne morale	2																								
 Le Monde SA	Personne morale	2																								
-L'Obs	Média	3		GPE	Hebdomadaire																					
-Prier	Média	3		GPE	Mensuel																					
-M, le magazine du Monde	Média	3		GPE	Hebdomadaire																					
-Le Monde	Média	3		GPE	Hebdomadaire																					
-Télérama	Média	3		GPE	Mensuel																					
-Courrier international	Média	3		GPE	Hebdomadaire																					
-Le Monde des religions	Média	3		GPE	Mensuel																					
-La Vie	Média	3		GPE	Hebdomadaire																					
-Le Monde diplomatique	Média	3		GPE	Mensuel																					
-Manière de voir	Média	3		GPE	Bimestriel																					
-Huffingtonpost.fr	Média	3		Site			Pure player																			
-AOL	Personne morale	2																								
-Huffington Post	Personne morale	2																								
-Les Nouvelles Éditions	Personne morale	2																								
-Radio Nova	Média	3		Radio		National																				
-Les Inrockuptibles	Média	3		GPE	Hebdomadaire																					
-Vice.com	Média	3		Site			Pure player																			
-Les Amis du Monde diplomatique	Personne morale	2																								
-Association Günter-Holzmann	Personne morale	2																								
-Famille Dassault	Personne physique	1	5																							
-Groupe Dassault	Personne morale	2																								
-Groupe Figaro	Personne morale	2																								
-Le Figaro	Média	3		GPE	Quotidien																					
-Figaro Magazine	Média	3		GPE	Hebdomadaire																					
-Le Particulier	Média	3		GPE	Mesuel																					
-La Lettre de l'Expansion	Média	3		GPE	Mensuel																					
+LObs	Média	3	NA	GPE	Hebdomadaire		
+Prier	Média	3	NA	GPE	Mensuel		
+M, le magazine du Monde	Média	3	NA	GPE	Hebdomadaire		
+Le Monde	Média	3	NA	GPE	Hebdomadaire		
+Télérama	Média	3	NA	GPE	Mensuel		
+Courrier international	Média	3	NA	GPE	Hebdomadaire		
+Le Monde des religions	Média	3	NA	GPE	Mensuel		
+La Vie	Média	3	NA	GPE	Hebdomadaire		
+Le Monde diplomatique	Média	3	NA	GPE	Mensuel		
+Manière de voir	Média	3	NA	GPE	Bimestriel		
+Huffingtonpost.fr	Média	3	NA	Site			Pure player
+AOL	Personne morale	2	NA				
+Huffington Post	Personne morale	2	NA				
+Les Nouvelles Éditions	Personne morale	2	NA				
+Radio Nova	Média	3	NA	Radio		National	
+Les Inrockuptibles	Média	3	NA	GPE	Hebdomadaire		
+Vice.com	Média	3	NA	Site			Pure player
+Les Amis du Monde diplomatique	Personne morale	2	NA				
+Association Günter-Holzmann	Personne morale	2	NA				
+Famille Dassault	Personne physique	1	5				
+Groupe Dassault	Personne morale	2	NA				
+Groupe Figaro	Personne morale	2	NA				
+Le Figaro	Média	3	NA	GPE	Quotidien		
+Figaro Magazine	Média	3	NA	GPE	Hebdomadaire		
+Le Particulier	Média	3	NA	GPE	Mesuel		
+La Lettre de lExpansion	Média	3		GPE	Mensuel																					
 Bernard Arnault	Personne physique	1	1																							
 LVMH	Personne morale	2																								
 Le Parisien	Média	3		GPE	Quotidien																					
 Le Parisien Week-End	Média	3		GPE	Hebdomadaire																					
 Le Parisien économie	Média	3		GPE	Hebdomadaire																					
-Aujourd'hui en France	Média	3		GPE	Quotidien																					
-Groupe Les Échos	Personne morale	2																								
-Les Échos	Média	3		GPE	Quotidien																					
-Investir	Média	3		GPE	Hebdomadaire																					
-Investir Magazine	Média	3		GPE	Mensuel																					
-Les Échos Week-End	Média	3		GPE	Hebdomadaire																					
-Radio Classique	Média	3		Radio	National																					
-Famille Bettencourt	Personne physique	1	2																							
-Nicolas Beytout	Personne physique	1																								
-Patrick Drahi	Personne physique	1	8																							
-Altice	Personne morale	2																								
-Altice France	Personne morale	2																								
-L'Express	Média	3		GPE	Hebdomadaire																					
+Aujourdhui en France	Média	3	NA	GPE	Quotidien		
+Groupe Les Échos	Personne morale	2	NA				
+Les Échos	Média	3	NA	GPE	Quotidien		
+Investir	Média	3	NA	GPE	Hebdomadaire		
+Investir Magazine	Média	3	NA	GPE	Mensuel		
+Les Échos Week-End	Média	3	NA	GPE	Hebdomadaire		
+Radio Classique	Média	3	NA	Radio	National		
+Famille Bettencourt	Personne physique	1	2				
+Nicolas Beytout	Personne physique	1	NA				
+Patrick Drahi	Personne physique	1	8				
+Altice	Personne morale	2	NA				
+Altice France	Personne morale	2	NA				
+LExpress	Média	3		GPE	Hebdomadaire																					
 Libération	Média	3		GPE	Quotidien																					
 NextRadioTV	Personne morale	2																								
 BFM TV	Média	3		Télévision			Gratuit																			
@@ -74,56 +69,56 @@ Europe 1	Média	3		Radio		National
 RFM	Média	3		Radio		National																				
 Virgin Radio	Média	3		Radio		National																				
 Vincent Bolloré	Personne physique	1	12																							
-Financière de l'Odet	Personne morale	2																								
-Bolloré	Personne morale	2																								
-CNews matin	Média	3		GPE	Quotidien																					
-Vivendi	Personne morale	2																								
-Canal +	Média	3		Télévision			Semi-payant																			
-C8	Média	3		Télévision			Gratuit																			
-CNews	Média	3		Télévision			Gratuit																			
-CStar	Média	3		Télévision			Gratuit																			
-Iskandar Safa	Personne physique	1	76																							
-Privinvest	Personne morale	2																								
-Groupe Valmonde	Personne morale	2																								
-Valeurs actuelles	Média	3		GPE	Hebdomadaire																					
-Mieux vivre votre argent	Média	3		GPE	Mensuel																					
-Yves de Chaisemartin	Personne physique	1																								
-Daniel Křetínský	Personne physique	1	5				Pour la République tchèque (Daniel Křetínský) : Forbes 2018																			
-Czech Media Invest	Personne morale	2																								
-Marianne	Média	3		GPE	Hebdomadaire																					
-François Pinault	Personne physique	1	7																							
-Artémis	Personne morale	2																								
-Groupe Sebdo-Le Point	Personne morale	2																								
-Groupe L'Agefi	Personne morale	2																								
+Financière de lOdet	Personne morale	2	NA				
+Bolloré	Personne morale	2	NA				
+CNews matin	Média	3	NA	GPE	Quotidien		
+Vivendi	Personne morale	2	NA				
+Canal +	Média	3	NA	Télévision			Semi-payant
+C8	Média	3	NA	Télévision			Gratuit
+CNews	Média	3	NA	Télévision			Gratuit
+CStar	Média	3	NA	Télévision			Gratuit
+Iskandar Safa	Personne physique	1	76				
+Privinvest	Personne morale	2	NA				
+Groupe Valmonde	Personne morale	2	NA				
+Valeurs actuelles	Média	3	NA	GPE	Hebdomadaire		
+Mieux vivre votre argent	Média	3	NA	GPE	Mensuel		
+Yves de Chaisemartin	Personne physique	1	NA				
+Daniel Křetínský	Personne physique	1	5				Pour la République tchèque (Daniel Křetínský) : Forbes 2018
+Czech Media Invest	Personne morale	2	NA				
+Marianne	Média	3	NA	GPE	Hebdomadaire		
+François Pinault	Personne physique	1	7				
+Artémis	Personne morale	2	NA				
+Groupe Sebdo-Le Point	Personne morale	2	NA				
+Groupe LAgefi	Personne morale	2																								
 Point de vue	Média	3		GPE	Hebdomadaire																					
 Le Point	Média	3		GPE	Hebdomadaire																					
-L'Agefi hebdo	Média	3		GPE	Hebdomadaire																					
-Famille Mohn	Personne physique	1	39																							
-Bertelsmann	Personne morale	2																								
-Gruner + Jahr	Personne morale	2																								
-RTL Group	Personne morale	2																								
-Prisma Media	Personne morale	2																								
-VSD	Média	3		GPE	Hebdomadaire																					
-Capital	Média	3		GPE	Mensuel																					
-Management	Média	3		GPE	Mensuel																					
-Harvard Business Review	Média	3		GPE	Bimestriel																					
-Groupe M6	Personne morale	2																								
-M6	Média	3		Télévision			Gratuit																			
-W9	Média	3		Télévision			Gratuit																			
-6ter	Média	3		Télévision			Gratuit																			
-RTL	Média	3		Radio	National																					
-RTL2	Média	3		Radio	National																					
-Fun Radio	Média	3		Radio	National																					
-Martin et Olivier Bouygues	Personne physique	1	30																							
-Bouygues	Personne morale	2																								
-Groupe TF1	Personne morale	2																								
-TF1	Média	3		Télévision			Gratuit																			
-NT1	Média	3		Télévision			Gratuit																			
-LCI	Média	3		Télévision			Gratuit																			
-HD1	Média	3		Télévision			Gratuit																			
-TMC	Média	3		Télévision			Gratuit																			
-République française	État	4																								
-République fédérale d'Allemagne	État	4																								
+LAgefi hebdo	Média	3	NA	GPE	Hebdomadaire		
+Famille Mohn	Personne physique	1	39				
+Bertelsmann	Personne morale	2	NA				
+Gruner + Jahr	Personne morale	2	NA				
+RTL Group	Personne morale	2	NA				
+Prisma Media	Personne morale	2	NA				
+VSD	Média	3	NA	GPE	Hebdomadaire		
+Capital	Média	3	NA	GPE	Mensuel		
+Management	Média	3	NA	GPE	Mensuel		
+Harvard Business Review	Média	3	NA	GPE	Bimestriel		
+Groupe M6	Personne morale	2	NA				
+M6	Média	3	NA	Télévision			Gratuit
+W9	Média	3	NA	Télévision			Gratuit
+6ter	Média	3	NA	Télévision			Gratuit
+RTL	Média	3	NA	Radio	National		
+RTL2	Média	3	NA	Radio	National		
+Fun Radio	Média	3	NA	Radio	National		
+Martin et Olivier Bouygues	Personne physique	1	30				
+Bouygues	Personne morale	2	NA				
+Groupe TF1	Personne morale	2	NA				
+TF1	Média	3	NA	Télévision			Gratuit
+NT1	Média	3	NA	Télévision			Gratuit
+LCI	Média	3	NA	Télévision			Gratuit
+HD1	Média	3	NA	Télévision			Gratuit
+TMC	Média	3	NA	Télévision			Gratuit
+République française	État	4	NA				
+République fédérale dAllemagne	État	4																								
 Renault	Personne morale	2																								
 La Chaîne parlementaire	Média	3		Télévision			Gratuit																			
 Public Sénat	Média	3		Télévision			Gratuit																			
@@ -147,11 +142,11 @@ France Culture	Média	3		Radio		National
 FIP	Média	3		Radio		National																				
 France Bleu	Média	3		Radio		National																				
 France Info	Média	3		Radio		National																				
-Mouv'	Média	3		Radio		National																				
-Arte	Média	3		Télévision			Gratuit																			
-ARD / ZDF	Personne morale	2																								
-Arte Deutschland TV GmbH	Personne morale	2																								
-Les Augustins de l'Assomption	Personne morale	2																								
+Mouv	Média	3	NA	Radio		National	
+Arte	Média	3	NA	Télévision			Gratuit
+ARD / ZDF	Personne morale	2	NA				
+Arte Deutschland TV GmbH	Personne morale	2	NA				
+Les Augustins de lAssomption	Personne morale	2																								
 Bayard	Personne morale	2																								
 La Croix	Média	3		GPE	Quotidien																					
 Pèlerin	Média	3		GPE	Hebdomadaire																					
@@ -170,28 +165,28 @@ Crédit Agricole Nord de France	Personne morale	2
 Association pour le soutien des principes de la démocratie humaniste	Personne morale	2																								
 Groupe SIPA - Ouest	Personne morale	2																								
 Ouest France	Média	3		Régional	Quotidien	Régional																				
-Le Courrier de l'Ouest	Média	3		Régional	Quotidien	Régional																				
-Le Maine libre	Média	3		Régional	Quotidien	Régional																				
-Presse-Océan	Média	3		Régional	Quotidien	Régional																				
-La Presse de la Manche	Média	3		Régional	Quotidien	Régional																				
-Publi Hebdos	Média	3		Régional	Quotidien et hebdomadaire	Régional																				
-Sofiouest	Personne morale	2																								
-20 Minutes	Média	3		GPE	Quotidien																					
-Groupe Rossel	Personne morale	2																								
-Groupe Rossel La Voix	Personne morale	2																								
-La Voix du Nord SA	Personne morale	2																								
-La Voix du Nord	Média	3		Régional	Quotidien	Régional																				
-Nord éclair	Média	3		Régional	Quotidien	Régional																				
-Nord Littoral	Média	3		Régional	Quotidien	Régional																				
-Courrier picard	Média	3		Régional	Quotidien	Régional																				
-L'aisne Nouvelle	Média	3		Régional	Quotidien	Régional																				
-L'Union - L'Ardennais	Média	3		Régional	Quotidien	Régional																				
-L'Est-éclair - Libération Champagne	Média	3		Régional	Quotidien	Régional																				
-L'Avenir de l'Artois	Média	3		Régional	Hebdomadaire	Régional																				
-Les Echos du Touquet	Média	3		Régional	Hebdomadaire	Régional																				
-Le Journal des Flandres	Média	3		Régional	Hebdomadaire	Régional																				
-Le Messager	Média	3		Régional	Hebdomadaire	Régional																				
-L'Essor savoyard	Média	3		Régional	Hebdomadaire	Régional																				
+Le Courrier de lOuest	Média	3	NA	Régional	Quotidien	Régional	
+Le Maine libre	Média	3	NA	Régional	Quotidien	Régional	
+Presse-Océan	Média	3	NA	Régional	Quotidien	Régional	
+La Presse de la Manche	Média	3	NA	Régional	Quotidien	Régional	
+Publi Hebdos	Média	3	NA	Régional	Quotidien et hebdomadaire	Régional	
+Sofiouest	Personne morale	2	NA				
+20 Minutes	Média	3	NA	GPE	Quotidien		
+Groupe Rossel	Personne morale	2	NA				
+Groupe Rossel La Voix	Personne morale	2	NA				
+La Voix du Nord SA	Personne morale	2	NA				
+La Voix du Nord	Média	3	NA	Régional	Quotidien	Régional	
+Nord éclair	Média	3	NA	Régional	Quotidien	Régional	
+Nord Littoral	Média	3	NA	Régional	Quotidien	Régional	
+Courrier picard	Média	3	NA	Régional	Quotidien	Régional	
+Laisne Nouvelle	Média	3		Régional	Quotidien	Régional																				
+LUnion - LArdennais	Média	3		Régional	Quotidien	Régional																				
+LEst-éclair - Libération Champagne	Média	3	NA	Régional	Quotidien	Régional	
+LAvenir de lArtois	Média	3	NA	Régional	Hebdomadaire	Régional	
+Les Echos du Touquet	Média	3	NA	Régional	Hebdomadaire	Régional	
+Le Journal des Flandres	Média	3	NA	Régional	Hebdomadaire	Régional	
+Le Messager	Média	3	NA	Régional	Hebdomadaire	Régional	
+LEssor savoyard	Média	3		Régional	Hebdomadaire	Régional																				
 Le Pays gessien	Média	3		Régional	Hebdomadaire	Régional																				
 La Tribune républicaine	Média	3		Régional	Hebdomadaire	Régional																				
 La Savoie	Média	3		Régional	Hebdomadaire	Régional																				
@@ -199,15 +194,15 @@ Le Phare Dunkerquois	Média	3		Régional	Hebdomadaire	Régional
 La Semaine dans le Boulonnais	Média	3		Régional	Hebdomadaire	Régional																				
 Le Réveil de Berck	Média	3		Régional	Hebdomadaire	Régional																				
 Le Journal de Montreuil	Média	3		Régional	Hebdomadaire	Régional																				
-L'indicateur	Média	3		Régional	Hebdomadaire	Régional																				
-L'Echo de la Lys	Média	3		Régional	Hebdomadaire	Régional																				
+Lindicateur	Média	3	NA	Régional	Hebdomadaire	Régional	
+LEcho de la Lys	Média	3		Régional	Hebdomadaire	Régional																				
 Crédit Mutuel	Personne morale	2																								
 Groupe EBRA	Personne morale	2																								
-L'Est républicain	Média	3		Régional	Quotidien	Régional																				
-Le Républicain lorrain	Média	3		Régional	Quotidien	Régional																				
-DNA	Média	3		Régional	Quotidien	Régional																				
-Vosges Matin	Média	3		Régional	Quotidien	Régional																				
-L'Alsace	Média	3		Régional	Quotidien	Régional																				
+LEst républicain	Média	3	NA	Régional	Quotidien	Régional	
+Le Républicain lorrain	Média	3	NA	Régional	Quotidien	Régional	
+DNA	Média	3	NA	Régional	Quotidien	Régional	
+Vosges Matin	Média	3	NA	Régional	Quotidien	Régional	
+LAlsace	Média	3		Régional	Quotidien	Régional																				
 Le Bien public	Média	3		Régional	Quotidien	Régional																				
 Le Journal de Saône-et-Loire	Média	3		Régional	Quotidien	Régional																				
 Le Progrès	Média	3		Régional	Quotidien	Régional																				
@@ -244,40 +239,40 @@ Le Villefranchois	Média	3		Régional	Hebdomadaire	Régional
 La Gazette du Comminges	Média	3		Régional	Hebdomadaire	Régional																				
 Les Journaux du midi	Personne morale	2																								
 Midi libre	Média	3		Régional	Quotidien	Régional																				
-L'Indépendant	Média	3		Régional	Quotidien	Régional																				
-Centre Presse Aveyron	Média	3		Régional	Quotidien	Régional																				
-Famille Lemoine	Personne physique	1																								
-Groupe Sud Ouest	Personne morale	2																								
-Sud Ouest	Média	3		Régional	Quotidien	Régional																				
-Charente Libre	Média	3		Régional	Quotidien	Régional																				
-Dordogne Libre	Média	3		Régional	Quotidien	Régional																				
-Haute Saintonge	Média	3		Régional	Hebdomadaire	Régional																				
-Haute Gironde	Média	3		Régional	Hebdomadaire	Régional																				
-Le Résistant	Média	3		Régional	Hebdomadaire	Régional																				
-L'Hebdo de Charente-Maritime	Média	3		Régional	Hebdomadaire	Régional																				
+LIndépendant	Média	3	NA	Régional	Quotidien	Régional	
+Centre Presse Aveyron	Média	3	NA	Régional	Quotidien	Régional	
+Famille Lemoine	Personne physique	1	NA				
+Groupe Sud Ouest	Personne morale	2	NA				
+Sud Ouest	Média	3	NA	Régional	Quotidien	Régional	
+Charente Libre	Média	3	NA	Régional	Quotidien	Régional	
+Dordogne Libre	Média	3	NA	Régional	Quotidien	Régional	
+Haute Saintonge	Média	3	NA	Régional	Hebdomadaire	Régional	
+Haute Gironde	Média	3	NA	Régional	Hebdomadaire	Régional	
+Le Résistant	Média	3	NA	Régional	Hebdomadaire	Régional	
+LHebdo de Charente-Maritime	Média	3		Régional	Hebdomadaire	Régional																				
 La Dépêche du Bassin	Média	3		Régional	Hebdomadaire	Régional																				
 Le Journal du Médoc	Média	3		Régional	Hebdomadaire	Régional																				
 Pyrénées Presse	Personne morale	2																								
 La République des Pyrénées	Média	3		Régional	Quotidien	Régional																				
-L'Eclair	Média	3		Régional	Quotidien	Régional																				
-Édouard Coudurier	Personne physique	1																								
-Groupe Télégramme	Personne morale	2																								
-Le Télégramme	Média	3		Régional	Quotidien	Régional																				
-Le Poher	Média	3		Régional	Quotidien	Régional																				
-Tébéo	Média	3		Régional		Régional	Télévision																			
-Tébésud	Média	3		Régional		Régional	Télévision																			
-Le Mensuel de Rennes	Média	3		Régional	Mensuel	Régional																				
-Sept Jours à Brest	Média	3		Régional	Hebdomadaire	Régional																				
-Le Journal des entreprises	Média	3		Régional	Mensuel	Régional																				
-Bretagne magazine	Média	3		Régional	Hebdomadaire	Régional																				
-Bernard Tapie	Personne physique	1																								
-Nethys	Personne morale	2																								
-Groupe La Provence	Personne morale	2																								
-Nice-Matin	Média	3		Régional	Quotidien	Régional																				
-Corse Matin	Média	3		Régional	Quotidien	Régional																				
-La Provence	Média	3		Régional	Quotidien	Régional																				
-Xavier Ellie	Personne physique	1																								
-Société Normande d'Information et de Communication	Personne morale	2																								
+LEclair	Média	3	NA	Régional	Quotidien	Régional	
+Édouard Coudurier	Personne physique	1	NA				
+Groupe Télégramme	Personne morale	2	NA				
+Le Télégramme	Média	3	NA	Régional	Quotidien	Régional	
+Le Poher	Média	3	NA	Régional	Quotidien	Régional	
+Tébéo	Média	3	NA	Régional		Régional	Télévision
+Tébésud	Média	3	NA	Régional		Régional	Télévision
+Le Mensuel de Rennes	Média	3	NA	Régional	Mensuel	Régional	
+Sept Jours à Brest	Média	3	NA	Régional	Hebdomadaire	Régional	
+Le Journal des entreprises	Média	3	NA	Régional	Mensuel	Régional	
+Bretagne magazine	Média	3	NA	Régional	Hebdomadaire	Régional	
+Bernard Tapie	Personne physique	1	NA				
+Nethys	Personne morale	2	NA				
+Groupe La Provence	Personne morale	2	NA				
+Nice-Matin	Média	3	NA	Régional	Quotidien	Régional	
+Corse Matin	Média	3	NA	Régional	Quotidien	Régional	
+La Provence	Média	3	NA	Régional	Quotidien	Régional	
+Xavier Ellie	Personne physique	1	NA				
+Société Normande dInformation et de Communication	Personne morale	2																								
 Paris-Normandie	Média	3		Régional	Quotidien	Régional																				
 Havre Libre	Média	3		Régional	Quotidien	Régional																				
 Le Progrès de Fécamp	Média	3		Régional	Quotidien	Régional																				
@@ -290,25 +285,25 @@ Groupe Hersant Média	Personne morale	2
 Groupe Filanosa	Personne morale	2																								
 Rhône Média	Personne morale	2																								
 La Côte (Nyon)	Média	3		Suisse																						
-L'Express (Neuchâtel)	Média	3		Suisse																						
-L'Impartial (La Chaux-de-Fonds)	Média	3		Suisse																						
+LExpress (Neuchâtel)	Média	3	NA	Suisse			
+LImpartial (La Chaux-de-Fonds)	Média	3		Suisse																						
 Le Nouvelliste	Média	3		Suisse																						
 La Gazette de Martigny	Média	3		Suisse																						
 Le Journal de Sierre	Média	3		Suisse																						
 France Antilles	Média	3		Régional	Quotidien	Régional																				
 France Guyane	Média	3		Régional	Quotidien	Régional																				
 Abdoul Cadjee	Personne physique	1																								
-Le Journal de l'Île de la Réunion	Média	3		Régional	Quotidien	Régional																				
-Benjamin et Ariane de Rothschild	Personne physique	1	20																							
-Lampsane Investissement SA	Personne morale	2																								
-Slate.fr	Média	3		Site			Pure player																			
-Jean-Sébastien Ferjou	Personne physique	1																								
-Pierre Guyot	Personne physique	1																								
-Gérard Lignac	Personne physique	1																								
-Atlantico.fr	Média	3		Site			Pure player																			
-Franck Julien	Personne physique	1	135																							
-Edi Invest	Personne morale	2																								
-Jean Christophe Tortora	Personne physique	1																								
-Laurent Alexandre	Personne physique	1																								
-Hima Groupe	Personne morale	2																								
-La Tribune	Média	3		Site																						
+Le Journal de lÎle de la Réunion	Média	3	NA	Régional	Quotidien	Régional	
+Benjamin et Ariane de Rothschild	Personne physique	1	20				
+Lampsane Investissement SA	Personne morale	2	NA				
+Slate.fr	Média	3	NA	Site			Pure player
+Jean-Sébastien Ferjou	Personne physique	1	NA				
+Pierre Guyot	Personne physique	1	NA				
+Gérard Lignac	Personne physique	1	NA				
+Atlantico.fr	Média	3	NA	Site			Pure player
+Franck Julien	Personne physique	1	135				
+Edi Invest	Personne morale	2	NA				
+Jean Christophe Tortora	Personne physique	1	NA				
+Laurent Alexandre	Personne physique	1	NA				
+Hima Groupe	Personne morale	2	NA				
+La Tribune	Média	3	NA	Site			
