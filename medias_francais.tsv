@@ -96,7 +96,7 @@ id	nom	typeLibelle	typeCode	rangChallenges	mediaType	mediaPeriodicite	mediaEchel
 95	François Pinault	Personne physique	1	6				
 96	Artémis	Personne morale	2					
 97	Groupe Sebdo-Le Point	Personne morale	2					
-98	Groupe L’Agefi	Personne morale	2					
+98	Groupe L'Agefi	Personne morale	2					
 99	Point de vue	Média	3		GPE	Hebdomadaire		
 100	Le Point	Média	3		GPE	Hebdomadaire		
 101	L'Agefi hebdo	Média	3		GPE	Hebdomadaire		
@@ -127,7 +127,7 @@ id	nom	typeLibelle	typeCode	rangChallenges	mediaType	mediaPeriodicite	mediaEchel
 126	TF1 Séries Films	Média	3		Télévision			Gratuit
 127	TMC	Média	3		Télévision			Gratuit
 128	République française	État	4					
-129	République fédérale d’Allemagne	État	4					
+129	République fédérale d'Allemagne	État	4					
 130	Renault	Personne morale	2					
 131	La Chaîne parlementaire	Média	3		Télévision			Gratuit
 132	Public Sénat	Média	3		Télévision			Gratuit
@@ -155,7 +155,7 @@ id	nom	typeLibelle	typeCode	rangChallenges	mediaType	mediaPeriodicite	mediaEchel
 154	Arte	Média	3		Télévision			Gratuit
 155	ARD / ZDF	Personne morale	2					
 156	Arte Deutschland TV GmbH	Personne morale	2					
-157	Les Augustins de l’Assomption	Personne morale	2					
+157	Les Augustins de l'Assomption	Personne morale	2					
 158	Bayard	Personne morale	2					
 159	La Croix	Média	3		GPE	Quotidien		
 160	Pèlerin	Média	3		GPE	Hebdomadaire		
@@ -225,12 +225,12 @@ id	nom	typeLibelle	typeCode	rangChallenges	mediaType	mediaPeriodicite	mediaEchel
 224	Le Populaire du centre	Média	3		Régional	Quotidien	Régional	
 225	Le Journal du centre	Média	3		Régional	Quotidien	Régional	
 226	Le Berry républicain	Média	3		Régional	Quotidien	Régional	
-227	L’Yonne Républicaine	Média	3		Régional	Quotidien	Régional	
-228	L’Echo Républicain	Média	3		Régional	Quotidien	Régional	
+227	L'Yonne Républicaine	Média	3		Régional	Quotidien	Régional	
+228	L'Echo Républicain	Média	3		Régional	Quotidien	Régional	
 229	Courrier du Loiret	Média	3		Régional	Hebdomadaire	Régional	
-230	L’Eclaireur du Gâtinais	Média	3		Régional	Hebdomadaire	Régional	
+230	L'Eclaireur du Gâtinais	Média	3		Régional	Hebdomadaire	Régional	
 231	Régional de Cosne	Média	3		Régional	Hebdomadaire	Régional	
-232	L’Echo Charitois	Média	3		Régional	Hebdomadaire	Régional	
+232	L'Echo Charitois	Média	3		Régional	Hebdomadaire	Régional	
 233	Pays Roannais	Média	3		Régional	Hebdomadaire	Régional	
 234	La Liberté	Média	3		Régional	Hebdomadaire	Régional	
 235	Journal de Gien	Média	3		Régional	Hebdomadaire	Régional	
@@ -283,7 +283,7 @@ id	nom	typeLibelle	typeCode	rangChallenges	mediaType	mediaPeriodicite	mediaEchel
 282	Corse Matin	Média	3		Régional	Quotidien	Régional	
 283	La Provence	Média	3		Régional	Quotidien	Régional	
 284	Jean-Louis Louvel	Personne physique	1					
-285	Société Normande d’Information et de Communication	Personne morale	2					
+285	Société Normande d'Information et de Communication	Personne morale	2					
 286	Paris-Normandie	Média	3		Régional	Quotidien	Régional	
 287	Havre Libre	Média	3		Régional	Quotidien	Régional	
 288	Le Progrès de Fécamp	Média	3		Régional	Quotidien	Régional	
