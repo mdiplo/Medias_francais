@@ -2,7 +2,7 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 1	Claude Perdriel	50	Sophia Publications			
 1	Claude Perdriel	53	Groupe Perdriel			
 130	Renault	40	Groupe Perdriel	lemonde.fr	13/12/2017	22/7/2018
-2	Sophia Publications	100	L'histoire	lemonde.fr	23/06/2016	22/10/2016
+2	Sophia Publications	100	L’histoire	lemonde.fr	23/06/2016	22/10/2016
 2	Sophia Publications	100	Historia	strategies.fr	14/11/2014	28/06/2016
 3	Groupe Perdriel	100	Challenges	strategies.fr	14/11/2014	28/06/2016
 3	Groupe Perdriel	100	Sciences & Avenir	strategies.fr	14/11/2014	28/06/2016
@@ -13,7 +13,7 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 93	Czech Media Invest	49	Le Nouveau Monde	lemonde.fr	17/10/2018	08/12/2018
 13	Le Nouveau Monde	40	Le Monde libre	lemonde.fr	17/10/2018	08/12/2018
 14	Le Monde libre	75	Le Monde SA	lemonde.fr	17/10/2018	08/12/2018
-14	Le Monde libre	99	L'Obs	lefigaro.fr	23/11/2016	23/11/2016
+14	Le Monde libre	99	L’Obs	lefigaro.fr	23/11/2016	23/11/2016
 15	Le Monde SA	100	Prier	sdllemonde.fr, lemonde.fr	06/10/2017	14/05/2016 , 16/10/2017
 15	Le Monde SA	100	M, le magazine du Monde	sdllemonde.fr, lemonde.fr	06/10/2017	14/05/2016 , 16/10/2017
 15	Le Monde SA	100	Le Monde	sdllemonde.fr, lemonde.fr	06/10/2017	14/05/2016 , 16/10/2017
@@ -40,26 +40,26 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 37	Groupe Figaro	100	Le Figaro	dassault.fr, offremedia.com	03/10/2017	14/05/2016 , 16/10/2017
 37	Groupe Figaro	100	Figaro Magazine	dassault.fr, offremedia.com	03/10/2017	14/05/2016 , 16/10/2017
 37	Groupe Figaro	100	Le Particulier	dassault.fr, offremedia.com	03/10/2017	14/05/2016 , 16/10/2017
-37	Groupe Figaro	100	La Lettre de l'Expansion	dassault.fr, offremedia.com	03/10/2017	14/05/2016 , 16/10/2017
+37	Groupe Figaro	100	La Lettre de l’Expansion	dassault.fr, offremedia.com	03/10/2017	14/05/2016 , 16/10/2017
 42	Bernard Arnault	46,6	LVMH			
 43	LVMH	100	Le Parisien	lvmh.fr	31/12/2015	28/06/2016
 43	LVMH	100	Le Parisien Week-End	lvmh.fr	31/12/2015	28/06/2016
 43	LVMH	100	Le Parisien économie	lvmh.fr	31/12/2015	28/06/2016
-43	LVMH	100	Aujourd'hui en France	lvmh.fr	31/12/2015	28/06/2016
+43	LVMH	100	Aujourd’hui en France	lvmh.fr	31/12/2015	28/06/2016
 43	LVMH	100	Groupe Les Échos	lvmh.fr	31/12/2015	28/06/2016
 48	Groupe Les Échos	100	Les Échos	lvmh.fr	31/12/2015	28/06/2016
 48	Groupe Les Échos	100	Investir	lvmh.fr	31/12/2015	28/06/2016
 48	Groupe Les Échos	100	Investir Magazine	lvmh.fr	31/12/2015	28/06/2016
 48	Groupe Les Échos	100	Les Échos Week-End	lvmh.fr	31/12/2015	28/06/2016
 48	Groupe Les Échos	100	Radio Classique	lvmh.fr	31/12/2015	28/06/2016
-43	LVMH	participe	L'Opinion	challenges.fr	22/08/2014	14/05/2016
-54	Famille Bettencourt	participe	L'Opinion	challenges.fr	22/08/2014	14/05/2016
-55	Nicolas Beytout	participe	L'Opinion	challenges.fr	22/08/2014	14/05/2016
-1	Claude Perdriel	participe	L'Opinion	challenges.fr	22/08/2014	14/05/2016
+43	LVMH	participe	L’Opinion	challenges.fr	22/08/2014	14/05/2016
+54	Famille Bettencourt	participe	L’Opinion	challenges.fr	22/08/2014	14/05/2016
+55	Nicolas Beytout	participe	L’Opinion	challenges.fr	22/08/2014	14/05/2016
+1	Claude Perdriel	participe	L’Opinion	challenges.fr	22/08/2014	14/05/2016
 1	Claude Perdriel	60	Le Nouveau Magazine littéraire	lefigaro.fr	15/12/2017	08/12/2018
 56	Patrick Drahi	61	Altice			
 57	Altice	78	Altice France			
-58	Altice France	100	L'Express	linformaticien.com	25/11/2015	28/06/2016
+58	Altice France	100	L’Express	linformaticien.com	25/11/2015	28/06/2016
 58	Altice France	100	Libération	linformaticien.com	25/11/2015	28/06/2016
 58	Altice France	100	NextRadioTV	freenews.fr	23/04/2018	22/07/2018
 61	NextRadioTV	100	BFM TV	investir.lesechos.fr	02/02/2016	14/05/2016
@@ -76,7 +76,7 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 70	Lagardère Active	100	Europe 1	lagardere.com	31/12/2015	14/05/2016
 70	Lagardère Active	100	RFM	lagardere.com	31/12/2015	14/05/2016
 70	Lagardère Active	100	Virgin Radio	lagardere.com	31/12/2015	14/05/2016
-77	Vincent Bolloré	49,77	Financière de l'Odet			
+77	Vincent Bolloré	49,77	Financière de l’Odet			
 78	Financière de l‘Odet	64,4	Bolloré			
 79	Bolloré	100	CNews matin	bollore.com, vivendi.com, ozap.com	31/12/2015, 21/04/2017, 31/12/2015	28/06/2016 , 10/10/2016
 79	Bolloré	20,65	Vivendi	bollore.com, vivendi.com, ozap.com	31/12/2015, 21/04/2017, 31/12/2015	28/06/2016 , 10/10/2016
@@ -94,10 +94,10 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 93	Czech Media Invest	100	Elle	lemonde.fr	18/10/2018	08/12/2018
 95	François Pinault	100	Artémis			
 96	Artémis	100	Groupe Sebdo-Le Point			
-96	Artémis	100	Groupe L'Agefi			
+96	Artémis	100	Groupe L’Agefi			
 96	Artémis	100	Point de vue	Pressenews.fr	22/11/2017	23/11/2017
 97	Groupe Sebdo-Le Point	100	Le Point	groupeartemis.com, agefi.fr		28/06/2016
-98	Groupe L’Agefi	100	L'Agefi hebdo	groupeartemis.com, agefi.fr		28/06/2016
+98	Groupe L’Agefi	100	L’Agefi hebdo	groupeartemis.com, agefi.fr		28/06/2016
 102	Famille Mohn	contrôle	Bertelsmann			
 103	Bertelsmann	100	Gruner + Jahr			
 103	Bertelsmann	75	RTL Group			
@@ -147,7 +147,7 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 135	Radio France	100	FIP			
 135	Radio France	100	France Bleu			
 135	Radio France	100	France Info			
-135	Radio France	100	Mouv'			
+135	Radio France	100	Mouv’			
 135	Radio France	contrôle	France info			
 136	Arte France	50	Arte			
 129	République fédérale d’Allemagne	contrôle	ARD / ZDF			
@@ -167,7 +167,7 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 170	Famille Hutin	contrôle	Association pour le soutien des principes de la démocratie humaniste			
 173	Association pour le soutien des principes de la démocratie humaniste	100	Groupe SIPA - Ouest			
 174	Groupe SIPA - Ouest	100	Ouest France	hebdoscom.com, precom.fr		28/06/2016
-174	Groupe SIPA - Ouest	100	Le Courrier de l'Ouest	hebdoscom.com, precom.fr		28/06/2016
+174	Groupe SIPA - Ouest	100	Le Courrier de l’Ouest	hebdoscom.com, precom.fr		28/06/2016
 174	Groupe SIPA - Ouest	100	Le Maine libre	hebdoscom.com, precom.fr		28/06/2016
 174	Groupe SIPA - Ouest	100	Presse-Océan	hebdoscom.com, precom.fr		28/06/2016
 174	Groupe SIPA - Ouest	100	La Presse de la Manche	hebdoscom.com, precom.fr		28/06/2016
@@ -183,14 +183,14 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 185	La Voix du Nord SA	100	Nord éclair	latribune.fr, rossel-lavoix.fr	11/01/2016, 04/09/2013	28/06/2016
 185	La Voix du Nord SA	100	Nord Littoral	latribune.fr, rossel-lavoix.fr	11/01/2016, 04/09/2013	28/06/2016
 185	La Voix du Nord SA	100	Courrier picard	latribune.fr, rossel-lavoix.fr	11/01/2016, 04/09/2013	28/06/2016
-185	La Voix du Nord SA	100	L'aisne Nouvelle	latribune.fr, rossel-lavoix.fr	11/01/2016, 04/09/2013	28/06/2016
-185	La Voix du Nord SA	100	L'Union - L'Ardennais	latribune.fr, rossel-lavoix.fr	11/01/2016, 04/09/2013	28/06/2016
-185	La Voix du Nord SA	100	L'Est-éclair - Libération Champagne	latribune.fr, rossel-lavoix.fr	11/01/2016, 04/09/2013	28/06/2016
-185	La Voix du Nord SA	100	L'Avenir de l'Artois	latribune.fr, rossel-lavoix.fr	11/01/2016, 04/09/2013	28/06/2016
+185	La Voix du Nord SA	100	L’aisne Nouvelle	latribune.fr, rossel-lavoix.fr	11/01/2016, 04/09/2013	28/06/2016
+185	La Voix du Nord SA	100	L’Union - L'Ardennais	latribune.fr, rossel-lavoix.fr	11/01/2016, 04/09/2013	28/06/2016
+185	La Voix du Nord SA	100	L’Est-éclair - Libération Champagne	latribune.fr, rossel-lavoix.fr	11/01/2016, 04/09/2013	28/06/2016
+185	La Voix du Nord SA	100	L’Avenir de l'Artois	latribune.fr, rossel-lavoix.fr	11/01/2016, 04/09/2013	28/06/2016
 185	La Voix du Nord SA	100	Les Echos du Touquet	latribune.fr, rossel-lavoix.fr	11/01/2016, 04/09/2013	28/06/2016
 185	La Voix du Nord SA	100	Le Journal des Flandres	latribune.fr, rossel-lavoix.fr	11/01/2016, 04/09/2013	28/06/2016
 185	La Voix du Nord SA	100	Le Messager	latribune.fr, rossel-lavoix.fr	11/01/2016, 04/09/2013	28/06/2016
-185	La Voix du Nord SA	100	L'Essor savoyard	latribune.fr, rossel-lavoix.fr	11/01/2016, 04/09/2013	28/06/2016
+185	La Voix du Nord SA	100	L’Essor savoyard	latribune.fr, rossel-lavoix.fr	11/01/2016, 04/09/2013	28/06/2016
 185	La Voix du Nord SA	100	Le Pays gessien	latribune.fr, rossel-lavoix.fr	11/01/2016, 04/09/2013	28/06/2016
 185	La Voix du Nord SA	100	La Tribune républicaine	latribune.fr, rossel-lavoix.fr	11/01/2016, 04/09/2013	28/06/2016
 185	La Voix du Nord SA	100	La Savoie	latribune.fr, rossel-lavoix.fr	11/01/2016, 04/09/2013	28/06/2016
@@ -198,14 +198,14 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 185	La Voix du Nord SA	100	La Semaine dans le Boulonnais	latribune.fr, rossel-lavoix.fr	11/01/2016, 04/09/2013	28/06/2016
 185	La Voix du Nord SA	100	Le Réveil de Berck	latribune.fr, rossel-lavoix.fr	11/01/2016, 04/09/2013	28/06/2016
 185	La Voix du Nord SA	100	Le Journal de Montreuil	latribune.fr, rossel-lavoix.fr	11/01/2016, 04/09/2013	28/06/2016
-185	La Voix du Nord SA	100	L'indicateur	latribune.fr, rossel-lavoix.fr	11/01/2016, 04/09/2013	28/06/2016
-185	La Voix du Nord SA	100	L'Echo de la Lys	latribune.fr, rossel-lavoix.fr	11/01/2016, 04/09/2013	28/06/2016
+185	La Voix du Nord SA	100	L’indicateur	latribune.fr, rossel-lavoix.fr	11/01/2016, 04/09/2013	28/06/2016
+185	La Voix du Nord SA	100	L’Echo de la Lys	latribune.fr, rossel-lavoix.fr	11/01/2016, 04/09/2013	28/06/2016
 207	Crédit Mutuel	100	Groupe EBRA			
-208	Groupe EBRA	100	L'Est républicain	ebra.fr	2009	04/05/2016
+208	Groupe EBRA	100	L’Est républicain	ebra.fr	2009	04/05/2016
 208	Groupe EBRA	100	Le Républicain lorrain	ebra.fr	2009	04/05/2016
 208	Groupe EBRA	100	DNA	ebra.fr	2009	04/05/2016
 208	Groupe EBRA	100	Vosges Matin	ebra.fr	2009	04/05/2016
-208	Groupe EBRA	100	L'Alsace	ebra.fr	2009	04/05/2016
+208	Groupe EBRA	100	L’Alsace	ebra.fr	2009	04/05/2016
 208	Groupe EBRA	100	Le Bien public	ebra.fr	2009	04/05/2016
 208	Groupe EBRA	100	Le Journal de Saône-et-Loire	ebra.fr	2009	04/05/2016
 208	Groupe EBRA	100	Le Progrès	ebra.fr	2009	04/05/2016
@@ -241,7 +241,7 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 242	Groupe La Dépêche	100	La Gazette du Comminges	strategies.fr, ladepeche-diffusion.com	10/12/2010	26/11/2016 , 05/05/2016
 242	Groupe La Dépêche	100	Les Journaux du midi			
 248	Les Journaux du midi	100	Midi libre	ladepeche.fr	27/06/2015	05/05/2016
-248	Les Journaux du midi	100	L'Indépendant	ladepeche.fr	27/06/2015	05/05/2016
+248	Les Journaux du midi	100	L’Indépendant	ladepeche.fr	27/06/2015	05/05/2016
 248	Les Journaux du midi	100	Centre Presse Aveyron	ladepeche.fr	27/06/2015	05/05/2016
 252	Famille Lemoine	80	Groupe Sud Ouest			
 253	Groupe Sud Ouest	100	Sud Ouest	groupesudouest.com, lefigaro.fr	non daté, 26/02/2013	05/05/2016
@@ -250,12 +250,12 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 253	Groupe Sud Ouest	100	Haute Saintonge	groupesudouest.com, lefigaro.fr	non daté, 26/02/2013	05/05/2016
 253	Groupe Sud Ouest	100	Haute Gironde	groupesudouest.com, lefigaro.fr	non daté, 26/02/2013	05/05/2016
 253	Groupe Sud Ouest	100	Le Résistant	groupesudouest.com, lefigaro.fr	non daté, 26/02/2013	05/05/2016
-253	Groupe Sud Ouest	100	L'Hebdo de Charente-Maritime	groupesudouest.com, lefigaro.fr	non daté, 26/02/2013	05/05/2016
+253	Groupe Sud Ouest	100	L’Hebdo de Charente-Maritime	groupesudouest.com, lefigaro.fr	non daté, 26/02/2013	05/05/2016
 253	Groupe Sud Ouest	100	La Dépêche du Bassin	groupesudouest.com, lefigaro.fr	non daté, 26/02/2013	05/05/2016
 253	Groupe Sud Ouest	100	Le Journal du Médoc	groupesudouest.com, lefigaro.fr	non daté, 26/02/2013	05/05/2016
 253	Groupe Sud Ouest	100	Pyrénées Presse	groupesudouest.com, lefigaro.fr	non daté, 26/02/2013	05/05/2016
 263	Pyrénées Presse	100	La République des Pyrénées	groupesudouest.com, lefigaro.fr	non daté, 26/02/2013	05/05/2016
-263	Pyrénées Presse	100	L'Eclair	groupesudouest.com, lefigaro.fr	non daté, 26/02/2013	05/05/2016
+263	Pyrénées Presse	100	L’Eclair	groupesudouest.com, lefigaro.fr	non daté, 26/02/2013	05/05/2016
 266	Édouard Coudurier	contrôle	Groupe Télégramme			
 267	Groupe Télégramme	100	Le Télégramme	groupe-telegramme.com		05/05/2016
 267	Groupe Télégramme	100	Le Poher	groupe-telegramme.com		05/05/2016
@@ -272,7 +272,7 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 277	Nethys	20	Nice-Matin	lesechos.fr	10/05/2016	28/06/2016
 280	Groupe La Provence	65	Corse Matin	latribune.fr	18/3/2018	22/07/2018
 280	Groupe La Provence	100	La Provence	lesechos.fr	30/10/2015	06/05/2016
-284	Jean-Louis Louvel	100	Société Normande d'Information et de Communication	parisnormandie.fr	07/07/2017	
+284	Jean-Louis Louvel	100	Société Normande d’Information et de Communication	parisnormandie.fr	07/07/2017	
 285	Société Normande d’Information et de Communication	100	Paris-Normandie	lesechos.fr, wikipedia.org	05/04/2016	06/05/2016
 285	Société Normande d’Information et de Communication	100	Havre Libre	lesechos.fr, wikipedia.org	05/04/2016	06/05/2016
 285	Société Normande d’Information et de Communication	100	Le Progrès de Fécamp	lesechos.fr, wikipedia.org	05/04/2016	06/05/2016
@@ -284,14 +284,14 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 293	Éditions Suisses Holding	>50	Groupe Filanosa			
 293	Éditions Suisses Holding	>50	Rhône Média			
 295	Groupe Filanosa	100	La Côte (Nyon)	syndicom.ch	16/03/2015	06/05/2016
-295	Groupe Filanosa	100	L'Express (Neuchâtel)	syndicom.ch	16/03/2015	06/05/2016
-295	Groupe Filanosa	100	L'Impartial (La Chaux-de-Fonds)	syndicom.ch	16/03/2015	06/05/2016
+295	Groupe Filanosa	100	L’Express (Neuchâtel)	syndicom.ch	16/03/2015	06/05/2016
+295	Groupe Filanosa	100	L’Impartial (La Chaux-de-Fonds)	syndicom.ch	16/03/2015	06/05/2016
 296	Rhône Média	100	Le Nouvelliste	syndicom.ch	16/03/2015	06/05/2016
 296	Rhône Média	100	La Gazette de Martigny	syndicom.ch	16/03/2015	06/05/2016
 296	Rhône Média	100	Le Journal de Sierre	syndicom.ch	16/03/2015	06/05/2016
 294	Groupe Hersant Média	100	France Antilles	wikipedia.org		06/05/2016
 294	Groupe Hersant Média	100	France Guyane	wikipedia.org		06/05/2016
-305	Abdoul Cadjee	>50	Le Journal de l'Île de la Réunion	ipreunion.com	28/01/2016	21/10/2017
+305	Abdoul Cadjee	>50	Le Journal de l’Île de la Réunion	ipreunion.com	28/01/2016	21/10/2017
 307	Benjamin et Ariane de Rothschild	contrôle	Lampsane Investissement SA			
 308	Lampsane Investissement SA	>50	Slate.fr	bilan.ch	18/08/2017	16/10/2017
 310	Jean-Sébastien Ferjou	>50	Atlantico.fr	cbnews.fr	18/09/2012	10/07/2016

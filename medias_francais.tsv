@@ -2,11 +2,11 @@ id	nom	typeLibelle	typeCode	rangChallenges	mediaType	mediaPeriodicite	mediaEchel
 1	Claude Perdriel	Personne physique	1	359				
 2	Sophia Publications	Personne morale	2					
 3	Groupe Perdriel	Personne morale	2					
-4	L'histoire	Média	3		GPE	Mensuel		
+4	L’histoire	Média	3		GPE	Mensuel		
 5	Historia	Média	3		GPE	Mensuel		
 6	Challenges	Média	3		GPE	Hebdomadaire		
 7	Sciences & Avenir	Média	3		GPE	Mensuel		
-8	L'Opinion	Média	3		GPE	Quotidien		
+8	L’Opinion	Média	3		GPE	Quotidien		
 9	Prisa	Personne morale	2					
 10	Xavier Niel	Personne physique	1	13				
 11	Matthieu Pigasse	Personne physique	1					
@@ -14,7 +14,7 @@ id	nom	typeLibelle	typeCode	rangChallenges	mediaType	mediaPeriodicite	mediaEchel
 13	Le Nouveau Monde	Personne morale	2					
 14	Le Monde libre	Personne morale	2					
 15	Le Monde SA	Personne morale	2					
-16	L'Obs	Média	3		GPE	Hebdomadaire		
+16	L’Obs	Média	3		GPE	Hebdomadaire		
 17	Prier	Média	3		GPE	Mensuel		
 18	M, le magazine du Monde	Média	3		GPE	Hebdomadaire		
 19	Le Monde	Média	3		GPE	Hebdomadaire		
@@ -39,13 +39,13 @@ id	nom	typeLibelle	typeCode	rangChallenges	mediaType	mediaPeriodicite	mediaEchel
 38	Le Figaro	Média	3		GPE	Quotidien		
 39	Figaro Magazine	Média	3		GPE	Hebdomadaire		
 40	Le Particulier	Média	3		GPE	Mesuel		
-41	La Lettre de l'Expansion	Média	3		GPE	Mensuel		
+41	La Lettre de l’Expansion	Média	3		GPE	Mensuel		
 42	Bernard Arnault	Personne physique	1	1				
 43	LVMH	Personne morale	2					
 44	Le Parisien	Média	3		GPE	Quotidien		
 45	Le Parisien Week-End	Média	3		GPE	Hebdomadaire		
 46	Le Parisien économie	Média	3		GPE	Hebdomadaire		
-47	Aujourd'hui en France	Média	3		GPE	Quotidien		
+47	Aujourd’hui en France	Média	3		GPE	Quotidien		
 48	Groupe Les Échos	Personne morale	2					
 49	Les Échos	Média	3		GPE	Quotidien		
 50	Investir	Média	3		GPE	Hebdomadaire		
@@ -57,7 +57,7 @@ id	nom	typeLibelle	typeCode	rangChallenges	mediaType	mediaPeriodicite	mediaEchel
 56	Patrick Drahi	Personne physique	1	12				
 57	Altice	Personne morale	2					
 58	Altice France	Personne morale	2					
-59	L'Express	Média	3		GPE	Hebdomadaire		
+59	L’Express	Média	3		GPE	Hebdomadaire		
 60	Libération	Média	3		GPE	Quotidien		
 61	NextRadioTV	Personne morale	2					
 62	BFM TV	Média	3		Télévision			Gratuit
@@ -99,7 +99,7 @@ id	nom	typeLibelle	typeCode	rangChallenges	mediaType	mediaPeriodicite	mediaEchel
 98	Groupe L’Agefi	Personne morale	2					
 99	Point de vue	Média	3		GPE	Hebdomadaire		
 100	Le Point	Média	3		GPE	Hebdomadaire		
-101	L'Agefi hebdo	Média	3		GPE	Hebdomadaire		
+101	L’Agefi hebdo	Média	3		GPE	Hebdomadaire		
 102	Famille Mohn	Personne physique	1	39				
 103	Bertelsmann	Personne morale	2					
 104	Gruner + Jahr	Personne morale	2					
@@ -151,7 +151,7 @@ id	nom	typeLibelle	typeCode	rangChallenges	mediaType	mediaPeriodicite	mediaEchel
 150	FIP	Média	3		Radio		National	
 151	France Bleu	Média	3		Radio		National	
 152	France Info	Média	3		Radio		National	
-153	Mouv'	Média	3		Radio		National	
+153	Mouv’	Média	3		Radio		National	
 154	Arte	Média	3		Télévision			Gratuit
 155	ARD / ZDF	Personne morale	2					
 156	Arte Deutschland TV GmbH	Personne morale	2					
@@ -174,7 +174,7 @@ id	nom	typeLibelle	typeCode	rangChallenges	mediaType	mediaPeriodicite	mediaEchel
 173	Association pour le soutien des principes de la démocratie humaniste	Personne morale	2					
 174	Groupe SIPA - Ouest	Personne morale	2					
 175	Ouest France	Média	3		Régional	Quotidien	Régional	
-176	Le Courrier de l'Ouest	Média	3		Régional	Quotidien	Régional	
+176	Le Courrier de l’Ouest	Média	3		Régional	Quotidien	Régional	
 177	Le Maine libre	Média	3		Régional	Quotidien	Régional	
 178	Presse-Océan	Média	3		Régional	Quotidien	Régional	
 179	La Presse de la Manche	Média	3		Régional	Quotidien	Régional	
@@ -188,14 +188,14 @@ id	nom	typeLibelle	typeCode	rangChallenges	mediaType	mediaPeriodicite	mediaEchel
 187	Nord éclair	Média	3		Régional	Quotidien	Régional	
 188	Nord Littoral	Média	3		Régional	Quotidien	Régional	
 189	Courrier picard	Média	3		Régional	Quotidien	Régional	
-190	L'aisne Nouvelle	Média	3		Régional	Quotidien	Régional	
-191	L'Union - L'Ardennais	Média	3		Régional	Quotidien	Régional	
-192	L'Est-éclair - Libération Champagne	Média	3		Régional	Quotidien	Régional	
-193	L'Avenir de l'Artois	Média	3		Régional	Hebdomadaire	Régional	
+190	L’aisne Nouvelle	Média	3		Régional	Quotidien	Régional	
+191	L’Union - L'Ardennais	Média	3		Régional	Quotidien	Régional	
+192	L’Est-éclair - Libération Champagne	Média	3		Régional	Quotidien	Régional	
+193	L’Avenir de l'Artois	Média	3		Régional	Hebdomadaire	Régional	
 194	Les Echos du Touquet	Média	3		Régional	Hebdomadaire	Régional	
 195	Le Journal des Flandres	Média	3		Régional	Hebdomadaire	Régional	
 196	Le Messager	Média	3		Régional	Hebdomadaire	Régional	
-197	L'Essor savoyard	Média	3		Régional	Hebdomadaire	Régional	
+197	L’Essor savoyard	Média	3		Régional	Hebdomadaire	Régional	
 198	Le Pays gessien	Média	3		Régional	Hebdomadaire	Régional	
 199	La Tribune républicaine	Média	3		Régional	Hebdomadaire	Régional	
 200	La Savoie	Média	3		Régional	Hebdomadaire	Régional	
@@ -203,15 +203,15 @@ id	nom	typeLibelle	typeCode	rangChallenges	mediaType	mediaPeriodicite	mediaEchel
 202	La Semaine dans le Boulonnais	Média	3		Régional	Hebdomadaire	Régional	
 203	Le Réveil de Berck	Média	3		Régional	Hebdomadaire	Régional	
 204	Le Journal de Montreuil	Média	3		Régional	Hebdomadaire	Régional	
-205	L'indicateur	Média	3		Régional	Hebdomadaire	Régional	
-206	L'Echo de la Lys	Média	3		Régional	Hebdomadaire	Régional	
+205	L’indicateur	Média	3		Régional	Hebdomadaire	Régional	
+206	L’Echo de la Lys	Média	3		Régional	Hebdomadaire	Régional	
 207	Crédit Mutuel	Personne morale	2					
 208	Groupe EBRA	Personne morale	2					
-209	L'Est républicain	Média	3		Régional	Quotidien	Régional	
+209	L’Est républicain	Média	3		Régional	Quotidien	Régional	
 210	Le Républicain lorrain	Média	3		Régional	Quotidien	Régional	
 211	DNA	Média	3		Régional	Quotidien	Régional	
 212	Vosges Matin	Média	3		Régional	Quotidien	Régional	
-213	L'Alsace	Média	3		Régional	Quotidien	Régional	
+213	L’Alsace	Média	3		Régional	Quotidien	Régional	
 214	Le Bien public	Média	3		Régional	Quotidien	Régional	
 215	Le Journal de Saône-et-Loire	Média	3		Régional	Quotidien	Régional	
 216	Le Progrès	Média	3		Régional	Quotidien	Régional	
@@ -248,7 +248,7 @@ id	nom	typeLibelle	typeCode	rangChallenges	mediaType	mediaPeriodicite	mediaEchel
 247	La Gazette du Comminges	Média	3		Régional	Hebdomadaire	Régional	
 248	Les Journaux du midi	Personne morale	2					
 249	Midi libre	Média	3		Régional	Quotidien	Régional	
-250	L'Indépendant	Média	3		Régional	Quotidien	Régional	
+250	L’Indépendant	Média	3		Régional	Quotidien	Régional	
 251	Centre Presse Aveyron	Média	3		Régional	Quotidien	Régional	
 252	Famille Lemoine	Personne physique	1					
 253	Groupe Sud Ouest	Personne morale	2					
@@ -258,12 +258,12 @@ id	nom	typeLibelle	typeCode	rangChallenges	mediaType	mediaPeriodicite	mediaEchel
 257	Haute Saintonge	Média	3		Régional	Hebdomadaire	Régional	
 258	Haute Gironde	Média	3		Régional	Hebdomadaire	Régional	
 259	Le Résistant	Média	3		Régional	Hebdomadaire	Régional	
-260	L'Hebdo de Charente-Maritime	Média	3		Régional	Hebdomadaire	Régional	
+260	L’Hebdo de Charente-Maritime	Média	3		Régional	Hebdomadaire	Régional	
 261	La Dépêche du Bassin	Média	3		Régional	Hebdomadaire	Régional	
 262	Le Journal du Médoc	Média	3		Régional	Hebdomadaire	Régional	
 263	Pyrénées Presse	Personne morale	2					
 264	La République des Pyrénées	Média	3		Régional	Quotidien	Régional	
-265	L'Eclair	Média	3		Régional	Quotidien	Régional	
+265	L’Eclair	Média	3		Régional	Quotidien	Régional	
 266	Édouard Coudurier	Personne physique	1					
 267	Groupe Télégramme	Personne morale	2					
 268	Le Télégramme	Média	3		Régional	Quotidien	Régional	
@@ -296,15 +296,15 @@ id	nom	typeLibelle	typeCode	rangChallenges	mediaType	mediaPeriodicite	mediaEchel
 295	Groupe Filanosa	Personne morale	2					
 296	Rhône Média	Personne morale	2					
 297	La Côte (Nyon)	Média	3		Suisse			
-298	L'Express (Neuchâtel)	Média	3		Suisse			
-299	L'Impartial (La Chaux-de-Fonds)	Média	3		Suisse			
+298	L’Express (Neuchâtel)	Média	3		Suisse			
+299	L’Impartial (La Chaux-de-Fonds)	Média	3		Suisse			
 300	Le Nouvelliste	Média	3		Suisse			
 301	La Gazette de Martigny	Média	3		Suisse			
 302	Le Journal de Sierre	Média	3		Suisse			
 303	France Antilles	Média	3		Régional	Quotidien	Régional	
 304	France Guyane	Média	3		Régional	Quotidien	Régional	
 305	Abdoul Cadjee	Personne physique	1					
-306	Le Journal de l'Île de la Réunion	Média	3		Régional	Quotidien	Régional	
+306	Le Journal de l’Île de la Réunion	Média	3		Régional	Quotidien	Régional	
 307	Benjamin et Ariane de Rothschild	Personne physique	1	21				
 308	Lampsane Investissement SA	Personne morale	2					
 309	Slate.fr	Média	3		Site			Pure player
