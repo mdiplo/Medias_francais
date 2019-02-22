@@ -1,7 +1,6 @@
 id	origine	valeur	cible	source	datePublication	dateConsultation
 1	Claude Perdriel	50	Sophia Publications			
 1	Claude Perdriel	53	Groupe Perdriel			
-130	Renault	40	Groupe Perdriel	lemonde.fr	13/12/2017	22/7/2018
 2	Sophia Publications	100	L’histoire	lemonde.fr	23/06/2016	22/10/2016
 2	Sophia Publications	100	Historia	strategies.fr	14/11/2014	28/06/2016
 3	Groupe Perdriel	100	Challenges	strategies.fr	14/11/2014	28/06/2016
@@ -121,15 +120,14 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 122	Groupe TF1	100	LCI	bouygues.com, groupe-tf1.fr, votreargent.lexpress.fr	31/12/2016, 31/12/2014, 06/01/2015	28/06/2016
 122	Groupe TF1	100	TF1 Séries Films	bouygues.com, groupe-tf1.fr, votreargent.lexpress.fr	31/12/2016, 31/12/2014, 06/01/2015	28/06/2016
 122	Groupe TF1	100	TMC	bouygues.com	09/06/2016	28/06/2016
-128	République française	15	Renault			
-130	Renault	40	Groupe Perdriel			
+128	République française	15	Renault	zonebourse.com	...	22/07/2018
+130	Renault	40	Groupe Perdriel	lemonde.fr	13/12/2017	22/7/2018
 128	République française	100	La Chaîne parlementaire			
 128	République française	100	Public Sénat			
 128	République française	100	France Médias Monde			
 128	République française	100	France Télévision			
 128	République française	100	Radio France			
 128	République française	100	Arte France			
-128	République française	15	Renault	zonebourse.com	...	22/07/2018
 133	France Médias Monde	100	Monte Carlo Doualiya			
 133	France Médias Monde	100	Radio France International			
 133	France Médias Monde	100	France 24			
