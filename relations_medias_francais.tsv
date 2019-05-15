@@ -138,7 +138,7 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 134	France Télévision	100	France 5			
 134	France Télévision	100	France 4			
 134	France Télévision	100	France Ô			
-134	France Télévision	contrôle	France info			
+134	France Télévision	contrôle	France Info			
 135	Radio France	100	France Inter			
 135	Radio France	100	France Musique			
 135	Radio France	100	France Culture			
@@ -146,7 +146,7 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 135	Radio France	100	France Bleu			
 135	Radio France	100	France Info			
 135	Radio France	100	Mouv’			
-135	Radio France	contrôle	France info			
+135	Radio France	contrôle	France Info			
 136	Arte France	50	Arte			
 129	République fédérale d’Allemagne	contrôle	ARD / ZDF			
 155	ARD / ZDF	50	Arte Deutschland TV GmbH			

@@ -143,7 +143,6 @@ id	nom	typeLibelle	typeCode	rangChallenges	mediaType	mediaPeriodicite	mediaEchel
 143	France 5	Média	3		Télévision			Gratuit
 144	France 4	Média	3		Télévision			Gratuit
 145	France Ô	Média	3		Télévision			Gratuit
-146	France info	Média	3		Télévision/radio			Gratuit
 147	France Inter	Média	3		Radio		National	
 148	France Musique	Média	3		Radio		National	
 149	France Culture	Média	3		Radio		National	
