@@ -1,7 +1,7 @@
 # Médias français : qui possède quoi ?
 **Relations de propriété entre les médias français et leurs principaux actionnaires**
 
-![Carte v.15.3](https://www.monde-diplomatique.fr/IMG/png/ppa15-3.png)
+![Carte v.15.4](https://www.monde-diplomatique.fr/IMG/png/ppa15-4.png)
 
 **Les données sont organisées en deux tableaux :**
 - [medias_francais.tsv](https://github.com/mdiplo/Medias_francais/blob/master/medias_francais.tsv) contient l’ensemble des actionnaires (personnes physiques ou morales) et des médias représentés sur la carte
