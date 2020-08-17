@@ -1,6 +1,6 @@
 id	origine	valeur	cible	source	datePublication	dateConsultation
 1	Claude Perdriel	53	Groupe Perdriel			
-1	Claude Perdriel	participe	Groupe L’Opinon	challenges.fr	22/08/2014	06/11/2019
+1	Claude Perdriel	participe	Groupe L’Opinion	challenges.fr	22/08/2014	06/11/2019
 1	Claude Perdriel	60	Le Nouveau Magazine littéraire	lefigaro.fr	15/12/2017	08/12/2018
 1	Claude Perdriel	50	Sophia Publications			
 2	Sophia Publications	100	Historia	strategies.fr	14/11/2014	28/06/2016
@@ -46,7 +46,7 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 42	Bernard Arnault	46,6	LVMH			
 43	LVMH	100	Aujourd’hui en France	lvmh.fr	31/12/2015	28/06/2016
 43	LVMH	100	Groupe Les Échos	lvmh.fr	31/12/2015	28/06/2016
-43	LVMH	participe	Groupe L’Opinon	challenges.fr	22/08/2014	06/11/2019
+43	LVMH	participe	Groupe L’Opinion	challenges.fr	22/08/2014	06/11/2019
 43	LVMH	100	Le Parisien	lvmh.fr	31/12/2015	28/06/2016
 43	LVMH	100	Le Parisien économie	lvmh.fr	31/12/2015	28/06/2016
 43	LVMH	100	Le Parisien Week-End	lvmh.fr	31/12/2015	28/06/2016
@@ -55,8 +55,8 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 48	Groupe Les Échos	100	Les Échos	lvmh.fr	31/12/2015	28/06/2016
 48	Groupe Les Échos	100	Les Échos Week-End	lvmh.fr	31/12/2015	28/06/2016
 48	Groupe Les Échos	100	Radio Classique	lvmh.fr	31/12/2015	28/06/2016
-54	Famille Bettencourt	participe	Groupe L’Opinon	challenges.fr	22/08/2014	06/11/2019
-55	Nicolas Beytout	participe	Groupe L’Opinon	challenges.fr	22/08/2014	06/11/2019
+54	Famille Bettencourt	participe	Groupe L’Opinion	challenges.fr	22/08/2014	06/11/2019
+55	Nicolas Beytout	participe	Groupe L’Opinion	challenges.fr	22/08/2014	06/11/2019
 56	Patrick Drahi	61	Altice			
 57	Altice	78	Altice France			
 57	Altice	100	i24 News	societe.com	13/07/2018	08/12/2018
@@ -301,7 +301,7 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 318	Hima Groupe	contrôle	La Tribune	lefigaro.fr	15/12/2016	04/03/2017
 323	Madison Cox	28	Le Monde libre	https://www.lemonde.fr/economie/article/2019/09/04/le-groupe-le-monde-demande-a-ses-actionnaires-de-tenir-leurs-engagements_5506287_3234.html		
 324	Alain Weil	51	L’Express			06/11/2019
-325	Groupe L’Opinon	100	L’Agefi hebdo			06/11/2019
-325	Groupe L’Opinon	100	L’Opinion			06/11/2019
-326	Ken Fisher	participe	Groupe L’Opinon			06/11/2019
+325	Groupe L’Opinion	100	L’Agefi hebdo			06/11/2019
+325	Groupe L’Opinion	100	L’Opinion			06/11/2019
+326	Ken Fisher	participe	Groupe L’Opinion			06/11/2019
 
