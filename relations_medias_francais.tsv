@@ -1,7 +1,6 @@
 id	origine	valeur	cible	source	datePublication	dateConsultation
-1	Claude Perdriel	53	Groupe Perdriel			
+1	Claude Perdriel	contrôle	Groupe Perdriel			
 1	Claude Perdriel	participe	Groupe L’Opinion	challenges.fr	22/08/2014	06/11/2019
-1	Claude Perdriel	60	Le Nouveau Magazine littéraire	lefigaro.fr	15/12/2017	08/12/2018
 1	Claude Perdriel	50	Sophia Publications			
 2	Sophia Publications	100	Historia	strategies.fr	14/11/2014	28/06/2016
 2	Sophia Publications	100	L’histoire	lemonde.fr	23/06/2016	22/10/2016
@@ -11,7 +10,7 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 10	Xavier Niel	11	Groupe La Provence			06/11/2019
 10	Xavier Niel	26	Le Monde libre	https://fr.reuters.com/article/topNews/idFRKCN1BJ24Z-OFRTP	08/09/2017	
 10	Xavier Niel	participe	Le Nouveau Magazine littéraire			
-10	Xavier Niel	34	Nice-Matin			06/11/2019
+10	Xavier Niel	100	NJJ			
 11	Matthieu Pigasse	78	Les Nouvelles Éditions indépendantes			
 12	Les Nouvelles Éditions indépendantes	11	Huffingtonpost.fr	lexpress.fr	24/02/2015	10/07/2016
 12	Les Nouvelles Éditions indépendantes	51	Le Nouveau Monde	lemonde.fr	17/10/2018	08/12/2018
@@ -44,6 +43,7 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 37	Groupe Figaro	100	Le Figaro	dassault.fr, offremedia.com	03/10/2017	14/05/2016 , 16/10/2017
 37	Groupe Figaro	100	Le Particulier	dassault.fr, offremedia.com	03/10/2017	14/05/2016 , 16/10/2017
 42	Bernard Arnault	46,6	LVMH			
+42	Bernard Arnault	27	Lagardère Capital & Management			
 43	LVMH	100	Aujourd’hui en France	lvmh.fr	31/12/2015	28/06/2016
 43	LVMH	100	Groupe Les Échos	lvmh.fr	31/12/2015	28/06/2016
 43	LVMH	participe	Groupe L’Opinion	challenges.fr	22/08/2014	06/11/2019
@@ -63,14 +63,19 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 58	Altice France	49	L’Express	linformaticien.com	25/11/2015	28/06/2016
 58	Altice France	100	Libération	linformaticien.com	25/11/2015	28/06/2016
 58	Altice France	100	NextRadioTV	freenews.fr	23/04/2018	22/07/2018
+57	Altice	contrôle	Fonds de Dotation pour une Presse Indépendante			
+57	Altice	contrôle	Fonds de Dotation pour une Presse Indépendante			
+329	Fonds de Dotation pour une Presse Indépendante	contrôle	Libération			
 61	NextRadioTV	100	BFM Business	investir.lesechos.fr	02/02/2016	14/05/2016
 61	NextRadioTV	100	BFM TV	investir.lesechos.fr	02/02/2016	14/05/2016
 61	NextRadioTV	100	RMC Story	https://fr.wikipedia.org/wiki/RMC_Story		13/11/2019
 61	NextRadioTV	100	RMC	investir.lesechos.fr	02/02/2016	14/05/2016
 61	NextRadioTV	100	RMC Découverte	investir.lesechos.fr	02/02/2016	14/05/2016
 67	Arnaud Lagardère	7,96	Lagardère SCA			
+67	Arnaud Lagardère	73	Lagardère Capital & Management			
 68	Qatar Investment Authority	12,83	Lagardère SCA			
 69	Lagardère SCA	100	Lagardère Active			
+77	Vincent Bolloré	23,5	Lagardère SCA			
 70	Lagardère Active	100	Europe 1	lagardere.com	31/12/2015	14/05/2016
 70	Lagardère Active	100	Le Journal du dimanche	lagardere.com	31/12/2015	14/05/2016
 70	Lagardère Active	100	Paris Match	lagardere.com	31/12/2015	14/05/2016
@@ -129,7 +134,6 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 128	République française	100	Radio France			
 128	République française	15	Renault	zonebourse.com	...	22/07/2018
 129	République fédérale d’Allemagne	contrôle	ARD / ZDF			
-130	Renault	45	Groupe Perdriel	lemonde.fr	13/12/2017	22/7/2018
 133	France Médias Monde	100	France 24			
 133	France Médias Monde	100	Monte Carlo Doualiya			
 133	France Médias Monde	100	Radio France International			
@@ -139,7 +143,6 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 134	France Télévision	100	France 4			
 134	France Télévision	100	France 5			
 134	France Télévision	contrôle	France Info			
-134	France Télévision	100	France Ô			
 134	France Télévision	49	TV5 Monde			
 135	Radio France	100	FIP			
 135	Radio France	100	France Bleu			
@@ -271,11 +274,9 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 280	Groupe La Provence	100	La Provence	lesechos.fr	30/10/2015	06/05/2016
 284	Jean-Louis Louvel	90	Société Normande d’Information et de Communication	paris-normandie.fr	07/07/2017	
 285	Société Normande d’Information et de Communication	100	Havre Dimanche	lesechos.fr, wikipedia.org	05/04/2016	06/05/2016
-285	Société Normande d’Information et de Communication	100	Havre Libre	lesechos.fr, wikipedia.org	05/04/2016	06/05/2016
-285	Société Normande d’Information et de Communication	100	Le Progrès de Fécamp	lesechos.fr, wikipedia.org	05/04/2016	06/05/2016
 285	Société Normande d’Information et de Communication	100	Liberté Dimanche	lesechos.fr, wikipedia.org	05/04/2016	06/05/2016
-285	Société Normande d’Information et de Communication	100	Normandie Dimanche	lesechos.fr, wikipedia.org	05/04/2016	06/05/2016
-285	Société Normande d’Information et de Communication	100	Paris-Normandie	lesechos.fr, wikipedia.org	05/04/2016	06/05/2016
+184	Groupe Rossel	100	Normandie Dimanche			
+184	Groupe Rossel	100	Paris-Normandie			
 292	Philippe Hersant	100	Éditions Suisses Holding			
 292	Philippe Hersant	100	Groupe Hersant Média			
 293	Éditions Suisses Holding	>50	Groupe Filanosa			
@@ -301,4 +302,9 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 325	Groupe L’Opinion	100	L’Agefi hebdo			06/11/2019
 325	Groupe L’Opinion	100	L’Opinion			06/11/2019
 326	Ken Fisher	participe	Groupe L’Opinion			06/11/2019
-
+327	NJJ	100	Nice-Matin			
+328	Nice-Matin	100	Nice-Matin			
+328	Nice-Matin	100	Var-Matin			
+328	Nice-Matin	100	Monaco-Matin			
+328	Nice-Matin	100	France-Antilles			
+330	Amber Capital	20	Lagardère SCA			
