@@ -281,8 +281,6 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 292	Philippe Hersant	100	Groupe Hersant Média			
 293	Éditions Suisses Holding	>50	Groupe Filanosa			
 293	Éditions Suisses Holding	>50	Rhône Média			
-294	Groupe Hersant Média	100	France Antilles	wikipedia.org		06/05/2016
-294	Groupe Hersant Média	100	France Guyane	wikipedia.org		06/05/2016
 295	Groupe Filanosa	100	L’Express (Neuchâtel)	syndicom.ch	16/03/2015	06/05/2016
 295	Groupe Filanosa	100	L’Impartial (La Chaux-de-Fonds)	syndicom.ch	16/03/2015	06/05/2016
 295	Groupe Filanosa	100	La Côte (Nyon)	syndicom.ch	16/03/2015	06/05/2016
@@ -307,4 +305,5 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 328	Nice-Matin	100	Var-Matin			
 328	Nice-Matin	100	Monaco-Matin			
 328	Nice-Matin	100	France-Antilles			
+328	Nice-Matin	100	France-Guyane			
 330	Amber Capital	20	Lagardère SCA			
