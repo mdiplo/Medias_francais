@@ -1,7 +1,6 @@
 id	origine	valeur	cible	source	datePublication	dateConsultation
 1	Claude Perdriel	contrôle	Groupe Perdriel			
 1	Claude Perdriel	participe	Groupe L’Opinion	challenges.fr	22/08/2014	06/11/2019
-1	Claude Perdriel	50	Sophia Publications			
 2	Sophia Publications	100	Historia	strategies.fr	14/11/2014	28/06/2016
 2	Sophia Publications	100	L’histoire	lemonde.fr	23/06/2016	22/10/2016
 3	Groupe Perdriel	100	Challenges	strategies.fr	14/11/2014	28/06/2016
@@ -44,6 +43,7 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 37	Groupe Figaro	100	Le Particulier	dassault.fr, offremedia.com	03/10/2017	14/05/2016 , 16/10/2017
 42	Bernard Arnault	46,6	LVMH			
 42	Bernard Arnault	27	Lagardère Capital & Management			
+42	Bernard Arnault	40	Groupe Perdriel			
 43	LVMH	100	Aujourd’hui en France	lvmh.fr	31/12/2015	28/06/2016
 43	LVMH	100	Groupe Les Échos	lvmh.fr	31/12/2015	28/06/2016
 43	LVMH	participe	Groupe L’Opinion	challenges.fr	22/08/2014	06/11/2019
