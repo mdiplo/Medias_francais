@@ -10,7 +10,7 @@ id	nom	typeLibelle	typeCode	rangChallenges	milliardaireForbes	mediaType	mediaPer
 9	Prisa	Personne morale	2						
 10	Xavier Niel	Personne physique	1	13	253				
 11	Matthieu Pigasse	Personne physique	1						
-12	Les Nouvelles Éditions indépendantes	Personne morale	2						
+12	Combat Solutions	Personne morale	2						
 13	Le Nouveau Monde	Personne morale	2						
 14	Le Monde libre	Personne morale	2						
 15	Le Monde SA	Personne morale	2						
@@ -24,7 +24,7 @@ id	nom	typeLibelle	typeCode	rangChallenges	milliardaireForbes	mediaType	mediaPer
 23	La Vie	Média	3			GPE	Hebdomadaire		
 24	Le Monde diplomatique	Média	3			GPE	Mensuel		
 25	Manière de voir	Média	3			GPE	Bimestriel		
-26	Huffingtonpost.fr	Média	3			Site			
+26	HuffPost	Média	3			Site			
 27	AOL	Personne morale	2						
 28	Huffington Post	Personne morale	2						
 30	Radio Nova	Média	3			Radio		National	
@@ -66,7 +66,7 @@ id	nom	typeLibelle	typeCode	rangChallenges	milliardaireForbes	mediaType	mediaPer
 66	Numéro 23	Média	3			Télévision			Gratuit
 67	Arnaud Lagardère	Personne physique	1	311					
 68	Qatar Investment Authority	Personne morale	2						
-69	Lagardère SCA	Personne morale	2						
+69	Lagardère SA	Personne morale	2						
 70	Lagardère Active	Personne morale	2						
 71	Le Journal du dimanche	Média	3			GPE	Hebdomaire		
 72	Paris Match	Média	3			GPE	Hebdomaire		
@@ -270,7 +270,7 @@ id	nom	typeLibelle	typeCode	rangChallenges	milliardaireForbes	mediaType	mediaPer
 273	Sept Jours à Brest	Média	3			GPE	Hebdomadaire	Régional	
 274	Le Journal des entreprises	Média	3			GPE	Mensuel	Régional	
 275	Bretagne magazine	Média	3			GPE	Hebdomadaire	Régional	
-276	Bernard Tapie	Personne physique	1						
+276	Ayant droit de Bernard Tapie	Personne physique	1						
 277	Nethys	Personne morale	2						
 278	Publifin	Personne morale	2						
 279	Province de Liège	État	4						
@@ -325,4 +325,12 @@ id	nom	typeLibelle	typeCode	rangChallenges	milliardaireForbes	mediaType	mediaPer
 331	Lagardère Capital & Management	Personne morale	2						
 332	Var-Matin	Média	3			GPE	Quotidien	Régional	
 333	Monaco-Matin	Média	3			GPE	Quotidien	Régional	
-331	NJJ	Personne morale	2						
+334	NJJ	Personne morale	2						
+335	Télé-Loisirs	Média	3			GPE	Hebdomadaire	National	Payant
+336	Gala	Média	3			GPE	Hebdomadaire	National	Payant
+337	Voici	Média	3			GPE	Hebdomadaire	National	Payant
+338	Femme Actuelle	Média	3			GPE	Hebdomadaire	National	Payant
+339	National Geographic	Média	3			GPE	Mensuel	National	Payant
+340	Geo	Média	3			GPE	Mensuel	National	Payant
+341	Paris-Turf	Média	3			GPE		National	Payant
+342	Fonds pour l'indépendance de la presse	Personne morale	2						
