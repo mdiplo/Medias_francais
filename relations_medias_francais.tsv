@@ -9,18 +9,19 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 10	Xavier Niel	11	Groupe La Provence			06/11/2019
 10	Xavier Niel	26	Le Monde libre	https://fr.reuters.com/article/topNews/idFRKCN1BJ24Z-OFRTP	08/09/2017	
 10	Xavier Niel	participe	Le Nouveau Magazine littéraire			
-10	Xavier Niel	100	NJJ			
-11	Matthieu Pigasse	78	Les Nouvelles Éditions indépendantes			
-12	Les Nouvelles Éditions indépendantes	11	Huffingtonpost.fr	lexpress.fr	24/02/2015	10/07/2016
-12	Les Nouvelles Éditions indépendantes	51	Le Nouveau Monde	lemonde.fr	17/10/2018	08/12/2018
-12	Les Nouvelles Éditions indépendantes	100	Les Inrockuptibles	lesechos.fr	22/05/2015	14/05/2016
-12	Les Nouvelles Éditions indépendantes	100	Radio Nova	lesechos.fr	22/05/2015	14/05/2016
-12	Les Nouvelles Éditions indépendantes	<50	Vice.com	lemonde.fr	11/03/2016	10/07/2016
+10	Xavier Niel	contrôle	Fonds pour l'indépendance de la presse			
+342	Fonds pour l'indépendance de la presse	100	NJJ			
+11	Matthieu Pigasse	78	Combat Solutions			
+12	Combat Solutions	11	HuffPost	lexpress.fr	24/02/2015	10/07/2016
+12	Combat Solutions	51	Le Nouveau Monde	lemonde.fr	17/10/2018	08/12/2018
+12	Combat Solutions	100	Les Inrockuptibles	lesechos.fr	22/05/2015	14/05/2016
+12	Combat Solutions	100	Radio Nova	lesechos.fr	22/05/2015	14/05/2016
+12	Combat Solutions	<50	Vice.com	lemonde.fr	11/03/2016	10/07/2016
 13	Le Nouveau Monde	26	Le Monde libre	lemonde.fr	17/10/2018	08/12/2018
 14	Le Monde libre	99	L’Obs	lefigaro.fr	23/11/2016	23/11/2016
 14	Le Monde libre	75	Le Monde SA	lemonde.fr	17/10/2018	08/12/2018
 15	Le Monde SA	100	Courrier international	sdllemonde.fr, lemonde.fr	06/10/2017	14/05/2016 , 16/10/2017
-15	Le Monde SA	34	Huffingtonpost.fr	lexpress.fr	24/02/2015	10/07/2016
+15	Le Monde SA	34	HuffPost	lexpress.fr	24/02/2015	10/07/2016
 15	Le Monde SA	100	La Vie	sdllemonde.fr, lemonde.fr	06/10/2017	14/05/2016 , 16/10/2017
 15	Le Monde SA	100	Le Monde	sdllemonde.fr, lemonde.fr	06/10/2017	14/05/2016 , 16/10/2017
 15	Le Monde SA	100	Le Monde des religions	sdllemonde.fr, lemonde.fr	06/10/2017	14/05/2016 , 16/10/2017
@@ -30,7 +31,7 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 15	Le Monde SA	100	Prier	sdllemonde.fr, lemonde.fr	06/10/2017	14/05/2016 , 16/10/2017
 15	Le Monde SA	100	Télérama	sdllemonde.fr, lemonde.fr	06/10/2017	14/05/2016 , 16/10/2017
 27	AOL	100	Huffington Post			
-28	Huffington Post	51	Huffingtonpost.fr	lexpress.fr	24/02/2015	10/07/2016
+28	Huffington Post	51	HuffPost	lexpress.fr	24/02/2015	10/07/2016
 33	Les Amis du Monde diplomatique	24,5	Le Monde diplomatique			
 33	Les Amis du Monde diplomatique	24,5	Manière de voir			
 34	Association Günter-Holzmann	24,5	Le Monde diplomatique			
@@ -43,7 +44,7 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 37	Groupe Figaro	100	Le Particulier	dassault.fr, offremedia.com	03/10/2017	14/05/2016 , 16/10/2017
 42	Bernard Arnault	46,6	LVMH			
 42	Bernard Arnault	27	Lagardère Capital & Management			
-42	Bernard Arnault	40	Groupe Perdriel			
+43	LVMH	40	Groupe Perdriel			
 43	LVMH	100	Aujourd’hui en France	lvmh.fr	31/12/2015	28/06/2016
 43	LVMH	100	Groupe Les Échos	lvmh.fr	31/12/2015	28/06/2016
 43	LVMH	participe	Groupe L’Opinion	challenges.fr	22/08/2014	06/11/2019
@@ -71,11 +72,11 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 61	NextRadioTV	100	RMC Story	https://fr.wikipedia.org/wiki/RMC_Story		13/11/2019
 61	NextRadioTV	100	RMC	investir.lesechos.fr	02/02/2016	14/05/2016
 61	NextRadioTV	100	RMC Découverte	investir.lesechos.fr	02/02/2016	14/05/2016
-67	Arnaud Lagardère	7,96	Lagardère SCA			
+67	Arnaud Lagardère	7,96	Lagardère SA			
 67	Arnaud Lagardère	73	Lagardère Capital & Management			
-68	Qatar Investment Authority	12,83	Lagardère SCA			
-69	Lagardère SCA	100	Lagardère Active			
-77	Vincent Bolloré	23,5	Lagardère SCA			
+68	Qatar Investment Authority	12,83	Lagardère SA			
+69	Lagardère SA	100	Lagardère Active			
+81	Vivendi	27,6	Lagardère SA			
 70	Lagardère Active	100	Europe 1	lagardere.com	31/12/2015	14/05/2016
 70	Lagardère Active	100	Le Journal du dimanche	lagardere.com	31/12/2015	14/05/2016
 70	Lagardère Active	100	Paris Match	lagardere.com	31/12/2015	14/05/2016
@@ -84,7 +85,7 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 77	Vincent Bolloré	49,77	Financière de l’Odet			
 78	Financière de l’Odet	64,4	Bolloré			
 79	Bolloré	100	CNews matin	bollore.com, vivendi.com, ozap.com	31/12/2015, 21/04/2017, 31/12/2015	28/06/2016 , 10/10/2016
-79	Bolloré	20,65	Vivendi	bollore.com, vivendi.com, ozap.com	31/12/2015, 21/04/2017, 31/12/2015	28/06/2016 , 10/10/2016
+79	Bolloré	27	Vivendi	bollore.com, vivendi.com, ozap.com	31/12/2015, 21/04/2017, 31/12/2015	28/06/2016 , 10/10/2016
 81	Vivendi	100	C8	bollore.com, vivendi.com, ozap.com	31/12/2015, 21/04/2017, 31/12/2015	28/06/2016 , 10/10/2016
 81	Vivendi	100	Canal +	bollore.com, vivendi.com, ozap.com	31/12/2015, 21/04/2017, 31/12/2015	28/06/2016 , 10/10/2016
 81	Vivendi	100	CNews	bollore.com, vivendi.com, ozap.com	31/12/2015, 21/04/2017, 31/12/2015	28/06/2016 , 10/10/2016
@@ -95,6 +96,7 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 88	Groupe Valmonde	100	Valeurs actuelles	ozap.com	15/06/2017	16/10/2017
 91	Yves de Chaisemartin	9	Marianne	Correspondance de la presse	19/12/2016	19/12/2016
 92	Daniel Křetínský	50	Czech Media Invest	bfmbusiness.bfmtv.com	24/04/2018	22/07/2018
+92	Daniel Křetínský	5	Groupe TF1			
 93	Czech Media Invest	100	Elle	lemonde.fr	18/10/2018	08/12/2018
 93	Czech Media Invest	49	Le Nouveau Monde	lemonde.fr	17/10/2018	08/12/2018
 93	Czech Media Invest	91	Marianne	marianne.net	26/04/2018	22/07/2018
@@ -105,11 +107,17 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 102	Famille Mohn	contrôle	Bertelsmann			
 103	Bertelsmann	100	Gruner + Jahr			
 103	Bertelsmann	75	RTL Group			
-104	Gruner + Jahr	100	Prisma Media			
+104	Gruner + Jahr	0	Prisma Media			
 105	RTL Group	48	Groupe M6			
 106	Prisma Media	100	Capital	investir.lesechos.fr	06/10/2014	14/05/2016
 106	Prisma Media	100	Harvard Business Review	investir.lesechos.fr	06/10/2014	14/05/2016
 106	Prisma Media	100	Management	investir.lesechos.fr	06/10/2014	14/05/2016
+106	Prisma Media	100	Télé-Loisirs			
+106	Prisma Media	100	Gala			
+106	Prisma Media	100	Voici			
+106	Prisma Media	100	Femme Actuelle			
+106	Prisma Media	100	National Geographic			
+106	Prisma Media	100	Geo			
 110	Groupe M6	100	6ter	zonebourse.com, AFP	04/09/2017	14/05/2016 , 14/11/2017
 110	Groupe M6	100	Fun Radio	zonebourse.com, AFP	04/09/2017	14/05/2016 , 14/11/2017
 110	Groupe M6	100	Gulli			06/11/2019
@@ -267,7 +275,7 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 267	Groupe Télégramme	100	Sept Jours à Brest	groupe-telegramme.com		05/05/2016
 267	Groupe Télégramme	100	Tébéo	groupe-telegramme.com		05/05/2016
 267	Groupe Télégramme	100	Tébésud	groupe-telegramme.com		05/05/2016
-276	Bernard Tapie	89	Groupe La Provence			
+276	Ayant droit de Bernard Tapie	89	Groupe La Provence			
 278	Publifin	100	Nethys	actionnariatwallon.be	29/11/2016	09/12/2018
 279	Province de Liège	54	Publifin	actionnariatwallon.be	29/11/2016	09/12/2018
 280	Groupe La Provence	65	Corse Matin	latribune.fr	18/3/2018	22/07/2018
@@ -306,4 +314,6 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 328	Nice-Matin	100	Monaco-Matin			
 328	Nice-Matin	100	France-Antilles			
 328	Nice-Matin	100	France-Guyane			
-330	Amber Capital	20	Lagardère SCA			
+330	Amber Capital	20	Lagardère SA			
+81	Vivendi	100	Prisma Media			
+327	NJJ	100	Paris-Turf			
