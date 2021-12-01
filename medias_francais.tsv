@@ -58,7 +58,7 @@ id	nom	typeLibelle	typeCode	rangChallenges	milliardaireForbes	mediaType	mediaPer
 58	Altice France	Personne morale	2							
 59	L’Express	Média	3			GPE	Hebdomadaire			170673
 60	Libération	Média	3			GPE	Quotidien			
-61	NextRadioTV	Personne morale	2							
+61	Altice Média	Personne morale	2							
 62	BFM TV	Média	3			Télévision			Gratuit	
 63	RMC Découverte	Média	3			Télévision			Gratuit	
 64	RMC	Média	3			Radio		National		
@@ -67,7 +67,7 @@ id	nom	typeLibelle	typeCode	rangChallenges	milliardaireForbes	mediaType	mediaPer
 67	Arnaud Lagardère	Personne physique	1	311						
 68	Qatar Investment Authority	Personne morale	2							
 69	Lagardère SA	Personne morale	2							
-70	Lagardère Active	Personne morale	2							
+70	Lagardère News	Personne morale	2							
 71	Le Journal du dimanche	Média	3			GPE	Hebdomaire			
 72	Paris Match	Média	3			GPE	Hebdomaire			502040
 73	Gulli	Média	3			Télévision			Gratuit	
@@ -335,3 +335,4 @@ id	nom	typeLibelle	typeCode	rangChallenges	milliardaireForbes	mediaType	mediaPer
 341	Paris-Turf	Média	3			GPE		National	Payant	
 342	Fonds pour l'indépendance de la presse	Personne morale	2							
 343	Télé 7 Jours	Média	3			GPE	Hebdomadaire	National	Payant	908618
+344	La Première	Média	3			Télévision		National	Gratuit	
