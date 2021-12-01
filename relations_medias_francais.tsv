@@ -63,15 +63,15 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 57	Altice	100	i24 News	societe.com	13/07/2018	08/12/2018
 58	Altice France	49	L’Express	linformaticien.com	25/11/2015	28/06/2016
 58	Altice France	100	Libération	linformaticien.com	25/11/2015	28/06/2016
-58	Altice France	100	NextRadioTV	freenews.fr	23/04/2018	22/07/2018
+58	Altice France	100	Altice Média	freenews.fr	23/04/2018	22/07/2018
 57	Altice	contrôle	Fonds de Dotation pour une Presse Indépendante			
 57	Altice	contrôle	Fonds de Dotation pour une Presse Indépendante			
 329	Fonds de Dotation pour une Presse Indépendante	contrôle	Libération			
-61	NextRadioTV	100	BFM Business	investir.lesechos.fr	02/02/2016	14/05/2016
-61	NextRadioTV	100	BFM TV	investir.lesechos.fr	02/02/2016	14/05/2016
-61	NextRadioTV	100	RMC Story	https://fr.wikipedia.org/wiki/RMC_Story		13/11/2019
-61	NextRadioTV	100	RMC	investir.lesechos.fr	02/02/2016	14/05/2016
-61	NextRadioTV	100	RMC Découverte	investir.lesechos.fr	02/02/2016	14/05/2016
+61	Altice Média	100	BFM Business	investir.lesechos.fr	02/02/2016	14/05/2016
+61	Altice Média	100	BFM TV	investir.lesechos.fr	02/02/2016	14/05/2016
+61	Altice Média	100	RMC Story	https://fr.wikipedia.org/wiki/RMC_Story		13/11/2019
+61	Altice Média	100	RMC	investir.lesechos.fr	02/02/2016	14/05/2016
+61	Altice Média	100	RMC Découverte	investir.lesechos.fr	02/02/2016	14/05/2016
 67	Arnaud Lagardère	7,96	Lagardère SA			
 67	Arnaud Lagardère	73	Lagardère Capital & Management			
 68	Qatar Investment Authority	12,83	Lagardère SA			
@@ -147,6 +147,7 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 133	France Médias Monde	100	Radio France International			
 133	France Médias Monde	13	TV5 Monde			
 134	France Télévision	100	France 2			
+134	France Télévision	100	La Première			
 134	France Télévision	100	France 3			
 134	France Télévision	100	France 4			
 134	France Télévision	100	France 5			
