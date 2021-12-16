@@ -336,3 +336,5 @@ id	nom	typeLibelle	typeCode	rangChallenges	milliardaireForbes	mediaType	mediaPer
 342	Fonds pour l'indépendance de la presse	Personne morale	2							
 343	Télé 7 Jours	Média	3			GPE	Hebdomadaire	National	Payant	908618
 344	La Première	Média	3			Télévision		National	Gratuit	
+345	France Catholique	Média	3			GPE		National	Payant	
+346	Franc-Tireur	Média	3			GPE		National	Payant	
