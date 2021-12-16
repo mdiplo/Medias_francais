@@ -86,6 +86,7 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 78	Financière de l’Odet	64,4	Bolloré			
 79	Bolloré	100	CNews matin	bollore.com, vivendi.com, ozap.com	31/12/2015, 21/04/2017, 31/12/2015	28/06/2016 , 10/10/2016
 79	Bolloré	27	Vivendi	bollore.com, vivendi.com, ozap.com	31/12/2015, 21/04/2017, 31/12/2015	28/06/2016 , 10/10/2016
+79	Bolloré	100	France Catholique			
 81	Vivendi	100	C8	bollore.com, vivendi.com, ozap.com	31/12/2015, 21/04/2017, 31/12/2015	28/06/2016 , 10/10/2016
 81	Vivendi	100	Canal +	bollore.com, vivendi.com, ozap.com	31/12/2015, 21/04/2017, 31/12/2015	28/06/2016 , 10/10/2016
 81	Vivendi	100	CNews	bollore.com, vivendi.com, ozap.com	31/12/2015, 21/04/2017, 31/12/2015	28/06/2016 , 10/10/2016
@@ -118,6 +119,7 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 106	Prisma Media	100	Femme Actuelle			
 106	Prisma Media	100	National Geographic			
 106	Prisma Media	100	Geo			
+106	Prisma Media	100	Néon			
 110	Groupe M6	100	6ter	zonebourse.com, AFP	04/09/2017	14/05/2016 , 14/11/2017
 110	Groupe M6	100	Fun Radio	zonebourse.com, AFP	04/09/2017	14/05/2016 , 14/11/2017
 110	Groupe M6	100	Gulli			06/11/2019
@@ -319,3 +321,4 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 81	Vivendi	100	Prisma Media			
 327	NJJ	100	Paris-Turf			
 343	Czech Media Invest	100	Télé 7 Jours			
+343	Czech Media Invest	100	Franc-Tireur			
