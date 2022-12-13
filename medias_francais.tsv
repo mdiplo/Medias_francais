@@ -8,7 +8,7 @@ id	nom	typeLibelle	typeCode	rangChallenges	milliardaireForbes	mediaType	mediaPer
 7	Sciences & Avenir	Média	3			GPE	Mensuel			207357
 8	L’Opinion	Média	3			GPE	Quotidien			
 9	Prisa	Personne morale	2							
-10	Xavier Niel	Personne physique	1	13	301					
+10	Xavier Niel	Personne physique	1	12	230					
 11	Matthieu Pigasse	Personne physique	1							
 12	Combat Solutions	Personne morale	2							
 13	Le Nouveau Monde	Personne morale	2							
@@ -32,7 +32,7 @@ id	nom	typeLibelle	typeCode	rangChallenges	milliardaireForbes	mediaType	mediaPer
 32	Vice.com	Média	3			Site				
 33	Les Amis du Monde diplomatique	Personne morale	2							
 34	Association Günter-Holzmann	Personne morale	2							
-35	Famille Dassault	Personne physique	1	6	240					
+35	Famille Dassault	Personne physique	1	6	254					
 36	Groupe Dassault	Personne morale	2							
 37	Groupe Figaro	Personne morale	2							
 38	Le Figaro	Média	3			GPE	Quotidien			
@@ -51,9 +51,9 @@ id	nom	typeLibelle	typeCode	rangChallenges	milliardaireForbes	mediaType	mediaPer
 51	Investir Magazine	Média	3			GPE	Mensuel			
 52	Les Échos Week-End	Média	3			GPE	Hebdomadaire			
 53	Radio Classique	Média	3			Radio	National			
-54	Famille Bettencourt	Personne physique	1	3	12					
+54	Famille Bettencourt	Personne physique	1	4	14					
 55	Nicolas Beytout	Personne physique	1							
-56	Patrick Drahi	Personne physique	1	10	345					
+56	Patrick Drahi	Personne physique	1	11	375					
 57	Altice	Personne morale	2							
 58	Altice France	Personne morale	2							
 59	L’Express	Média	3			GPE	Hebdomadaire			170673
@@ -64,7 +64,7 @@ id	nom	typeLibelle	typeCode	rangChallenges	milliardaireForbes	mediaType	mediaPer
 64	RMC	Média	3			Radio		National		
 65	BFM Business	Média	3			Radio		National		
 66	Numéro 23	Média	3			Télévision			Gratuit	
-67	Arnaud Lagardère	Personne physique	1	311						
+67	Arnaud Lagardère	Personne physique	1	317						
 68	Qatar Investment Authority	Personne morale	2							
 69	Lagardère SA	Personne morale	2							
 70	Lagardère News	Personne morale	2							
@@ -74,7 +74,7 @@ id	nom	typeLibelle	typeCode	rangChallenges	milliardaireForbes	mediaType	mediaPer
 74	Europe 1	Média	3			Radio		National		
 75	RFM	Média	3			Radio		National		
 76	Virgin Radio	Média	3			Radio		National		
-77	Vincent Bolloré	Personne physique	1	14	329					
+77	Vincent Bolloré	Personne physique	1	13	316					
 78	Financière de l’Odet	Personne morale	2							
 79	Bolloré	Personne morale	2							
 80	CNews	Média	3			GPE	Quotidien			
@@ -83,16 +83,16 @@ id	nom	typeLibelle	typeCode	rangChallenges	milliardaireForbes	mediaType	mediaPer
 83	C8	Média	3			Télévision			Gratuit	
 84	CNews	Média	3			Télévision			Gratuit	
 85	CStar	Média	3			Télévision			Gratuit	
-86	Iskandar Safa	Personne physique	1	97						
+86	Iskandar Safa	Personne physique	1	90						
 87	Privinvest	Personne morale	2							
 88	Groupe Valmonde	Personne morale	2							
 89	Valeurs actuelles	Média	3			GPE	Hebdomadaire			111002
 90	Mieux vivre votre argent	Média	3			GPE	Mensuel			131803
 91	Yves de Chaisemartin	Personne physique	1							
-92	Daniel Křetínský	Personne physique	1		818					
+92	Daniel Křetínský	Personne physique	1		504					
 93	Czech Media Invest	Personne morale	2							
 94	Marianne	Média	3			GPE	Hebdomadaire			132027
-95	François Pinault	Personne physique	1	5	29					
+95	François Pinault	Personne physique	1	7	32					
 96	Artémis	Personne morale	2							
 97	Groupe Sebdo-Le Point	Personne morale	2							
 98	Groupe L’Agefi	Personne morale	2							
@@ -117,7 +117,7 @@ id	nom	typeLibelle	typeCode	rangChallenges	milliardaireForbes	mediaType	mediaPer
 117	Georges Ghosn	Personne physique	1							
 118	Ghosn Capital	Personne morale	2							
 119	VSD	Média	3			GPE	Mensuel			
-120	Martin et Olivier Bouygues	Personne physique	1	41	800					
+120	Martin et Olivier Bouygues	Personne physique	1	35	687					
 121	Bouygues	Personne morale	2							
 122	Groupe TF1	Personne morale	2							
 123	TF1	Média	3			Télévision			Gratuit	
@@ -156,7 +156,7 @@ id	nom	typeLibelle	typeCode	rangChallenges	milliardaireForbes	mediaType	mediaPer
 159	La Croix	Média	3			GPE	Quotidien			85014
 160	Pèlerin	Média	3			GPE	Hebdomadaire			111938
 161	Notre temps	Média	3			GPE	Mensuel			675128
-162	Jean-Paul Baudecroux	Personne physique	1	241						
+162	Jean-Paul Baudecroux	Personne physique	1	314						
 163	NRJ Group	Personne morale	2							
 164	NRJ 12	Média	3			Télévision			Gratuit	
 165	Chérie 25	Média	3			Télévision				
@@ -301,11 +301,11 @@ id	nom	typeLibelle	typeCode	rangChallenges	milliardaireForbes	mediaType	mediaPer
 304	France Guyane	Média	3			GPE	Quotidien	Régional		
 305	Abdoul Cadjee	Personne physique	1							
 306	Le Journal de l’Île de la Réunion	Média	3			GPE	Quotidien	Régional		
-307	Ariane de Rothschild	Personne physique	1	27						
+307	Ariane de Rothschild	Personne physique	1	26						
 308	Lampsane Investissement SA	Personne morale	2							
 309	Slate.fr	Média	3			Site				
 313	Atlantico.fr	Média	3			Site				
-314	Franck Julien	Personne physique	1	139						
+314	Franck Julien	Personne physique	1	161						
 315	Edi Invest	Personne morale	2							
 316	Jean Christophe Tortora	Personne physique	1							
 317	Laurent Alexandre	Personne physique	1							
@@ -317,7 +317,7 @@ id	nom	typeLibelle	typeCode	rangChallenges	milliardaireForbes	mediaType	mediaPer
 323	Madison Cox	Personne physique	1							
 324	Alain Weill	Personne physique	1							
 325	Groupe L’Opinion	Personne morale	2							
-326	Ken Fisher	Personne physique	1		457					
+326	Ken Fisher	Personne physique	1		381					
 327	RMC Story	Média	3			Télévision			Gratuit	
 328	Nice-Matin	Personne morale	2							
 329	Fonds de Dotation pour une Presse Indépendante	Personne morale	2							
