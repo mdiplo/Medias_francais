@@ -42,7 +42,6 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 37	Groupe Figaro	100	Le Figaro	dassault.fr, offremedia.com	03/10/2017	14/05/2016 , 16/10/2017
 37	Groupe Figaro	100	Le Particulier	dassault.fr, offremedia.com	03/10/2017	14/05/2016 , 16/10/2017
 42	Bernard Arnault	46,6	LVMH			
-42	Bernard Arnault	27	Lagardère Capital & Management			
 43	LVMH	40	Groupe Perdriel			
 43	LVMH	100	Aujourd’hui en France	lvmh.fr	31/12/2015	28/06/2016
 43	LVMH	100	Groupe Les Échos	lvmh.fr	31/12/2015	28/06/2016
@@ -72,7 +71,6 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 61	Altice Média	100	RMC	investir.lesechos.fr	02/02/2016	14/05/2016
 61	Altice Média	100	RMC Découverte	investir.lesechos.fr	02/02/2016	14/05/2016
 67	Arnaud Lagardère	7,96	Lagardère SA			
-67	Arnaud Lagardère	73	Lagardère Capital & Management			
 68	Qatar Investment Authority	12,83	Lagardère SA			
 69	Lagardère SA	100	Lagardère News			
 81	Vivendi	27,6	Lagardère SA			
