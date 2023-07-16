@@ -77,7 +77,6 @@ id	nom	typeLibelle	typeCode	rangChallenges	milliardaireForbes	mediaType	mediaPer
 77	Vincent Bolloré	Personne physique	1	13	316					
 78	Financière de l’Odet	Personne morale	2							
 79	Bolloré	Personne morale	2							
-80	CNews	Média	3			GPE	Quotidien			
 81	Vivendi	Personne morale	2							
 82	Canal +	Média	3			Télévision			Payant	
 83	C8	Média	3			Télévision			Gratuit	
