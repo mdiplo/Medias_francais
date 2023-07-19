@@ -41,8 +41,9 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 37	Groupe Figaro	100	La Lettre de l’Expansion	dassault.fr, offremedia.com	03/10/2017	14/05/2016 , 16/10/2017
 37	Groupe Figaro	100	Le Figaro	dassault.fr, offremedia.com	03/10/2017	14/05/2016 , 16/10/2017
 37	Groupe Figaro	100	Le Particulier	dassault.fr, offremedia.com	03/10/2017	14/05/2016 , 16/10/2017
-42	Bernard Arnault	46,6	LVMH			
 42	Bernard Arnault	27	Lagardère Capital & Management			
+42	Bernard Arnault	contrôle	Agache SCA	wikipedia.org		19/07/2023
+348	Agache SCA	48,18	LVMH	wikipedia.org		19/07/2023
 43	LVMH	40	Groupe Perdriel			
 43	LVMH	100	Aujourd’hui en France	lvmh.fr	31/12/2015	28/06/2016
 43	LVMH	100	Groupe Les Échos	lvmh.fr	31/12/2015	28/06/2016
@@ -71,11 +72,11 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 61	Altice Média	100	RMC Story	https://fr.wikipedia.org/wiki/RMC_Story		13/11/2019
 61	Altice Média	100	RMC	investir.lesechos.fr	02/02/2016	14/05/2016
 61	Altice Média	100	RMC Découverte	investir.lesechos.fr	02/02/2016	14/05/2016
-67	Arnaud Lagardère	7,96	Lagardère SA			
-67	Arnaud Lagardère	73	Lagardère Capital & Management			
-68	Qatar Investment Authority	12,83	Lagardère SA			
+67	Arnaud Lagardère	11,11	Lagardère SA	lagardere.com	31/12/2022	19/07/2023
+68	Qatar Investment Authority	11,52	Lagardère SA	lagardere.com	31/12/2022	19/07/2023
 69	Lagardère SA	100	Lagardère News			
-81	Vivendi	27,6	Lagardère SA			
+81	Vivendi	57,66	Lagardère SA	lagardere.com	31/12/2022	19/07/2023
+348	Agache SCA	7,97	Lagardère SA	lagardere.com	31/12/2022	19/07/2023
 70	Lagardère News	100	Europe 1	lagardere.com	31/12/2015	14/05/2016
 70	Lagardère News	100	Le Journal du dimanche	lagardere.com	31/12/2015	14/05/2016
 70	Lagardère News	100	Paris Match	lagardere.com	31/12/2015	14/05/2016
@@ -316,7 +317,6 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 328	Nice-Matin	100	Monaco-Matin			
 328	Nice-Matin	100	France-Antilles			
 328	Nice-Matin	100	France-Guyane			
-330	Amber Capital	20	Lagardère SA			
 81	Vivendi	100	Prisma Media			
 327	NJJ	100	Paris-Turf			
 343	Czech Media Invest	100	Télé 7 Jours			
