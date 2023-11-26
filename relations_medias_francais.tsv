@@ -41,6 +41,7 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 37	Groupe Figaro	100	La Lettre de l’Expansion	dassault.fr, offremedia.com	03/10/2017	14/05/2016 , 16/10/2017
 37	Groupe Figaro	100	Le Figaro	dassault.fr, offremedia.com	03/10/2017	14/05/2016 , 16/10/2017
 37	Groupe Figaro	100	Le Particulier	dassault.fr, offremedia.com	03/10/2017	14/05/2016 , 16/10/2017
+37	Groupe Figaro	100	Gala	lesechos.fr	21/11/2023	26/11/2023
 42	Bernard Arnault	46,6	LVMH			
 42	Bernard Arnault	27	Lagardère Capital & Management			
 43	LVMH	40	Groupe Perdriel			
@@ -113,7 +114,6 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 106	Prisma Media	100	Harvard Business Review	investir.lesechos.fr	06/10/2014	14/05/2016
 106	Prisma Media	100	Management	investir.lesechos.fr	06/10/2014	14/05/2016
 106	Prisma Media	100	Télé-Loisirs			
-106	Prisma Media	100	Gala			
 106	Prisma Media	100	Voici			
 106	Prisma Media	100	Femme Actuelle			
 106	Prisma Media	100	National Geographic			
