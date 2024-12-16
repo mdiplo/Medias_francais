@@ -3,25 +3,22 @@
 
 ![Carte v.17](https://www.monde-diplomatique.fr/IMG/png/poster_medias_francais_8060-v17-4.png)
 
-**Les données sont organisées en deux tableaux :**
-- [medias_francais.tsv](https://github.com/mdiplo/Medias_francais/blob/master/medias_francais.tsv) contient l’ensemble des actionnaires (personnes physiques ou morales) et des médias représentés sur la carte
-- [relations_medias_francais.tsv](https://github.com/mdiplo/Medias_francais/blob/master/relations_medias_francais.tsv) détaille les liens capitalistiques entre ces actionnaires et les groupes ou médias qu’ils possèdent
+**Les données sont organisées en sept tableaux :**
 
-*Dernière mise à jour en décembre 2021*
+- [personnes.tsv](https://github.com/mdiplo/Medias_francais/blob/master/personnes.tsv), [medias.tsv](https://github.com/mdiplo/Medias_francais/blob/master/medias.tsv) et [organisations.tsv](https://github.com/mdiplo/Medias_francais/blob/master/organisations.tsv) contiennent les personnes physiques ou morales actionnaires
+- [personne-media.tsv](https://github.com/mdiplo/Medias_francais/blob/master/personne-media.tsv), [personne-organisation.tsv](https://github.com/mdiplo/Medias_francais/blob/master/personne-organisation.tsv), [organisation-organisation.tsv](https://github.com/mdiplo/Medias_francais/blob/master/organisation-organisation.tsv) et [organisation-media.tsv](https://github.com/mdiplo/Medias_francais/blob/master/organisation-media.tsv) détaillent les liens capitalistiques entre ces actionnaires et médias qu'ils possèdent
+
+
+
+*Mise à jour en décembre 2024*
 
 *Indication technique : pour ceux qui souhaitent participer à la mise à jour la base en faisant une pull request, veillez à ce que le fichier soit encodé en UTF-8 avec des sauts de ligne unix afin que l'on puisse la fusionner le tout sans conflit.*
 
 
 **Méthodologie**
 
-Nous avons pris le parti de la lisibilité plutôt que de l’exhaustivité. Figurent dans cette base des médias d’information qui « font l’opinion » et qui dépendent d’intérêts industriels ou financiers, de groupes de presse ou de l’État :
-- les titres de presse écrite papier à diffusion nationale de type généraliste, économique et politique ; 
-- les titres de la presse quotidienne régionale ; 
-- la télévision nationale (et quelques chaînes de télévision locales) ; 
-- les canaux de radio à portée nationale ; 
-- certains sites d’information en ligne.
+Ce graphique prend le parti de la lisibilité plutôt que de l’exhaustivité. Y figurent des médias d’information qui « font l’opinion » et qui, pour la plupart, dépendent d’intérêts industriels ou financiers, ou de l’État : publications (principalement) généralistes nationales, quotidiens et hebdomadaires régionaux, médias en ligne, audiovisuel national et quelques chaînes de télévision locales. Les titres et groupes de presse indépendants ainsi que la presse dite alternative ne sont pas représentés. Enfin, on a limité les liens capitalistiques aux principaux actionnaires et décideurs.
 
-Les journaux départementaux, les titres indépendants (comme « Le Canard enchaîné ») ainsi que la presse dite alternative ne sont pas représentés. Enfin, nous avons limité les liens capitalistiques aux principaux actionnaires. 
 
 Voir en ligne : https://www.monde-diplomatique.fr/cartes/PPA 
 
@@ -29,4 +26,3 @@ Voir en ligne : https://www.monde-diplomatique.fr/cartes/PPA
 
 
 [Licence ODC-By](https://github.com/mdiplo/Medias_francais/blob/master/LICENSE.txt) : Open Data Commons Attribution License ([ODC-By v1.0](https://opendatacommons.org/licenses/by/1.0/))
-
