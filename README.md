@@ -5,7 +5,7 @@
 
 **Les données sont organisées en sept tableaux :**
 
-- [personnes.tsv](https://github.com/mdiplo/Medias_francais/blob/master/personnes.tsv), [medias.tsv](https://github.com/mdiplo/Medias_francais/blob/master/medias.tsv) et [organisations.tsv](https://github.com/mdiplo/Medias_francais/blob/master/organisations.tsv) contiennent les personnes physiques ou morales actionnaires
+- [personnes.tsv](https://github.com/mdiplo/Medias_francais/blob/master/personnes.tsv), [medias.tsv](https://github.com/mdiplo/Medias_francais/blob/master/medias.tsv) et [organisations.tsv](https://github.com/mdiplo/Medias_francais/blob/master/organisations.tsv) contiennent les médias, personnes physiques ou morales actionnaires
 - [personne-media.tsv](https://github.com/mdiplo/Medias_francais/blob/master/personne-media.tsv), [personne-organisation.tsv](https://github.com/mdiplo/Medias_francais/blob/master/personne-organisation.tsv), [organisation-organisation.tsv](https://github.com/mdiplo/Medias_francais/blob/master/organisation-organisation.tsv) et [organisation-media.tsv](https://github.com/mdiplo/Medias_francais/blob/master/organisation-media.tsv) détaillent les liens capitalistiques entre ces actionnaires et médias qu'ils possèdent
 
 
